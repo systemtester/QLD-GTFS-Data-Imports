@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-12052' visible='true' lat='-26.617898999999994' lon='152.89783'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830022' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nambour Mapleton Rd at Shamley Heath Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12051' visible='true' lat='-26.625710000000005' lon='152.958088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='301495' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nambour station' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12050' visible='true' lat='-26.85742' lon='152.957901'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830044' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Simpson St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12049' visible='true' lat='-26.759073000000004' lon='152.85289'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830010' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Maleny Branch Library' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12048' visible='true' lat='-26.662933' lon='152.881281'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830032' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mapleton Montville Rd at Flaxton Mill Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12047' visible='true' lat='-26.775894' lon='152.893204'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830007' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mountain View Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12046' visible='true' lat='-26.625827' lon='152.96043'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830025' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lowe St near Ann St (ANZ Bank)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12045' visible='true' lat='-26.789968' lon='152.922256'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830003' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gentle Annie Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12044' visible='true' lat='-26.689164999999996' lon='152.892944'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830015' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Montville State School' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12043' visible='true' lat='-26.808104' lon='152.966064'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830000' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landsborough Station' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12042' visible='true' lat='-26.775564' lon='152.893982'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830036' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mountain View Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12041' visible='true' lat='-26.758308000000003' lon='152.850479'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830011' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cooke Park' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12040' visible='true' lat='-26.670679' lon='152.879244'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830033' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mapleton Montville Rd at Kondalilla Falls Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12039' visible='true' lat='-26.768417' lon='152.886063'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830008' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Glens Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12038' visible='true' lat='-26.861975' lon='152.951294'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830045' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roberts Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12037' visible='true' lat='-26.622966999999992' lon='152.86606'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830019' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mapleton Post Office' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12036' visible='true' lat='-26.620517000000007' lon='152.93371300000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830030' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nambour Mapleton Rd at Windsor Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12035' visible='true' lat='-26.785471' lon='152.920578'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830004' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The Lookout' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12034' visible='true' lat='-26.794067' lon='152.93507399999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830040' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ocean View Caravan Park' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12033' visible='true' lat='-26.670669' lon='152.879118'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830016' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Flaxton Drive near  Kondalilla Falls Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12032' visible='true' lat='-26.804965999999997' lon='152.959183'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830001' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Peace Park' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12031' visible='true' lat='-26.775057' lon='152.898773'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830037' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The Big Barrel (opp)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12030' visible='true' lat='-26.764471' lon='152.860336'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830012' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McCarthys Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12029' visible='true' lat='-26.785501' lon='152.92031899999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830049' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The Lookout' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12028' visible='true' lat='-26.763617' lon='152.886381'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830034' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Maleny Montville Rd at Sinclairs Lane' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12027' visible='true' lat='-26.764536000000003' lon='152.860168'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830009' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McCarthys Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12026' visible='true' lat='-26.858318' lon='152.948151'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830046' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roxton Ct' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12025' visible='true' lat='-26.619906999999998' lon='152.861984'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830020' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Post Office Rd app Tamarin Drive' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12024' visible='true' lat='-26.652307999999998' lon='152.877197'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830031' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Flaxton Gardens' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12023' visible='true' lat='-26.778526' lon='152.907471'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830005' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alfs Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12022' visible='true' lat='-26.804717999999998' lon='152.95904499999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830041' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Illing Crt' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12021' visible='true' lat='-26.662855000000004' lon='152.881452'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830017' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Flaxton Drive near Flaxton Mill Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12020' visible='true' lat='-26.778306999999998' lon='152.90751600000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830038' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alfs Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12019' visible='true' lat='-26.764971999999997' lon='152.88587600000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830013' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grandview Rd at Maleny Montville Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12018' visible='true' lat='-26.832278999999993' lon='152.958176'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830050' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pinelands Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12017' visible='true' lat='-26.76819' lon='152.885818'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830035' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Maleny Montville Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12016' visible='true' lat='-26.855502999999995' lon='152.947906'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830047' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Chantilly Crescent' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12015' visible='true' lat='-26.624375000000008' lon='152.865379'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830021' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Obi Obi Rd at Delica Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12014' visible='true' lat='-26.832063999999995' lon='152.958389'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830043' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pinelands Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12013' visible='true' lat='-26.652352999999994' lon='152.877111'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830018' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Flaxton Drive at Nimbus Drive' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12012' visible='true' lat='-26.790001000000004' lon='152.922409'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830039' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gentle Annie Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12011' visible='true' lat='-26.775209' lon='152.899033'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830006' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The Big Barrel' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12010' visible='true' lat='-26.620435' lon='152.933649'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830023' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nambour Mapleton Rd near Windsor Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12009' visible='true' lat='-26.794133999999996' lon='152.935287'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830002' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Maleny Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-12008' visible='true' lat='-26.852196' lon='152.955292'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='830048' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='North Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>

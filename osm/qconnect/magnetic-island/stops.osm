@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-11689' visible='true' lat='-19.156652' lon='146.854874'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820028' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sooning St Kirk St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11688' visible='true' lat='-19.158751' lon='146.848862'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820014' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kelly St App Sooning St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11687' visible='true' lat='-19.123821' lon='146.862289'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820045' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Horseshoe Bay Rd App Apjohn St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11686' visible='true' lat='-19.153214999999996' lon='146.849396'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820024' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mandalay Ave App Barton St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11685' visible='true' lat='-19.17045' lon='146.846603'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820007' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nelly Bay Rd App Lilac St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11684' visible='true' lat='-19.148085' lon='146.865265'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820035' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hayles Ave App Endeavour Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11683' visible='true' lat='-19.151972' lon='146.845627'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820021' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Elena St Trana Ct' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11682' visible='true' lat='-19.175077' lon='146.837616'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820004' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Granite St App Birt St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11681' visible='true' lat='-19.151726000000004' lon='146.861542'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820032' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McCabe Cr App Bright Ave' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11680' visible='true' lat='-19.154856' lon='146.84754900000001'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820018' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mango Pkwy' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11679' visible='true' lat='-19.179977' lon='146.837769'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820001' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Esplanade App Yule St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11678' visible='true' lat='-19.158762' lon='146.85636900000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820050' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sooning St- Boulder Ct' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11677' visible='true' lat='-19.158747' lon='146.85632299999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820029' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sooning St Boulder Ct' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11676' visible='true' lat='-19.129444' lon='146.862732'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820039' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Horseshoe Bay Rd Opp Nautilus St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11675' visible='true' lat='-19.127338' lon='146.86262499999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820046' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Magnetic Island Rd Gifford St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11674' visible='true' lat='-19.153269' lon='146.849655'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820025' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mandalay Ave App Dorothy St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11673' visible='true' lat='-19.170879' lon='146.84672499999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820008' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nelly Bay Rd Lilac St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11672' visible='true' lat='-19.147753' lon='146.867508'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820036' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hayles Ave Cook Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11671' visible='true' lat='-19.152132' lon='146.84628300000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820022' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Elena St Mandalay Ave' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11670' visible='true' lat='-19.173485000000003' lon='146.839676'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820005' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Birt St Magnetic St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11669' visible='true' lat='-19.149794' lon='146.862732'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820033' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hayles Ave App McCabe Cr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11668' visible='true' lat='-19.160621999999996' lon='146.844589'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820011' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yates St App Compass Cr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11667' visible='true' lat='-19.177458' lon='146.838974'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820002' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Granite St App Barbarra St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11666' visible='true' lat='-19.153544999999998' lon='146.860901'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820030' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marine Pde App Bright Ave' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11665' visible='true' lat='-19.127079' lon='146.862518'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820040' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Magnetic Island Rd App Gifford St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11664' visible='true' lat='-19.132511' lon='146.868912'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820047' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Horseshoe Bay Rd App Radical Bay Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11663' visible='true' lat='-19.155605' lon='146.851898'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820026' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mandalay Ave Opp Robson St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11662' visible='true' lat='-19.163969' lon='146.84668'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820009' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nelly Bay Rd App Lilac St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11661' visible='true' lat='-19.148859' lon='146.86767599999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820037' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Armand Way App Hayles Ave' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11660' visible='true' lat='-19.158732999999998' lon='146.848999'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820015' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kelly St Sooning St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11659' visible='true' lat='-19.173596999999997' lon='146.839752'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820006' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Birt St App Magnetic St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11658' visible='true' lat='-19.148384' lon='146.863922'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820034' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Appian Way Opp Appian Way' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11657' visible='true' lat='-19.161596' lon='146.847595'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820012' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yates St App Warboys St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11656' visible='true' lat='-19.123631' lon='146.862198'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820042' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Horseshoe Bay Rd Apjohn St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11655' visible='true' lat='-19.155001' lon='146.847794'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820019' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mango Pkwy App Barton St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11654' visible='true' lat='-19.164295' lon='146.847168'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820010' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nelly Bay Rd Lilac St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11653' visible='true' lat='-19.132563' lon='146.868729'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820038' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Horseshoe Bay Rd Opp Radical Bay Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11652' visible='true' lat='-19.156876' lon='146.847992'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820016' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murray St App Turnbridge St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11651' visible='true' lat='-19.155588' lon='146.852066'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820027' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mandalay Ave App Robson St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11650' visible='true' lat='-19.161655' lon='146.847534'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820013' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yates St App Sooning St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11649' visible='true' lat='-19.117012' lon='146.862198'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820044' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pacific Drive' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11648' visible='true' lat='-19.151735' lon='146.847809'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820023' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mandalay Ave Opp Elena St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11647' visible='true' lat='-19.121176' lon='146.861954'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820043' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Horseshoe Bay Rd App Heath St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11646' visible='true' lat='-19.1534' lon='146.843399'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820020' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Elena St App Kelly St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11645' visible='true' lat='-19.177285999999995' lon='146.839005'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820003' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Granite St App Picnic St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11644' visible='true' lat='-19.153502000000003' lon='146.861465'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820031' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marine Pde Opp Bright Ave' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11643' visible='true' lat='-19.156694' lon='146.84829699999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820017' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murray St App Turnbridge St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-11642' visible='true' lat='-19.175051000000003' lon='146.837769'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='820048' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Granite St far side Birt St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>

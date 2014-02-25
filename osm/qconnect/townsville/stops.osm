@@ -1,0 +1,4535 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-27154' visible='true' lat='-19.243724' lon='146.8013'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890191' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Primrose / Rose' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890191/gtfs/' />
+  </node>
+  <node id='-27153' visible='true' lat='-19.23508' lon='146.785698'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890128' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='RSL Villas' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890128/gtfs/' />
+  </node>
+  <node id='-27152' visible='true' lat='-19.246709000000003' lon='146.804339'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890051' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landsborough St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890051/gtfs/' />
+  </node>
+  <node id='-27151' visible='true' lat='-19.201438999999997' lon='146.673698'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890647' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lionel Turner Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890647/gtfs/' />
+  </node>
+  <node id='-27150' visible='true' lat='-19.274628' lon='146.749047'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890078' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Louisa Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890078/gtfs/' />
+  </node>
+  <node id='-27149' visible='true' lat='-19.283176' lon='146.750317'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890008' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Louisa Ck' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890008/gtfs/' />
+  </node>
+  <node id='-27148' visible='true' lat='-19.376889' lon='146.730179'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890494' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yut Fay Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890494/gtfs/' />
+  </node>
+  <node id='-27147' visible='true' lat='-19.277929' lon='146.818097'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890412' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tenth Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890412/gtfs/' />
+  </node>
+  <node id='-27146' visible='true' lat='-19.280594' lon='146.779479'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890332' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McDougall St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890332/gtfs/' />
+  </node>
+  <node id='-27145' visible='true' lat='-19.298950000000005' lon='146.74913000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890268' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ellimatta Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890268/gtfs/' />
+  </node>
+  <node id='-27144' visible='true' lat='-19.31853' lon='146.814148'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890297' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stuart / Watt (Wulguru)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890297/gtfs/' />
+  </node>
+  <node id='-27143' visible='true' lat='-19.283166' lon='146.789019'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890225' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gladstone St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890225/gtfs/' />
+  </node>
+  <node id='-27142' visible='true' lat='-19.281007' lon='146.798636'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890631' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater Tce' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890631/gtfs/' />
+  </node>
+  <node id='-27141' visible='true' lat='-19.257415' lon='146.775573'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890143' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Halifax St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890143/gtfs/' />
+  </node>
+  <node id='-27140' visible='true' lat='-19.273311' lon='146.761233'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890072' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater / Duckworth' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890072/gtfs/' />
+  </node>
+  <node id='-27139' visible='true' lat='-19.2885' lon='146.76427900000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890002' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vincent State School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890002/gtfs/' />
+  </node>
+  <node id='-27138' visible='true' lat='-19.193834' lon='146.675714'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890563' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890563/gtfs/' />
+  </node>
+  <node id='-27137' visible='true' lat='-19.286182' lon='146.797211'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890434' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsend St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890434/gtfs/' />
+  </node>
+  <node id='-27136' visible='true' lat='-19.279743' lon='146.76836900000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890354' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Palmerston / Cambridge' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890354/gtfs/' />
+  </node>
+  <node id='-27135' visible='true' lat='-19.268242' lon='146.80073200000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890282' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pridmore St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890282/gtfs/' />
+  </node>
+  <node id='-27134' visible='true' lat='-19.263283' lon='146.814005'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890219' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Blackwood St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890219/gtfs/' />
+  </node>
+  <node id='-27133' visible='true' lat='-19.325272999999996' lon='146.810234'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890670' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edison / Newton' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890670/gtfs/' />
+  </node>
+  <node id='-27132' visible='true' lat='-19.31979' lon='146.74695400000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890169' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Siris Pl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890169/gtfs/' />
+  </node>
+  <node id='-27131' visible='true' lat='-19.359445' lon='146.73211199999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890590' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sonia St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890590/gtfs/' />
+  </node>
+  <node id='-27130' visible='true' lat='-19.29719' lon='146.767164'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890090' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890090/gtfs/' />
+  </node>
+  <node id='-27129' visible='true' lat='-19.273539' lon='146.76602699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890020' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pilkington St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890020/gtfs/' />
+  </node>
+  <node id='-27128' visible='true' lat='-19.252935' lon='146.687604'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890549' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Innes Estate' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890549/gtfs/' />
+  </node>
+  <node id='-27127' visible='true' lat='-19.309043' lon='146.734256'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890453' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kirwan State High School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890453/gtfs/' />
+  </node>
+  <node id='-27126' visible='true' lat='-19.325048' lon='146.819166'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890386' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wright St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890386/gtfs/' />
+  </node>
+  <node id='-27125' visible='true' lat='-19.346263000000004' lon='146.834709'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890309' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gully St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890309/gtfs/' />
+  </node>
+  <node id='-27124' visible='true' lat='-19.258283' lon='146.816737'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890652' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sturt Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890652/gtfs/' />
+  </node>
+  <node id='-27123' visible='true' lat='-19.293432' lon='146.75865999999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890238' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brampton Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890238/gtfs/' />
+  </node>
+  <node id='-27122' visible='true' lat='-19.313073' lon='146.742785'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890610' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890610/gtfs/' />
+  </node>
+  <node id='-27121' visible='true' lat='-19.314958' lon='146.761714'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890155' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tennant St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890155/gtfs/' />
+  </node>
+  <node id='-27120' visible='true' lat='-19.287262' lon='146.750798'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890084' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Angus Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890084/gtfs/' />
+  </node>
+  <node id='-27119' visible='true' lat='-19.240229' lon='146.65349'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890575' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Veales Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890575/gtfs/' />
+  </node>
+  <node id='-27118' visible='true' lat='-19.300164' lon='146.756139'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890447' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ignatius Park College' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890447/gtfs/' />
+  </node>
+  <node id='-27117' visible='true' lat='-19.265527' lon='146.829949'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890366' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nelson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890366/gtfs/' />
+  </node>
+  <node id='-27116' visible='true' lat='-19.297591' lon='146.74199899999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890261' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Luxton St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890261/gtfs/' />
+  </node>
+  <node id='-27115' visible='true' lat='-19.265699' lon='146.783202'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890186' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Garbutt Shopping Centre (Hugh St)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890186/gtfs/' />
+  </node>
+  <node id='-27114' visible='true' lat='-19.259237' lon='146.775245'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890112' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dearness St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890112/gtfs/' />
+  </node>
+  <node id='-27113' visible='true' lat='-19.322271' lon='146.727844'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890602' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gregory St (Condon)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890602/gtfs/' />
+  </node>
+  <node id='-27112' visible='true' lat='-19.250341' lon='146.789451'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890037' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Common Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890037/gtfs/' />
+  </node>
+  <node id='-27111' visible='true' lat='-19.362899' lon='146.731887'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890471' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverway Dr (Rasmussen)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890471/gtfs/' />
+  </node>
+  <node id='-27110' visible='true' lat='-19.300574' lon='146.72786999999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890396' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tottenham Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890396/gtfs/' />
+  </node>
+  <node id='-27109' visible='true' lat='-19.314289000000002' lon='146.771748'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890327' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yolanda Dr Shops' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890327/gtfs/' />
+  </node>
+  <node id='-27108' visible='true' lat='-19.311879' lon='146.73016800000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890255' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ridley St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890255/gtfs/' />
+  </node>
+  <node id='-27107' visible='true' lat='-19.318861' lon='146.738274'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890172' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freshwater Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890172/gtfs/' />
+  </node>
+  <node id='-27106' visible='true' lat='-19.261416' lon='146.786179'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890133' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ralston St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890133/gtfs/' />
+  </node>
+  <node id='-27105' visible='true' lat='-19.266877' lon='146.793424'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890064' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Humphrey St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890064/gtfs/' />
+  </node>
+  <node id='-27104' visible='true' lat='-19.293702' lon='146.79188699999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890626' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mabin St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890626/gtfs/' />
+  </node>
+  <node id='-27103' visible='true' lat='-19.336627' lon='146.719409'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890465' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Thuringowa State High School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890465/gtfs/' />
+  </node>
+  <node id='-27102' visible='true' lat='-19.318965' lon='146.81426399999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890389' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stuart / Watt (Wulguru)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890389/gtfs/' />
+  </node>
+  <node id='-27101' visible='true' lat='-19.26089' lon='146.814795'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890345' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville City' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890345/gtfs/' />
+  </node>
+  <node id='-27100' visible='true' lat='-19.293104' lon='146.759721'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890273' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brampton Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890273/gtfs/' />
+  </node>
+  <node id='-27099' visible='true' lat='-19.255722' lon='146.822873'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890204' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Centenary Fountain' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890204/gtfs/' />
+  </node>
+  <node id='-27098' visible='true' lat='-19.23951' lon='146.789062'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890127' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rowes Bay' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890127/gtfs/' />
+  </node>
+  <node id='-27097' visible='true' lat='-19.2483' lon='146.807219'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890050' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Burke St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890050/gtfs/' />
+  </node>
+  <node id='-27096' visible='true' lat='-19.200414' lon='146.67301600000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890645' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lynwood Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890645/gtfs/' />
+  </node>
+  <node id='-27095' visible='true' lat='-19.27441' lon='146.747352'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890077' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hastings St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890077/gtfs/' />
+  </node>
+  <node id='-27094' visible='true' lat='-19.271329' lon='146.744333'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890015' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stretton La' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890015/gtfs/' />
+  </node>
+  <node id='-27093' visible='true' lat='-19.379853' lon='146.730264'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890493' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hammond Way' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890493/gtfs/' />
+  </node>
+  <node id='-27092' visible='true' lat='-19.294144999999997' lon='146.817088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890408' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shannon St (Oonoonba Park)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890408/gtfs/' />
+  </node>
+  <node id='-27091' visible='true' lat='-19.274439' lon='146.801971'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890339' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Somer St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890339/gtfs/' />
+  </node>
+  <node id='-27090' visible='true' lat='-19.301773' lon='146.747434'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890267' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lerida St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890267/gtfs/' />
+  </node>
+  <node id='-27089' visible='true' lat='-19.302558' lon='146.801298'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890296' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Viles St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890296/gtfs/' />
+  </node>
+  <node id='-27088' visible='true' lat='-19.2817' lon='146.789439'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890224' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Park St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890224/gtfs/' />
+  </node>
+  <node id='-27087' visible='true' lat='-19.289018' lon='146.76909900000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890150' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lonsdale St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890150/gtfs/' />
+  </node>
+  <node id='-27086' visible='true' lat='-19.270244' lon='146.72976'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890639' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Louisa' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890639/gtfs/' />
+  </node>
+  <node id='-27085' visible='true' lat='-19.273943999999997' lon='146.76705'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890071' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pilkington St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890071/gtfs/' />
+  </node>
+  <node id='-27084' visible='true' lat='-19.290118000000003' lon='146.76625'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890001' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anne Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890001/gtfs/' />
+  </node>
+  <node id='-27083' visible='true' lat='-19.389066999999997' lon='146.730081'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890478' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yvette St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890478/gtfs/' />
+  </node>
+  <node id='-27082' visible='true' lat='-19.191785' lon='146.67708'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890562' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bushland Beach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890562/gtfs/' />
+  </node>
+  <node id='-27081' visible='true' lat='-19.283807' lon='146.79776'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890433' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Soule St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890433/gtfs/' />
+  </node>
+  <node id='-27080' visible='true' lat='-19.280633' lon='146.77895'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890352' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McDougall St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890352/gtfs/' />
+  </node>
+  <node id='-27079' visible='true' lat='-19.285145' lon='146.802861'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890290' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clayton St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890290/gtfs/' />
+  </node>
+  <node id='-27078' visible='true' lat='-19.262004' lon='146.81510400000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890218' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Flinders St West' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890218/gtfs/' />
+  </node>
+  <node id='-27077' visible='true' lat='-19.245932999999997' lon='146.649924'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890669' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Darling Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890669/gtfs/' />
+  </node>
+  <node id='-27076' visible='true' lat='-19.32083' lon='146.74886'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890168' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Creekwood Way' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890168/gtfs/' />
+  </node>
+  <node id='-27075' visible='true' lat='-19.262388' lon='146.747312'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890589' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Coral Coast Tourist Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890589/gtfs/' />
+  </node>
+  <node id='-27074' visible='true' lat='-19.28935' lon='146.766102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890089' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890089/gtfs/' />
+  </node>
+  <node id='-27073' visible='true' lat='-19.275995' lon='146.787374'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890027' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hindley St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890027/gtfs/' />
+  </node>
+  <node id='-27072' visible='true' lat='-19.261787000000005' lon='146.714365'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890548' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Coconut Glen Van Village' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890548/gtfs/' />
+  </node>
+  <node id='-27071' visible='true' lat='-19.284984' lon='146.802831'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890427' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clayton St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890427/gtfs/' />
+  </node>
+  <node id='-27070' visible='true' lat='-19.327398999999996' lon='146.816101'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890385' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Faraday St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890385/gtfs/' />
+  </node>
+  <node id='-27069' visible='true' lat='-19.346846' lon='146.842419'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890308' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mafeking St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890308/gtfs/' />
+  </node>
+  <node id='-27068' visible='true' lat='-19.258108' lon='146.816529'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890651' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sturt Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890651/gtfs/' />
+  </node>
+  <node id='-27067' visible='true' lat='-19.292847000000002' lon='146.761255'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890237' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Illoura St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890237/gtfs/' />
+  </node>
+  <node id='-27066' visible='true' lat='-19.326488' lon='146.760554'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890162' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Medicine' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890162/gtfs/' />
+  </node>
+  <node id='-27065' visible='true' lat='-19.248648' lon='146.67058799999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890583' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edinburgh Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890583/gtfs/' />
+  </node>
+  <node id='-27064' visible='true' lat='-19.283342999999995' lon='146.750327'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890083' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Louisa Ck' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890083/gtfs/' />
+  </node>
+  <node id='-27063' visible='true' lat='-19.238514' lon='146.665133'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890574' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway / Bruce Highway' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890574/gtfs/' />
+  </node>
+  <node id='-27062' visible='true' lat='-19.299001' lon='146.75851799999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890446' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cranbrae Village' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890446/gtfs/' />
+  </node>
+  <node id='-27061' visible='true' lat='-19.264023' lon='146.826551'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890365' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='South Townsville State Sch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890365/gtfs/' />
+  </node>
+  <node id='-27060' visible='true' lat='-19.334108' lon='146.82762'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890302' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dunk St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890302/gtfs/' />
+  </node>
+  <node id='-27059' visible='true' lat='-19.298845' lon='146.736106'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890185' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Burramugga Cres' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890185/gtfs/' />
+  </node>
+  <node id='-27058' visible='true' lat='-19.260955' lon='146.775027'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890111' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clarke St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890111/gtfs/' />
+  </node>
+  <node id='-27057' visible='true' lat='-19.332051' lon='146.724712'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890601' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gouldian / Lorikeet' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890601/gtfs/' />
+  </node>
+  <node id='-27056' visible='true' lat='-19.254149' lon='146.78781'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890036' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='William St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890036/gtfs/' />
+  </node>
+  <node id='-27055' visible='true' lat='-19.354532' lon='146.732355'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890470' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Santal Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890470/gtfs/' />
+  </node>
+  <node id='-27054' visible='true' lat='-19.311638' lon='146.784028'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890403' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Indigo Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890403/gtfs/' />
+  </node>
+  <node id='-27053' visible='true' lat='-19.314231' lon='146.774721'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890326' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cypress Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890326/gtfs/' />
+  </node>
+  <node id='-27052' visible='true' lat='-19.308583' lon='146.732363'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890254' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Thuringowa State High (Thuringowa Dr)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890254/gtfs/' />
+  </node>
+  <node id='-27051' visible='true' lat='-19.318847' lon='146.738405'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890171' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freshwater Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890171/gtfs/' />
+  </node>
+  <node id='-27050' visible='true' lat='-19.28612' lon='146.77114099999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890105' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheffield St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890105/gtfs/' />
+  </node>
+  <node id='-27049' visible='true' lat='-19.265088' lon='146.79365'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890063' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='North St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890063/gtfs/' />
+  </node>
+  <node id='-27048' visible='true' lat='-19.294988999999998' lon='146.788646'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890625' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mundingburra State School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890625/gtfs/' />
+  </node>
+  <node id='-27047' visible='true' lat='-19.334093' lon='146.720309'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890464' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jabiru Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890464/gtfs/' />
+  </node>
+  <node id='-27046' visible='true' lat='-19.320732' lon='146.815804'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890388' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edison St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890388/gtfs/' />
+  </node>
+  <node id='-27045' visible='true' lat='-19.263382' lon='146.813689'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890344' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Blackwood St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890344/gtfs/' />
+  </node>
+  <node id='-27044' visible='true' lat='-19.26778' lon='146.796412'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890281' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Echlin St (West End)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890281/gtfs/' />
+  </node>
+  <node id='-27043' visible='true' lat='-19.250198999999995' lon='146.815375'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890203' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Strand / Gregory' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890203/gtfs/' />
+  </node>
+  <node id='-27042' visible='true' lat='-19.241384' lon='146.791224'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890126' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rowes Bay Caravan Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890126/gtfs/' />
+  </node>
+  <node id='-27041' visible='true' lat='-19.250682' lon='146.811484'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890049' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kennedy St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890049/gtfs/' />
+  </node>
+  <node id='-27040' visible='true' lat='-19.293573' lon='146.741539'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890644' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mount View Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890644/gtfs/' />
+  </node>
+  <node id='-27039' visible='true' lat='-19.273368' lon='146.74405899999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890014' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bennett St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890014/gtfs/' />
+  </node>
+  <node id='-27038' visible='true' lat='-19.38469' lon='146.730242'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890492' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clint St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890492/gtfs/' />
+  </node>
+  <node id='-27037' visible='true' lat='-19.26265' lon='146.823448'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890419' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Davidson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890419/gtfs/' />
+  </node>
+  <node id='-27036' visible='true' lat='-19.276185' lon='146.80059699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890338' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oxford St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890338/gtfs/' />
+  </node>
+  <node id='-27035' visible='true' lat='-19.303706' lon='146.746277'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890266' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tapiolas Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890266/gtfs/' />
+  </node>
+  <node id='-27034' visible='true' lat='-19.300479' lon='146.800103'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890295' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Touch St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890295/gtfs/' />
+  </node>
+  <node id='-27033' visible='true' lat='-19.288749999999997' lon='146.78050500000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890231' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Barrier Reef Institute of TAFE' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890231/gtfs/' />
+  </node>
+  <node id='-27032' visible='true' lat='-19.287341' lon='146.771409'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890149' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tyrrell St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890149/gtfs/' />
+  </node>
+  <node id='-27031' visible='true' lat='-19.307744' lon='146.713812'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890638' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gardenia Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890638/gtfs/' />
+  </node>
+  <node id='-27030' visible='true' lat='-19.275357' lon='146.779818'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890070' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reardon St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890070/gtfs/' />
+  </node>
+  <node id='-27029' visible='true' lat='-19.298296' lon='146.764443'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890000' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stockland Aitkenvale (Elizabeth St)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890000/gtfs/' />
+  </node>
+  <node id='-27028' visible='true' lat='-19.384644' lon='146.73047800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890477' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clint St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890477/gtfs/' />
+  </node>
+  <node id='-27027' visible='true' lat='-19.192957' lon='146.672694'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890561' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mahogany Court' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890561/gtfs/' />
+  </node>
+  <node id='-27026' visible='true' lat='-19.281439' lon='146.798749'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890432' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater Tce' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890432/gtfs/' />
+  </node>
+  <node id='-27025' visible='true' lat='-19.312952' lon='146.776982'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890360' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='River Park Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890360/gtfs/' />
+  </node>
+  <node id='-27024' visible='true' lat='-19.282907' lon='146.805439'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890289' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bicentennial Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890289/gtfs/' />
+  </node>
+  <node id='-27023' visible='true' lat='-19.250981' lon='146.649342'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890668' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen Road' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890668/gtfs/' />
+  </node>
+  <node id='-27022' visible='true' lat='-19.259164' lon='146.814316'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890217' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890217/gtfs/' />
+  </node>
+  <node id='-27021' visible='true' lat='-19.261872000000004' lon='146.713554'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890588' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Coconut Glen Van Village' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890588/gtfs/' />
+  </node>
+  <node id='-27020' visible='true' lat='-19.319623999999997' lon='146.751252'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890167' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Southern Cross Cct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890167/gtfs/' />
+  </node>
+  <node id='-27019' visible='true' lat='-19.314976' lon='146.761233'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890101' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tennant St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890101/gtfs/' />
+  </node>
+  <node id='-27018' visible='true' lat='-19.275685' lon='146.784398'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890026' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater / Hugh' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890026/gtfs/' />
+  </node>
+  <node id='-27017' visible='true' lat='-19.211857' lon='146.670229'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890555' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway - 890555' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890555/gtfs/' />
+  </node>
+  <node id='-27016' visible='true' lat='-19.289103' lon='146.797996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890426' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Halloran St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890426/gtfs/' />
+  </node>
+  <node id='-27015' visible='true' lat='-19.327626' lon='146.813944'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890384' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haldane St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890384/gtfs/' />
+  </node>
+  <node id='-27014' visible='true' lat='-19.347336' lon='146.847261'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890307' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pretoria St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890307/gtfs/' />
+  </node>
+  <node id='-27013' visible='true' lat='-19.301531' lon='146.747688'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890244' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lerida St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890244/gtfs/' />
+  </node>
+  <node id='-27012' visible='true' lat='-19.246367' lon='146.675899'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890661' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Deeragun' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890661/gtfs/' />
+  </node>
+  <node id='-27011' visible='true' lat='-19.329944' lon='146.760256'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890161' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tropical Science' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890161/gtfs/' />
+  </node>
+  <node id='-27010' visible='true' lat='-19.248052000000005' lon='146.661646'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890582' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Geaney La' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890582/gtfs/' />
+  </node>
+  <node id='-27009' visible='true' lat='-19.280739' lon='146.750655'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890082' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pankina St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890082/gtfs/' />
+  </node>
+  <node id='-27008' visible='true' lat='-19.235966' lon='146.666459'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890573' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bonnett Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890573/gtfs/' />
+  </node>
+  <node id='-27007' visible='true' lat='-19.296384' lon='146.770647'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890444' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Charlotte St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890444/gtfs/' />
+  </node>
+  <node id='-27006' visible='true' lat='-19.294103' lon='146.817065'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890376' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shannon St (Oonoonba Park)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890376/gtfs/' />
+  </node>
+  <node id='-27005' visible='true' lat='-19.331385999999995' lon='146.825187'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890301' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Diamantina St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890301/gtfs/' />
+  </node>
+  <node id='-27004' visible='true' lat='-19.304778' lon='146.734158'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890184' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Thuringowa / Charles' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890184/gtfs/' />
+  </node>
+  <node id='-27003' visible='true' lat='-19.334083' lon='146.723131'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890600' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Falcon Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890600/gtfs/' />
+  </node>
+  <node id='-27002' visible='true' lat='-19.262323' lon='146.774864'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890110' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lonerganne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890110/gtfs/' />
+  </node>
+  <node id='-27001' visible='true' lat='-19.247371' lon='146.805925'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890043' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landsborough St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890043/gtfs/' />
+  </node>
+  <node id='-27000' visible='true' lat='-19.213647' lon='146.670442'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890567' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway 890567' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890567/gtfs/' />
+  </node>
+  <node id='-26999' visible='true' lat='-19.293712' lon='146.74445199999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890402' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Joyce St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890402/gtfs/' />
+  </node>
+  <node id='-26998' visible='true' lat='-19.313177' lon='146.776204'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890325' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='River Park Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890325/gtfs/' />
+  </node>
+  <node id='-26997' visible='true' lat='-19.305399' lon='146.734143'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890253' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Thuringowa / Charles' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890253/gtfs/' />
+  </node>
+  <node id='-26996' visible='true' lat='-19.316519' lon='146.75286999999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890178' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverside Community Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890178/gtfs/' />
+  </node>
+  <node id='-26995' visible='true' lat='-19.2955' lon='146.733506'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890674' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Greenwood Ave Overton Cir' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890674/gtfs/' />
+  </node>
+  <node id='-26994' visible='true' lat='-19.288481' lon='146.77058000000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890104' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Swanson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890104/gtfs/' />
+  </node>
+  <node id='-26993' visible='true' lat='-19.261698' lon='146.792234'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890062' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ralston St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890062/gtfs/' />
+  </node>
+  <node id='-26992' visible='true' lat='-19.294891' lon='146.785256'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890624' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mango Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890624/gtfs/' />
+  </node>
+  <node id='-26991' visible='true' lat='-19.334145' lon='146.723312'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890463' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Falcon Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890463/gtfs/' />
+  </node>
+  <node id='-26990' visible='true' lat='-19.32378' lon='146.8183'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890387' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marconi St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890387/gtfs/' />
+  </node>
+  <node id='-26989' visible='true' lat='-19.314577000000003' lon='146.790342'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890319' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wave Hill Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890319/gtfs/' />
+  </node>
+  <node id='-26988' visible='true' lat='-19.284893' lon='146.788716'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890280' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Derby St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890280/gtfs/' />
+  </node>
+  <node id='-26987' visible='true' lat='-19.25073' lon='146.81559599999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890196' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Strand / Gregory' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890196/gtfs/' />
+  </node>
+  <node id='-26986' visible='true' lat='-19.244295' lon='146.79811999999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890125' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marshall St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890125/gtfs/' />
+  </node>
+  <node id='-26985' visible='true' lat='-19.250335' lon='146.78982899999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890056' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Common Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890056/gtfs/' />
+  </node>
+  <node id='-26984' visible='true' lat='-19.296644' lon='146.768284'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890618' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890618/gtfs/' />
+  </node>
+  <node id='-26983' visible='true' lat='-19.274647' lon='146.748902'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890013' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hastings St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890013/gtfs/' />
+  </node>
+  <node id='-26982' visible='true' lat='-19.26252' lon='146.74832299999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890547' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Coral Coast Tourist Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890547/gtfs/' />
+  </node>
+  <node id='-26981' visible='true' lat='-19.263636' lon='146.825578'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890418' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='South Townsville State Sch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890418/gtfs/' />
+  </node>
+  <node id='-26980' visible='true' lat='-19.277224' lon='146.799356'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890337' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mater Womens and Childrens Hospital' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890337/gtfs/' />
+  </node>
+  <node id='-26979' visible='true' lat='-19.304781' lon='146.744207'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890265' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sabadell St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890265/gtfs/' />
+  </node>
+  <node id='-26978' visible='true' lat='-19.24358' lon='146.80128900000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890190' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Primrose / Rose' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890190/gtfs/' />
+  </node>
+  <node id='-26977' visible='true' lat='-19.289098999999997' lon='146.78402200000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890230' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pimlico State High School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890230/gtfs/' />
+  </node>
+  <node id='-26976' visible='true' lat='-19.281915' lon='146.771771'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890148' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tippett St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890148/gtfs/' />
+  </node>
+  <node id='-26975' visible='true' lat='-19.305267' lon='146.717685'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890637' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Golf Links / Sandstone' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890637/gtfs/' />
+  </node>
+  <node id='-26974' visible='true' lat='-19.275819' lon='146.784339'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890069' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater / Hugh' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890069/gtfs/' />
+  </node>
+  <node id='-26973' visible='true' lat='-19.287307999999996' lon='146.75065'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890007' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Angus Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890007/gtfs/' />
+  </node>
+  <node id='-26972' visible='true' lat='-19.379963' lon='146.730448'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890476' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hammond Way' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890476/gtfs/' />
+  </node>
+  <node id='-26971' visible='true' lat='-19.189648999999996' lon='146.670464'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890560' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Coutts Drive' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890560/gtfs/' />
+  </node>
+  <node id='-26970' visible='true' lat='-19.295295' lon='146.787019'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890439' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Briarfield St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890439/gtfs/' />
+  </node>
+  <node id='-26969' visible='true' lat='-19.314114999999997' lon='146.774643'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890359' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cypress Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890359/gtfs/' />
+  </node>
+  <node id='-26968' visible='true' lat='-19.280837' lon='146.807898'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890288' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ahearne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890288/gtfs/' />
+  </node>
+  <node id='-26967' visible='true' lat='-19.260878' lon='146.72691600000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890667' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trade Training Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890667/gtfs/' />
+  </node>
+  <node id='-26966' visible='true' lat='-19.260281' lon='146.820784'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890215' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Palmer St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890215/gtfs/' />
+  </node>
+  <node id='-26965' visible='true' lat='-19.257073' lon='146.77677899999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890142' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lockheed St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890142/gtfs/' />
+  </node>
+  <node id='-26964' visible='true' lat='-19.340435' lon='146.725423'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890595' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pinnacle Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890595/gtfs/' />
+  </node>
+  <node id='-26963' visible='true' lat='-19.324388' lon='146.750767'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890100' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='George Roberts Hall' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890100/gtfs/' />
+  </node>
+  <node id='-26962' visible='true' lat='-19.275349' lon='146.781268'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890025' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hugh St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890025/gtfs/' />
+  </node>
+  <node id='-26961' visible='true' lat='-19.22003' lon='146.669995'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890554' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway  890554' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890554/gtfs/' />
+  </node>
+  <node id='-26960' visible='true' lat='-19.292661' lon='146.795935'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890425' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bowen Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890425/gtfs/' />
+  </node>
+  <node id='-26959' visible='true' lat='-19.328417' lon='146.8112'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890383' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kepler St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890383/gtfs/' />
+  </node>
+  <node id='-26958' visible='true' lat='-19.326654' lon='146.820824'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890314' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Royal St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890314/gtfs/' />
+  </node>
+  <node id='-26957' visible='true' lat='-19.298994' lon='146.749219'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890243' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ellimatta Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890243/gtfs/' />
+  </node>
+  <node id='-26956' visible='true' lat='-19.249387' lon='146.676915'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890660' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodland Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890660/gtfs/' />
+  </node>
+  <node id='-26955' visible='true' lat='-19.331364' lon='146.759505'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890160' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Engineering' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890160/gtfs/' />
+  </node>
+  <node id='-26954' visible='true' lat='-19.251324' lon='146.655464'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890581' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen Rd 890581' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890581/gtfs/' />
+  </node>
+  <node id='-26953' visible='true' lat='-19.279002' lon='146.749674'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890081' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='High Vista Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890081/gtfs/' />
+  </node>
+  <node id='-26952' visible='true' lat='-19.273121' lon='146.76098099999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890019' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater / Duckworth' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890019/gtfs/' />
+  </node>
+  <node id='-26951' visible='true' lat='-19.233674' lon='146.668288'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890572' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Frendon Pde' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890572/gtfs/' />
+  </node>
+  <node id='-26950' visible='true' lat='-19.307401999999996' lon='146.73822899999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890452' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Malbon Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890452/gtfs/' />
+  </node>
+  <node id='-26949' visible='true' lat='-19.277855' lon='146.818141'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890372' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tenth Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890372/gtfs/' />
+  </node>
+  <node id='-26948' visible='true' lat='-19.328529' lon='146.822747'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890300' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Culgoa St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890300/gtfs/' />
+  </node>
+  <node id='-26947' visible='true' lat='-19.30851' lon='146.73216'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890183' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kirwan State High School (Thuringowa Dr)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890183/gtfs/' />
+  </node>
+  <node id='-26946' visible='true' lat='-19.263282' lon='146.777767'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890119' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Peel St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890119/gtfs/' />
+  </node>
+  <node id='-26945' visible='true' lat='-19.311965' lon='146.74019799999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890607' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ferntree St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890607/gtfs/' />
+  </node>
+  <node id='-26944' visible='true' lat='-19.245007' lon='146.799961'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890042' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Howitt St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890042/gtfs/' />
+  </node>
+  <node id='-26943' visible='true' lat='-19.209156' lon='146.670567'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890566' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway 890566' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890566/gtfs/' />
+  </node>
+  <node id='-26942' visible='true' lat='-19.289787' lon='146.738897'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890401' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cavill Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890401/gtfs/' />
+  </node>
+  <node id='-26941' visible='true' lat='-19.311654999999995' lon='146.778271'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890324' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Larkspur Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890324/gtfs/' />
+  </node>
+  <node id='-26940' visible='true' lat='-19.295485' lon='146.743088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890260' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McBride St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890260/gtfs/' />
+  </node>
+  <node id='-26939' visible='true' lat='-19.318364999999996' lon='146.751519'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890177' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Southern Cross Cct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890177/gtfs/' />
+  </node>
+  <node id='-26938' visible='true' lat='-19.278309' lon='146.632843'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890673' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Test stop texas St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-26937' visible='true' lat='-19.289262' lon='146.767537'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890103' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lonsdale St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890103/gtfs/' />
+  </node>
+  <node id='-26936' visible='true' lat='-19.260714' lon='146.789027'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890061' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Crauford St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890061/gtfs/' />
+  </node>
+  <node id='-26935' visible='true' lat='-19.295111' lon='146.781736'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890623' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ross River Rd / Gulliver St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890623/gtfs/' />
+  </node>
+  <node id='-26934' visible='true' lat='-19.331985' lon='146.72107699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890462' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bellbird St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890462/gtfs/' />
+  </node>
+  <node id='-26933' visible='true' lat='-19.295418' lon='146.73403200000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890395' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wheeler Cct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890395/gtfs/' />
+  </node>
+  <node id='-26932' visible='true' lat='-19.316581' lon='146.791153'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890318' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Annandale Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890318/gtfs/' />
+  </node>
+  <node id='-26931' visible='true' lat='-19.289145' lon='146.788249'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890279' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mater Hospital' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890279/gtfs/' />
+  </node>
+  <node id='-26930' visible='true' lat='-19.253067' lon='146.81846'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890195' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The strand app Fryer Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890195/gtfs/' />
+  </node>
+  <node id='-26929' visible='true' lat='-19.200427' lon='146.77109600000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890132' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wackett St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890132/gtfs/' />
+  </node>
+  <node id='-26928' visible='true' lat='-19.249302' lon='146.791364'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890055' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Evans St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890055/gtfs/' />
+  </node>
+  <node id='-26927' visible='true' lat='-19.299218999999997' lon='146.757108'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890616' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ignatius Park College' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890616/gtfs/' />
+  </node>
+  <node id='-26926' visible='true' lat='-19.274987' lon='146.749876'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890012' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Banora Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890012/gtfs/' />
+  </node>
+  <node id='-26925' visible='true' lat='-19.361925000000003' lon='146.73177299999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890498' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverway Dr (Rasmussen)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890498/gtfs/' />
+  </node>
+  <node id='-26924' visible='true' lat='-19.265201' lon='146.829036'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890417' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nelson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890417/gtfs/' />
+  </node>
+  <node id='-26923' visible='true' lat='-19.276976' lon='146.796909'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890336' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sussex Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890336/gtfs/' />
+  </node>
+  <node id='-26922' visible='true' lat='-19.293866' lon='146.75645'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890272' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lindeman Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890272/gtfs/' />
+  </node>
+  <node id='-26921' visible='true' lat='-19.244181' lon='146.798036'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890189' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marshall St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890189/gtfs/' />
+  </node>
+  <node id='-26920' visible='true' lat='-19.28934' lon='146.786312'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890229' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Diprose St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890229/gtfs/' />
+  </node>
+  <node id='-26919' visible='true' lat='-19.31816' lon='146.709421'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890636' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kirwan (Golf Links Dr)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890636/gtfs/' />
+  </node>
+  <node id='-26918' visible='true' lat='-19.266122' lon='146.782455'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890147' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Garbutt Shopping Centre (Ingham Rd)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890147/gtfs/' />
+  </node>
+  <node id='-26917' visible='true' lat='-19.273289999999996' lon='146.743919'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890076' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bennett St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890076/gtfs/' />
+  </node>
+  <node id='-26916' visible='true' lat='-19.287961' lon='146.753788'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890006' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Heatley Secondary College' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890006/gtfs/' />
+  </node>
+  <node id='-26915' visible='true' lat='-19.376551999999997' lon='146.73031299999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890475' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yut Fay Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890475/gtfs/' />
+  </node>
+  <node id='-26914' visible='true' lat='-19.304098' lon='146.820175'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890407' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McPherson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890407/gtfs/' />
+  </node>
+  <node id='-26913' visible='true' lat='-19.294856' lon='146.789728'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890438' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mundingburra State School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890438/gtfs/' />
+  </node>
+  <node id='-26912' visible='true' lat='-19.314187' lon='146.771781'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890358' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yolanda Dr Shops' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890358/gtfs/' />
+  </node>
+  <node id='-26911' visible='true' lat='-19.278517' lon='146.812755'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890287' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='First Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890287/gtfs/' />
+  </node>
+  <node id='-26910' visible='true' lat='-19.267790000000005' lon='146.79539'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890223' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Echlin St (West End)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890223/gtfs/' />
+  </node>
+  <node id='-26909' visible='true' lat='-19.257656' lon='146.77801499999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890141' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Peel / Lockheed' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890141/gtfs/' />
+  </node>
+  <node id='-26908' visible='true' lat='-19.346' lon='146.728793'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890594' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dollview Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890594/gtfs/' />
+  </node>
+  <node id='-26907' visible='true' lat='-19.327745' lon='146.75589800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890099' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='James Cook University (Douglas Campus)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890099/gtfs/' />
+  </node>
+  <node id='-26906' visible='true' lat='-19.275233' lon='146.77995'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890024' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reardon St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890024/gtfs/' />
+  </node>
+  <node id='-26905' visible='true' lat='-19.224104' lon='146.669896'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890553' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway 890553' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890553/gtfs/' />
+  </node>
+  <node id='-26904' visible='true' lat='-19.295967999999995' lon='146.797209'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890424' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sweet St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890424/gtfs/' />
+  </node>
+  <node id='-26903' visible='true' lat='-19.281193999999996' lon='146.78442700000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890351' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gill Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890351/gtfs/' />
+  </node>
+  <node id='-26902' visible='true' lat='-19.328211' lon='146.822152'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890313' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Culgoa St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890313/gtfs/' />
+  </node>
+  <node id='-26901' visible='true' lat='-19.249633' lon='146.679482'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890659' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hank Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890659/gtfs/' />
+  </node>
+  <node id='-26900' visible='true' lat='-19.297113999999997' lon='146.75053400000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890242' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Western Lions Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890242/gtfs/' />
+  </node>
+  <node id='-26899' visible='true' lat='-19.25099' lon='146.65104500000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890580' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen Rd 890580' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890580/gtfs/' />
+  </node>
+  <node id='-26898' visible='true' lat='-19.332042' lon='146.75582700000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890159' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rotary International House' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890159/gtfs/' />
+  </node>
+  <node id='-26897' visible='true' lat='-19.288427999999996' lon='146.764507'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890088' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vincent State School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890088/gtfs/' />
+  </node>
+  <node id='-26896' visible='true' lat='-19.272509999999997' lon='146.755811'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890018' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Greg Jabs Court' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890018/gtfs/' />
+  </node>
+  <node id='-26895' visible='true' lat='-19.249093999999996' lon='146.64644599999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890579' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Macquarie St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890579/gtfs/' />
+  </node>
+  <node id='-26894' visible='true' lat='-19.313328' lon='146.742934'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890451' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890451/gtfs/' />
+  </node>
+  <node id='-26893' visible='true' lat='-19.270852' lon='146.817784'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890370' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tenth Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890370/gtfs/' />
+  </node>
+  <node id='-26892' visible='true' lat='-19.326666999999997' lon='146.821139'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890299' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Royal St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890299/gtfs/' />
+  </node>
+  <node id='-26891' visible='true' lat='-19.293358' lon='146.76185099999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890236' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Arunta St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890236/gtfs/' />
+  </node>
+  <node id='-26890' visible='true' lat='-19.2588' lon='146.777773'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890116' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lancaster St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890116/gtfs/' />
+  </node>
+  <node id='-26889' visible='true' lat='-19.31011' lon='146.74039899999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890606' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Silky Oak St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890606/gtfs/' />
+  </node>
+  <node id='-26888' visible='true' lat='-19.245452999999998' lon='146.797454'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890041' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marshall St (Belgian Gardens)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890041/gtfs/' />
+  </node>
+  <node id='-26887' visible='true' lat='-19.196683' lon='146.680096'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890565' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marina Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890565/gtfs/' />
+  </node>
+  <node id='-26886' visible='true' lat='-19.300045' lon='146.72841'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890400' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tottenham Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890400/gtfs/' />
+  </node>
+  <node id='-26885' visible='true' lat='-19.279556' lon='146.769362'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890331' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Palmerston / Cambridge' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890331/gtfs/' />
+  </node>
+  <node id='-26884' visible='true' lat='-19.293332' lon='146.737734'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890259' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Thuringowa / Mill' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890259/gtfs/' />
+  </node>
+  <node id='-26883' visible='true' lat='-19.320741' lon='146.74894500000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890176' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Creekwood Way' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890176/gtfs/' />
+  </node>
+  <node id='-26882' visible='true' lat='-19.275236' lon='146.810699'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890672' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville State High School (First Street)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-26881' visible='true' lat='-19.304290000000005' lon='146.76067900000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890102' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Leopold St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890102/gtfs/' />
+  </node>
+  <node id='-26880' visible='true' lat='-19.255444' lon='146.787566'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890035' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stagpole St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890035/gtfs/' />
+  </node>
+  <node id='-26879' visible='true' lat='-19.283478' lon='146.797626'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890630' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Soule St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890630/gtfs/' />
+  </node>
+  <node id='-26878' visible='true' lat='-19.346573' lon='146.729092'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890469' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dollview Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890469/gtfs/' />
+  </node>
+  <node id='-26877' visible='true' lat='-19.289687999999998' lon='146.736677'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890394' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cavill Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890394/gtfs/' />
+  </node>
+  <node id='-26876' visible='true' lat='-19.316737' lon='146.792616'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890317' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville Grammar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890317/gtfs/' />
+  </node>
+  <node id='-26875' visible='true' lat='-19.28876' lon='146.78244600000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890278' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pimlico State High School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890278/gtfs/' />
+  </node>
+  <node id='-26874' visible='true' lat='-19.260971' lon='146.819463'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890209' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dean St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890209/gtfs/' />
+  </node>
+  <node id='-26873' visible='true' lat='-19.202834' lon='146.771676'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890131' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Morrell St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890131/gtfs/' />
+  </node>
+  <node id='-26872' visible='true' lat='-19.248755' lon='146.79219900000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890054' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Taylor St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890054/gtfs/' />
+  </node>
+  <node id='-26871' visible='true' lat='-19.300475' lon='146.755214'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890615' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fitzroy St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890615/gtfs/' />
+  </node>
+  <node id='-26870' visible='true' lat='-19.364837' lon='146.731766'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890497' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverway / Allambie' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890497/gtfs/' />
+  </node>
+  <node id='-26869' visible='true' lat='-19.267979' lon='146.82932299999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890416' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hubert St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890416/gtfs/' />
+  </node>
+  <node id='-26868' visible='true' lat='-19.266422' lon='146.81025'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890343' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fletcher St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890343/gtfs/' />
+  </node>
+  <node id='-26867' visible='true' lat='-19.29451' lon='146.754278'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890271' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cordelia Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890271/gtfs/' />
+  </node>
+  <node id='-26866' visible='true' lat='-19.241218' lon='146.791177'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890188' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rowes Bay Caravan Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890188/gtfs/' />
+  </node>
+  <node id='-26865' visible='true' lat='-19.289024' lon='146.788337'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890228' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mater Hospital' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890228/gtfs/' />
+  </node>
+  <node id='-26864' visible='true' lat='-19.310787' lon='146.762894'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890154' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Good Shepherd Hospice' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-26863' visible='true' lat='-19.302884999999996' lon='146.813942'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890643' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oonoonba Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890643/gtfs/' />
+  </node>
+  <node id='-26862' visible='true' lat='-19.272063' lon='146.749344'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890075' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='High Vista Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890075/gtfs/' />
+  </node>
+  <node id='-26861' visible='true' lat='-19.287369' lon='146.756899'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890005' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Heatley Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890005/gtfs/' />
+  </node>
+  <node id='-26860' visible='true' lat='-19.386101' lon='146.73014800000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890491' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jennifer St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890491/gtfs/' />
+  </node>
+  <node id='-26859' visible='true' lat='-19.302804' lon='146.813816'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890406' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oonoonba Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890406/gtfs/' />
+  </node>
+  <node id='-26858' visible='true' lat='-19.294246' lon='146.791174'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890437' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='China St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890437/gtfs/' />
+  </node>
+  <node id='-26857' visible='true' lat='-19.314591' lon='146.768849'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890357' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fardon St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890357/gtfs/' />
+  </node>
+  <node id='-26856' visible='true' lat='-19.297386' lon='146.79832699999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890294' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Benson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890294/gtfs/' />
+  </node>
+  <node id='-26855' visible='true' lat='-19.268391' lon='146.800969'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890222' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pridmore St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890222/gtfs/' />
+  </node>
+  <node id='-26854' visible='true' lat='-19.258707' lon='146.777709'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890140' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lancaster St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890140/gtfs/' />
+  </node>
+  <node id='-26853' visible='true' lat='-19.348961' lon='146.729924'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890593' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Illuta St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890593/gtfs/' />
+  </node>
+  <node id='-26852' visible='true' lat='-19.319525' lon='146.761525'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890093' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The Townsville Hospital' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890093/gtfs/' />
+  </node>
+  <node id='-26851' visible='true' lat='-19.266749' lon='146.793352'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890031' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Humphrey St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890031/gtfs/' />
+  </node>
+  <node id='-26850' visible='true' lat='-19.228624' lon='146.669927'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890552' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway  890552' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890552/gtfs/' />
+  </node>
+  <node id='-26849' visible='true' lat='-19.277663' lon='146.80029500000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890431' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hermit Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890431/gtfs/' />
+  </node>
+  <node id='-26848' visible='true' lat='-19.277005' lon='146.795743'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890350' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sussex St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890350/gtfs/' />
+  </node>
+  <node id='-26847' visible='true' lat='-19.331096' lon='146.824596'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890312' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Diamantina St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890312/gtfs/' />
+  </node>
+  <node id='-26846' visible='true' lat='-19.256559' lon='146.702441'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890658' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nexus Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890658/gtfs/' />
+  </node>
+  <node id='-26845' visible='true' lat='-19.296057' lon='146.752116'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890241' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fitzroy St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890241/gtfs/' />
+  </node>
+  <node id='-26844' visible='true' lat='-19.31661' lon='146.752956'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890166' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverside Community Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890166/gtfs/' />
+  </node>
+  <node id='-26843' visible='true' lat='-19.249523' lon='146.679653'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890587' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hank St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890587/gtfs/' />
+  </node>
+  <node id='-26842' visible='true' lat='-19.287936' lon='146.76208'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890087' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vincent Village' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890087/gtfs/' />
+  </node>
+  <node id='-26841' visible='true' lat='-19.271647999999995' lon='146.748637'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890017' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='High Vista Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890017/gtfs/' />
+  </node>
+  <node id='-26840' visible='true' lat='-19.24655' lon='146.648759'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890578' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Darling St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890578/gtfs/' />
+  </node>
+  <node id='-26839' visible='true' lat='-19.310806' lon='146.747268'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890450' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Louise St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890450/gtfs/' />
+  </node>
+  <node id='-26838' visible='true' lat='-19.270320999999996' lon='146.82054200000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890369' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Twelfth Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890369/gtfs/' />
+  </node>
+  <node id='-26837' visible='true' lat='-19.347515' lon='146.850281'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890306' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Southwood Rd (Stuart)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890306/gtfs/' />
+  </node>
+  <node id='-26836' visible='true' lat='-19.295696' lon='146.761582'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890235' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raynor St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890235/gtfs/' />
+  </node>
+  <node id='-26835' visible='true' lat='-19.257674000000005' lon='146.778107'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890115' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Peel / Lockheed' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890115/gtfs/' />
+  </node>
+  <node id='-26834' visible='true' lat='-19.307273' lon='146.738384'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890605' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Malbon Rd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890605/gtfs/' />
+  </node>
+  <node id='-26833' visible='true' lat='-19.246393' lon='146.793746'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890040' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bishop St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890040/gtfs/' />
+  </node>
+  <node id='-26832' visible='true' lat='-19.195191' lon='146.677574'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890564' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Balsam St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890564/gtfs/' />
+  </node>
+  <node id='-26831' visible='true' lat='-19.296768000000004' lon='146.77395000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890443' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Crete St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890443/gtfs/' />
+  </node>
+  <node id='-26830' visible='true' lat='-19.286421' lon='146.763983'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890330' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ronan St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890330/gtfs/' />
+  </node>
+  <node id='-26829' visible='true' lat='-19.305349' lon='146.717446'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890258' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Golf Links / Sandstone' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890258/gtfs/' />
+  </node>
+  <node id='-26828' visible='true' lat='-19.325104000000003' lon='146.810633'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890671' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edison / Newton' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890671/gtfs/' />
+  </node>
+  <node id='-26827' visible='true' lat='-19.319564999999997' lon='146.746887'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890175' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Siris Pl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890175/gtfs/' />
+  </node>
+  <node id='-26826' visible='true' lat='-19.276907999999995' lon='146.772328'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890109' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Maroong St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890109/gtfs/' />
+  </node>
+  <node id='-26825' visible='true' lat='-19.334005' lon='146.721228'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890599' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jabiru Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890599/gtfs/' />
+  </node>
+  <node id='-26824' visible='true' lat='-19.25941' lon='146.786577'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890034' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cutheringa Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890034/gtfs/' />
+  </node>
+  <node id='-26823' visible='true' lat='-19.285902' lon='146.79701299999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890629' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsend St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890629/gtfs/' />
+  </node>
+  <node id='-26822' visible='true' lat='-19.340344' lon='146.725689'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890468' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pinnacle Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890468/gtfs/' />
+  </node>
+  <node id='-26821' visible='true' lat='-19.293849' lon='146.744357'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890393' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Joyce St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890393/gtfs/' />
+  </node>
+  <node id='-26820' visible='true' lat='-19.325168000000005' lon='146.819118'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890315' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wright St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890315/gtfs/' />
+  </node>
+  <node id='-26819' visible='true' lat='-19.300317' lon='146.73610400000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890252' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Castlemaine St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890252/gtfs/' />
+  </node>
+  <node id='-26818' visible='true' lat='-19.257887' lon='146.819218'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890208' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Flinders St East' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890208/gtfs/' />
+  </node>
+  <node id='-26817' visible='true' lat='-19.206233' lon='146.774603'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890130' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Seaward St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890130/gtfs/' />
+  </node>
+  <node id='-26816' visible='true' lat='-19.245637' lon='146.797594'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890053' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marshall St (Belgian Gardens)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890053/gtfs/' />
+  </node>
+  <node id='-26815' visible='true' lat='-19.30313' lon='146.75317'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890614' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Killara St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890614/gtfs/' />
+  </node>
+  <node id='-26814' visible='true' lat='-19.370862' lon='146.730442'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890496' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rosewood Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890496/gtfs/' />
+  </node>
+  <node id='-26813' visible='true' lat='-19.297516' lon='146.79810400000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890423' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Benson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890423/gtfs/' />
+  </node>
+  <node id='-26812' visible='true' lat='-19.267456000000003' lon='146.808524'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890342' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Knapp St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890342/gtfs/' />
+  </node>
+  <node id='-26811' visible='true' lat='-19.295858999999997' lon='146.75225000000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890270' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fitzroy St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890270/gtfs/' />
+  </node>
+  <node id='-26810' visible='true' lat='-19.199947' lon='146.77368000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890187' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cape Pallarenda' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890187/gtfs/' />
+  </node>
+  <node id='-26809' visible='true' lat='-19.261867999999996' lon='146.78580399999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890124' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ralston Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890124/gtfs/' />
+  </node>
+  <node id='-26808' visible='true' lat='-19.304479' lon='146.76096099999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890153' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Leopold St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890153/gtfs/' />
+  </node>
+  <node id='-26807' visible='true' lat='-19.303838' lon='146.812067'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890642' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fairfield Waters Dr/ Lakeland Bvd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890642/gtfs/' />
+  </node>
+  <node id='-26806' visible='true' lat='-19.272306' lon='146.75091400000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890074' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Buchanan St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890074/gtfs/' />
+  </node>
+  <node id='-26805' visible='true' lat='-19.288272' lon='146.759731'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890004' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St James Village' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890004/gtfs/' />
+  </node>
+  <node id='-26804' visible='true' lat='-19.388293' lon='146.729936'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890490' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yvette St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890490/gtfs/' />
+  </node>
+  <node id='-26803' visible='true' lat='-19.312981' lon='146.801049'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890405' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murray Sporting Complex' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890405/gtfs/' />
+  </node>
+  <node id='-26802' visible='true' lat='-19.293669' lon='146.79259'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890436' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mabin St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890436/gtfs/' />
+  </node>
+  <node id='-26801' visible='true' lat='-19.308479' lon='146.78359999999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890364' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Boronia Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890364/gtfs/' />
+  </node>
+  <node id='-26800' visible='true' lat='-19.295512' lon='146.797241'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890293' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sweet St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890293/gtfs/' />
+  </node>
+  <node id='-26799' visible='true' lat='-19.267649' lon='146.80859800000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890221' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Knapp St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890221/gtfs/' />
+  </node>
+  <node id='-26798' visible='true' lat='-19.351514' lon='146.731326'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890592' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loam Island' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890592/gtfs/' />
+  </node>
+  <node id='-26797' visible='true' lat='-19.263367' lon='146.777615'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890137' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Peel St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890137/gtfs/' />
+  </node>
+  <node id='-26796' visible='true' lat='-19.275973000000004' lon='146.785836'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890068' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hindley St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890068/gtfs/' />
+  </node>
+  <node id='-26795' visible='true' lat='-19.269367' lon='146.79283'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890030' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville Showgrounds' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890030/gtfs/' />
+  </node>
+  <node id='-26794' visible='true' lat='-19.189922' lon='146.667687'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890559' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weir Court' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890559/gtfs/' />
+  </node>
+  <node id='-26793' visible='true' lat='-19.277937' lon='146.815101'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890430' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Queens Rd (Railway Crossing)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890430/gtfs/' />
+  </node>
+  <node id='-26792' visible='true' lat='-19.277319999999996' lon='146.798815'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890349' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mater Womens and Childrens Hospital' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890349/gtfs/' />
+  </node>
+  <node id='-26791' visible='true' lat='-19.341023999999997' lon='146.83270199999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890311' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stuart' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890311/gtfs/' />
+  </node>
+  <node id='-26790' visible='true' lat='-19.303833999999995' lon='146.740742'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890248' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Parkside Plaza' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890248/gtfs/' />
+  </node>
+  <node id='-26789' visible='true' lat='-19.260565' lon='146.726906'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890666' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trade Training Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890666/gtfs/' />
+  </node>
+  <node id='-26788' visible='true' lat='-19.316838' lon='146.755732'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890165' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Regatta Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890165/gtfs/' />
+  </node>
+  <node id='-26787' visible='true' lat='-19.249288' lon='146.677212'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890586' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodland Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890586/gtfs/' />
+  </node>
+  <node id='-26786' visible='true' lat='-19.288159' lon='146.760204'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890086' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St James Village' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890086/gtfs/' />
+  </node>
+  <node id='-26785' visible='true' lat='-19.271523' lon='146.746374'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890016' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Partridge St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890016/gtfs/' />
+  </node>
+  <node id='-26784' visible='true' lat='-19.245859' lon='146.65223700000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890577' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Joanne St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-26783' visible='true' lat='-19.307376' lon='146.750903'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890449' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alice St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890449/gtfs/' />
+  </node>
+  <node id='-26782' visible='true' lat='-19.328055' lon='146.808583'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890382' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Florey St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890382/gtfs/' />
+  </node>
+  <node id='-26781' visible='true' lat='-19.3462' lon='146.83481'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890305' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gully St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890305/gtfs/' />
+  </node>
+  <node id='-26780' visible='true' lat='-19.288165' lon='146.774864'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890233' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pearson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890233/gtfs/' />
+  </node>
+  <node id='-26779' visible='true' lat='-19.309135000000005' lon='146.734627'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890604' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kirwan State High School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890604/gtfs/' />
+  </node>
+  <node id='-26778' visible='true' lat='-19.257031' lon='146.776789'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890114' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lockheed St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890114/gtfs/' />
+  </node>
+  <node id='-26777' visible='true' lat='-19.25204' lon='146.81348700000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890048' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Leichhardt St (North Ward)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890048/gtfs/' />
+  </node>
+  <node id='-26776' visible='true' lat='-19.230999999999998' lon='146.670066'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890571' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Equardo Road' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890571/gtfs/' />
+  </node>
+  <node id='-26775' visible='true' lat='-19.295989' lon='146.77828599999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890442' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cathedral School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890442/gtfs/' />
+  </node>
+  <node id='-26774' visible='true' lat='-19.316132' lon='146.76594499999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890329' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marabou Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890329/gtfs/' />
+  </node>
+  <node id='-26773' visible='true' lat='-19.30787' lon='146.71358'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890257' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gardenia Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890257/gtfs/' />
+  </node>
+  <node id='-26772' visible='true' lat='-19.312322' lon='146.729715'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890182' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Paluma St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890182/gtfs/' />
+  </node>
+  <node id='-26771' visible='true' lat='-19.278884' lon='146.772008'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890108' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goodwin St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890108/gtfs/' />
+  </node>
+  <node id='-26770' visible='true' lat='-19.336521' lon='146.71919399999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890598' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Thuringowa State High School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890598/gtfs/' />
+  </node>
+  <node id='-26769' visible='true' lat='-19.261923' lon='146.792243'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890033' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ralston St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890033/gtfs/' />
+  </node>
+  <node id='-26768' visible='true' lat='-19.289494' lon='146.796365'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890628' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jameson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890628/gtfs/' />
+  </node>
+  <node id='-26767' visible='true' lat='-19.340176000000003' lon='146.72386'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890467' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mallee St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890467/gtfs/' />
+  </node>
+  <node id='-26766' visible='true' lat='-19.293354' lon='146.748318'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890392' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Heatley State School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890392/gtfs/' />
+  </node>
+  <node id='-26765' visible='true' lat='-19.309769999999997' lon='146.779894'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890323' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jonquil Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890323/gtfs/' />
+  </node>
+  <node id='-26764' visible='true' lat='-19.293696' lon='146.74150500000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890251' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mount View Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890251/gtfs/' />
+  </node>
+  <node id='-26763' visible='true' lat='-19.257292' lon='146.822705'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890207' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reef HQ' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890207/gtfs/' />
+  </node>
+  <node id='-26762' visible='true' lat='-19.216911' lon='146.77645199999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890129' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Garden Settlement' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890129/gtfs/' />
+  </node>
+  <node id='-26761' visible='true' lat='-19.259135999999998' lon='146.786881'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890060' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cutheringa Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890060/gtfs/' />
+  </node>
+  <node id='-26760' visible='true' lat='-19.295795999999996' lon='146.777914'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890622' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cathedral School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890622/gtfs/' />
+  </node>
+  <node id='-26759' visible='true' lat='-19.331493' lon='146.71478799999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890461' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Carlyle Gardens' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890461/gtfs/' />
+  </node>
+  <node id='-26758' visible='true' lat='-19.300544000000002' lon='146.79985499999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890422' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Touch St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890422/gtfs/' />
+  </node>
+  <node id='-26757' visible='true' lat='-19.268542999999998' lon='146.806715'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890341' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville Station' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890341/gtfs/' />
+  </node>
+  <node id='-26756' visible='true' lat='-19.296812000000003' lon='146.750812'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890269' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Western Lions Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890269/gtfs/' />
+  </node>
+  <node id='-26755' visible='true' lat='-19.257090999999996' lon='146.82129099999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890194' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wickham St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890194/gtfs/' />
+  </node>
+  <node id='-26754' visible='true' lat='-19.264644000000004' lon='146.781747'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890122' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Douglas St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890122/gtfs/' />
+  </node>
+  <node id='-26753' visible='true' lat='-19.301091' lon='146.76134800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890152' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alfred St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890152/gtfs/' />
+  </node>
+  <node id='-26752' visible='true' lat='-19.303592' lon='146.812273'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890641' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fairfield Waters Dr/ Lakeland Bvd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890641/gtfs/' />
+  </node>
+  <node id='-26751' visible='true' lat='-19.272837' lon='146.756218'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890073' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Greg Jabs Court' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890073/gtfs/' />
+  </node>
+  <node id='-26750' visible='true' lat='-19.277148' lon='146.749635'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890011' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Galway Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890011/gtfs/' />
+  </node>
+  <node id='-26749' visible='true' lat='-19.393430999999996' lon='146.729211'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890489' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dunlop St (Kelso)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890489/gtfs/' />
+  </node>
+  <node id='-26748' visible='true' lat='-19.314463' lon='146.790327'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890404' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wave Hill Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890404/gtfs/' />
+  </node>
+  <node id='-26747' visible='true' lat='-19.276735' lon='146.794481'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890335' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fairley Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890335/gtfs/' />
+  </node>
+  <node id='-26746' visible='true' lat='-19.307793000000004' lon='146.782108'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890363' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Annandale Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890363/gtfs/' />
+  </node>
+  <node id='-26745' visible='true' lat='-19.291955' lon='146.795126'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890292' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rising Sun' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890292/gtfs/' />
+  </node>
+  <node id='-26744' visible='true' lat='-19.266277' lon='146.81086499999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890220' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fletcher St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890220/gtfs/' />
+  </node>
+  <node id='-26743' visible='true' lat='-19.263411999999995' lon='146.774873'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890146' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lonerganne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890146/gtfs/' />
+  </node>
+  <node id='-26742' visible='true' lat='-19.325462' lon='146.752078'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890635' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Western Campus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890635/gtfs/' />
+  </node>
+  <node id='-26741' visible='true' lat='-19.276341' lon='146.789444'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890067' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Latchford St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890067/gtfs/' />
+  </node>
+  <node id='-26740' visible='true' lat='-19.27306' lon='146.79017'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890029' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Castletown Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890029/gtfs/' />
+  </node>
+  <node id='-26739' visible='true' lat='-19.194513' lon='146.675301'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890558' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890558/gtfs/' />
+  </node>
+  <node id='-26738' visible='true' lat='-19.278429' lon='146.81248200000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890429' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='First Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890429/gtfs/' />
+  </node>
+  <node id='-26737' visible='true' lat='-19.275133000000004' lon='146.801667'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890348' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Somer St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890348/gtfs/' />
+  </node>
+  <node id='-26736' visible='true' lat='-19.278126' lon='146.81476300000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890286' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Queens Rd (Railway Crossing)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890286/gtfs/' />
+  </node>
+  <node id='-26735' visible='true' lat='-19.304693' lon='146.74215'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890247' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Saderra Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890247/gtfs/' />
+  </node>
+  <node id='-26734' visible='true' lat='-19.276241' lon='146.757529'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890664' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Domain Central' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890664/gtfs/' />
+  </node>
+  <node id='-26733' visible='true' lat='-19.317136999999995' lon='146.75822'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890164' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverside Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890164/gtfs/' />
+  </node>
+  <node id='-26732' visible='true' lat='-19.246193' lon='146.675815'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890585' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Deeragun' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890585/gtfs/' />
+  </node>
+  <node id='-26731' visible='true' lat='-19.287243' lon='146.754728'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890085' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Heatley Secondary College' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890085/gtfs/' />
+  </node>
+  <node id='-26730' visible='true' lat='-19.27499' lon='146.777581'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890023' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ferguson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890023/gtfs/' />
+  </node>
+  <node id='-26729' visible='true' lat='-19.244422' lon='146.65302'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890576' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St Anthony&apos;s' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890576/gtfs/' />
+  </node>
+  <node id='-26728' visible='true' lat='-19.323444' lon='146.727696'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890457' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gregory St (Condon)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890457/gtfs/' />
+  </node>
+  <node id='-26727' visible='true' lat='-19.327027000000005' lon='146.808728'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890381' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stephenson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890381/gtfs/' />
+  </node>
+  <node id='-26726' visible='true' lat='-19.344441' lon='146.834223'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890304' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roe St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890304/gtfs/' />
+  </node>
+  <node id='-26725' visible='true' lat='-19.288448' lon='146.777587'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890232' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Armit St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890232/gtfs/' />
+  </node>
+  <node id='-26724' visible='true' lat='-19.327637999999997' lon='146.756206'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890158' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='James Cook University (Douglas Campus)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890158/gtfs/' />
+  </node>
+  <node id='-26723' visible='true' lat='-19.306345' lon='146.751231'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890613' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alice St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890613/gtfs/' />
+  </node>
+  <node id='-26722' visible='true' lat='-19.252343999999997' lon='146.814066'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890046' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Leichhardt St (North Ward)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890046/gtfs/' />
+  </node>
+  <node id='-26721' visible='true' lat='-19.227748' lon='146.670209'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890570' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shoalmarra Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890570/gtfs/' />
+  </node>
+  <node id='-26720' visible='true' lat='-19.29546' lon='146.78074299999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890441' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ross River Rd / Gulliver St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890441/gtfs/' />
+  </node>
+  <node id='-26719' visible='true' lat='-19.314920999999995' lon='146.768378'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890328' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fardon St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890328/gtfs/' />
+  </node>
+  <node id='-26718' visible='true' lat='-19.304568' lon='146.741884'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890264' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Saderra Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890264/gtfs/' />
+  </node>
+  <node id='-26717' visible='true' lat='-19.314439' lon='146.72767'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890181' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Willows Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890181/gtfs/' />
+  </node>
+  <node id='-26716' visible='true' lat='-19.293246' lon='146.74788800000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890677' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mill Fulham' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890677/gtfs/' />
+  </node>
+  <node id='-26715' visible='true' lat='-19.281927' lon='146.771618'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890107' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tippett St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890107/gtfs/' />
+  </node>
+  <node id='-26714' visible='true' lat='-19.339362' lon='146.719152'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890597' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pelican Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890597/gtfs/' />
+  </node>
+  <node id='-26713' visible='true' lat='-19.264824' lon='146.793591'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890032' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='North St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890032/gtfs/' />
+  </node>
+  <node id='-26712' visible='true' lat='-19.291658' lon='146.795007'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890627' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rising Sun' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890627/gtfs/' />
+  </node>
+  <node id='-26711' visible='true' lat='-19.339794' lon='146.719613'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890466' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gollogly / Vickers' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890466/gtfs/' />
+  </node>
+  <node id='-26710' visible='true' lat='-19.312424' lon='146.722735'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890399' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Morindo Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890399/gtfs/' />
+  </node>
+  <node id='-26709' visible='true' lat='-19.307736' lon='146.782541'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890322' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Annandale Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890322/gtfs/' />
+  </node>
+  <node id='-26708' visible='true' lat='-19.295453' lon='146.742827'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890250' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McBride St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890250/gtfs/' />
+  </node>
+  <node id='-26707' visible='true' lat='-19.254961000000005' lon='146.825361'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890206' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ferry Terminal' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890206/gtfs/' />
+  </node>
+  <node id='-26706' visible='true' lat='-19.263556000000005' lon='146.77933300000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890136' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ramsay St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890136/gtfs/' />
+  </node>
+  <node id='-26705' visible='true' lat='-19.257137' lon='146.78746'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890059' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Harold St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890059/gtfs/' />
+  </node>
+  <node id='-26704' visible='true' lat='-19.29636' lon='146.775927'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890621' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rogers St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890621/gtfs/' />
+  </node>
+  <node id='-26703' visible='true' lat='-19.332049' lon='146.716786'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890460' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Eider Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890460/gtfs/' />
+  </node>
+  <node id='-26702' visible='true' lat='-19.301849' lon='146.800593'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890421' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Viles St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890421/gtfs/' />
+  </node>
+  <node id='-26701' visible='true' lat='-19.273048' lon='146.80341100000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890340' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yeatman St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890340/gtfs/' />
+  </node>
+  <node id='-26700' visible='true' lat='-19.288577' lon='146.780694'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890277' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Barrier Reef Institute of TAFE' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890277/gtfs/' />
+  </node>
+  <node id='-26699' visible='true' lat='-19.257923000000005' lon='146.818702'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890193' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Flinders St East' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890193/gtfs/' />
+  </node>
+  <node id='-26698' visible='true' lat='-19.263633999999996' lon='146.781022'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890121' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lonerganne Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890121/gtfs/' />
+  </node>
+  <node id='-26697' visible='true' lat='-19.274673999999997' lon='146.773002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890640' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater / Mooney' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890640/gtfs/' />
+  </node>
+  <node id='-26696' visible='true' lat='-19.289496' lon='146.767422'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890151' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890151/gtfs/' />
+  </node>
+  <node id='-26695' visible='true' lat='-19.277291000000005' lon='146.749723'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890080' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Galway Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890080/gtfs/' />
+  </node>
+  <node id='-26694' visible='true' lat='-19.279069999999997' lon='146.749587'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890010' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='High Vista Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890010/gtfs/' />
+  </node>
+  <node id='-26693' visible='true' lat='-19.393749' lon='146.72938099999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890479' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dunlop St (Kelso)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890479/gtfs/' />
+  </node>
+  <node id='-26692' visible='true' lat='-19.268911' lon='146.826656'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890415' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bell St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890415/gtfs/' />
+  </node>
+  <node id='-26691' visible='true' lat='-19.281438' lon='146.78772'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890334' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pegnall St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890334/gtfs/' />
+  </node>
+  <node id='-26690' visible='true' lat='-19.309379999999997' lon='146.78016599999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890362' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jonquil Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890362/gtfs/' />
+  </node>
+  <node id='-26689' visible='true' lat='-19.289234' lon='146.798084'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890291' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Halloran St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890291/gtfs/' />
+  </node>
+  <node id='-26688' visible='true' lat='-19.287227' lon='146.788551'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890227' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Albury St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890227/gtfs/' />
+  </node>
+  <node id='-26687' visible='true' lat='-19.261036' lon='146.775153'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890145' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clarke St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890145/gtfs/' />
+  </node>
+  <node id='-26686' visible='true' lat='-19.260257' lon='146.81422800000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890634' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville City' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890634/gtfs/' />
+  </node>
+  <node id='-26685' visible='true' lat='-19.276596000000005' lon='146.791535'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890066' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater/ Kings' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890066/gtfs/' />
+  </node>
+  <node id='-26684' visible='true' lat='-19.276402' lon='146.791657'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890028' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater / Kings' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890028/gtfs/' />
+  </node>
+  <node id='-26683' visible='true' lat='-19.202063' lon='146.673281'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890557' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lionel Turner Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890557/gtfs/' />
+  </node>
+  <node id='-26682' visible='true' lat='-19.281308000000003' lon='146.807146'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890428' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ahearne St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890428/gtfs/' />
+  </node>
+  <node id='-26681' visible='true' lat='-19.316218' lon='146.765483'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890356' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marabou Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890356/gtfs/' />
+  </node>
+  <node id='-26680' visible='true' lat='-19.272461' lon='146.815459'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890285' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Railway Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890285/gtfs/' />
+  </node>
+  <node id='-26679' visible='true' lat='-19.248720999999996' lon='146.67003000000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890663' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edinburgh Drv' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890663/gtfs/' />
+  </node>
+  <node id='-26678' visible='true' lat='-19.304894999999995' lon='146.74442000000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890246' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sabadell St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890246/gtfs/' />
+  </node>
+  <node id='-26677' visible='true' lat='-19.248873' lon='146.672915'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890584' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Meranti St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890584/gtfs/' />
+  </node>
+  <node id='-26676' visible='true' lat='-19.324942' lon='146.761168'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890163' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nursing' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890163/gtfs/' />
+  </node>
+  <node id='-26675' visible='true' lat='-19.319625' lon='146.76177699999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890092' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The Townsville Hospital' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890092/gtfs/' />
+  </node>
+  <node id='-26674' visible='true' lat='-19.274693999999997' lon='146.77468700000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890022' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trevor Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890022/gtfs/' />
+  </node>
+  <node id='-26673' visible='true' lat='-19.238554' lon='146.664816'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890551' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway / Bruce Hwy' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890551/gtfs/' />
+  </node>
+  <node id='-26672' visible='true' lat='-19.319852' lon='146.726905'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890456' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sunland Plaza' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890456/gtfs/' />
+  </node>
+  <node id='-26671' visible='true' lat='-19.304186' lon='146.82028000000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890379' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McPherson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890379/gtfs/' />
+  </node>
+  <node id='-26670' visible='true' lat='-19.341036' lon='146.832838'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890303' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stuart' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890303/gtfs/' />
+  </node>
+  <node id='-26669' visible='true' lat='-19.295028' lon='146.75366'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890240' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cordelia Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890240/gtfs/' />
+  </node>
+  <node id='-26668' visible='true' lat='-19.255227' lon='146.70325299999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890657' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nexus Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890657/gtfs/' />
+  </node>
+  <node id='-26667' visible='true' lat='-19.325204' lon='146.75188399999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890157' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Western Campus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890157/gtfs/' />
+  </node>
+  <node id='-26666' visible='true' lat='-19.309407' lon='146.748571'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890612' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Valencia St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890612/gtfs/' />
+  </node>
+  <node id='-26665' visible='true' lat='-19.250717' lon='146.811923'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890045' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kennedy St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890045/gtfs/' />
+  </node>
+  <node id='-26664' visible='true' lat='-19.223787' lon='146.670213'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890569' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway  890569' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890569/gtfs/' />
+  </node>
+  <node id='-26663' visible='true' lat='-19.295276' lon='146.783733'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890440' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mango Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890440/gtfs/' />
+  </node>
+  <node id='-26662' visible='true' lat='-19.269130000000004' lon='146.826359'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890368' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bell St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890368/gtfs/' />
+  </node>
+  <node id='-26661' visible='true' lat='-19.303471' lon='146.741051'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890263' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Parkside Plaza' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890263/gtfs/' />
+  </node>
+  <node id='-26660' visible='true' lat='-19.260323' lon='146.81330600000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890676' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker St Blackwood St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890676/gtfs/' />
+  </node>
+  <node id='-26659' visible='true' lat='-19.316971' lon='146.758312'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890180' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverside Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890180/gtfs/' />
+  </node>
+  <node id='-26658' visible='true' lat='-19.340187' lon='146.722665'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890596' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mallee St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890596/gtfs/' />
+  </node>
+  <node id='-26657' visible='true' lat='-19.283955' lon='146.771385'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890106' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McDonald St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890106/gtfs/' />
+  </node>
+  <node id='-26656' visible='true' lat='-19.248379' lon='146.792385'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890039' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Taylor  St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890039/gtfs/' />
+  </node>
+  <node id='-26655' visible='true' lat='-19.374540000000003' lon='146.730305'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890474' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bassano Way' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890474/gtfs/' />
+  </node>
+  <node id='-26654' visible='true' lat='-19.312254' lon='146.722858'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890398' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Morindo Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890398/gtfs/' />
+  </node>
+  <node id='-26653' visible='true' lat='-19.308366' lon='146.78347'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890321' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Boronia Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890321/gtfs/' />
+  </node>
+  <node id='-26652' visible='true' lat='-19.301191000000003' lon='146.74100899999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890249' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Catalonia St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890249/gtfs/' />
+  </node>
+  <node id='-26651' visible='true' lat='-19.318994' lon='146.743679'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890174' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='White Beach Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890174/gtfs/' />
+  </node>
+  <node id='-26650' visible='true' lat='-19.263757000000002' lon='146.78135'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890135' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lonerganne Street' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890135/gtfs/' />
+  </node>
+  <node id='-26649' visible='true' lat='-19.255604' lon='146.78774499999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890058' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stagpole St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890058/gtfs/' />
+  </node>
+  <node id='-26648' visible='true' lat='-19.296123' lon='146.772459'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890620' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aitkenvale Library' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890620/gtfs/' />
+  </node>
+  <node id='-26647' visible='true' lat='-19.332101000000005' lon='146.721171'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890459' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bellbird St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890459/gtfs/' />
+  </node>
+  <node id='-26646' visible='true' lat='-19.306824' lon='146.80339799999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890420' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kokoda St (Murray Sporting Complex)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890420/gtfs/' />
+  </node>
+  <node id='-26645' visible='true' lat='-19.273031999999997' lon='146.803842'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890347' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yeatman St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890347/gtfs/' />
+  </node>
+  <node id='-26644' visible='true' lat='-19.288227' lon='146.777238'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890276' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Armit St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890276/gtfs/' />
+  </node>
+  <node id='-26643' visible='true' lat='-19.246471000000003' lon='146.808188'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890192' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stuart St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890192/gtfs/' />
+  </node>
+  <node id='-26642' visible='true' lat='-19.263439' lon='146.779295'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890120' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ramsay St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890120/gtfs/' />
+  </node>
+  <node id='-26641' visible='true' lat='-19.245102000000003' lon='146.800859'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890052' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Howitt St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890052/gtfs/' />
+  </node>
+  <node id='-26640' visible='true' lat='-19.250224' lon='146.686724'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890648' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bohlevale State School' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890648/gtfs/' />
+  </node>
+  <node id='-26639' visible='true' lat='-19.275131999999996' lon='146.749964'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890079' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Banora Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890079/gtfs/' />
+  </node>
+  <node id='-26638' visible='true' lat='-19.280726' lon='146.750552'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890009' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pankina St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890009/gtfs/' />
+  </node>
+  <node id='-26637' visible='true' lat='-19.373471' lon='146.730164'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890495' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bassano Way' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890495/gtfs/' />
+  </node>
+  <node id='-26636' visible='true' lat='-19.270110000000003' lon='146.820464'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890414' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Twelfth Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890414/gtfs/' />
+  </node>
+  <node id='-26635' visible='true' lat='-19.281043' lon='146.783847'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890333' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gill Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890333/gtfs/' />
+  </node>
+  <node id='-26634' visible='true' lat='-19.311021999999998' lon='146.778526'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890361' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Larkspur Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890361/gtfs/' />
+  </node>
+  <node id='-26633' visible='true' lat='-19.323575' lon='146.81846200000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890298' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marconi St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890298/gtfs/' />
+  </node>
+  <node id='-26632' visible='true' lat='-19.285225999999998' lon='146.788779'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890226' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Derby St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890226/gtfs/' />
+  </node>
+  <node id='-26631' visible='true' lat='-19.259393' lon='146.775335'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890144' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dearness St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890144/gtfs/' />
+  </node>
+  <node id='-26630' visible='true' lat='-19.278426' lon='146.799694'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890632' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hermit Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890632/gtfs/' />
+  </node>
+  <node id='-26629' visible='true' lat='-19.269643' lon='146.79296800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890065' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville Showgrounds' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890065/gtfs/' />
+  </node>
+  <node id='-26628' visible='true' lat='-19.288175' lon='146.761828'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890003' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vincent Village' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890003/gtfs/' />
+  </node>
+  <node id='-26627' visible='true' lat='-19.209385' lon='146.670296'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890556' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway 890556' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890556/gtfs/' />
+  </node>
+  <node id='-26626' visible='true' lat='-19.288623' lon='146.796829'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890435' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jameson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890435/gtfs/' />
+  </node>
+  <node id='-26625' visible='true' lat='-19.286442' lon='146.764209'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890355' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ronan St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890355/gtfs/' />
+  </node>
+  <node id='-26624' visible='true' lat='-19.259256' lon='146.814015'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890283' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890283/gtfs/' />
+  </node>
+  <node id='-26623' visible='true' lat='-19.248971' lon='146.67262'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890662' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Meranti St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890662/gtfs/' />
+  </node>
+  <node id='-26622' visible='true' lat='-19.303776' lon='146.746341'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890245' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tapiolas Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890245/gtfs/' />
+  </node>
+  <node id='-26621' visible='true' lat='-19.318945' lon='146.743197'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890170' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='White Beach Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890170/gtfs/' />
+  </node>
+  <node id='-26620' visible='true' lat='-19.354588' lon='146.73224'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890591' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Santal Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890591/gtfs/' />
+  </node>
+  <node id='-26619' visible='true' lat='-19.298222000000003' lon='146.762857'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890091' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stockland Aitkenvale (Ross River Rd)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890091/gtfs/' />
+  </node>
+  <node id='-26618' visible='true' lat='-19.274542' lon='146.773203'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890021' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bayswater / Mooney' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890021/gtfs/' />
+  </node>
+  <node id='-26617' visible='true' lat='-19.240358999999998' lon='146.66481799999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890550' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodlands Caravan Park' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890550/gtfs/' />
+  </node>
+  <node id='-26616' visible='true' lat='-19.320277' lon='146.724421'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890455' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='High Range Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890455/gtfs/' />
+  </node>
+  <node id='-26615' visible='true' lat='-19.298122' lon='146.820198'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890378' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McAlister St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890378/gtfs/' />
+  </node>
+  <node id='-26614' visible='true' lat='-19.344553000000005' lon='146.834122'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890310' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roe St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890310/gtfs/' />
+  </node>
+  <node id='-26613' visible='true' lat='-19.294159' lon='146.75558'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890239' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lindeman Ave' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890239/gtfs/' />
+  </node>
+  <node id='-26612' visible='true' lat='-19.254124' lon='146.702196'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890656' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='North Shore' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890656/gtfs/' />
+  </node>
+  <node id='-26611' visible='true' lat='-19.317197000000004' lon='146.759802'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890156' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverside Bvd' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890156/gtfs/' />
+  </node>
+  <node id='-26610' visible='true' lat='-19.310754' lon='146.746977'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890611' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Louise St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890611/gtfs/' />
+  </node>
+  <node id='-26609' visible='true' lat='-19.2494' lon='146.80956800000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890044' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Burke St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890044/gtfs/' />
+  </node>
+  <node id='-26608' visible='true' lat='-19.219937' lon='146.67027'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890568' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Low Parkway  890568' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890568/gtfs/' />
+  </node>
+  <node id='-26607' visible='true' lat='-19.303443000000005' lon='146.753251'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890448' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Killara St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890448/gtfs/' />
+  </node>
+  <node id='-26606' visible='true' lat='-19.268225' lon='146.829399'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890367' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hubert St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890367/gtfs/' />
+  </node>
+  <node id='-26605' visible='true' lat='-19.300987' lon='146.741306'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890262' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Catalonia St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890262/gtfs/' />
+  </node>
+  <node id='-26604' visible='true' lat='-19.352700000000002' lon='146.731974'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890675' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverway Drv( Loam Island)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890675/gtfs/' />
+  </node>
+  <node id='-26603' visible='true' lat='-19.316749' lon='146.75565999999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890179' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Regatta Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890179/gtfs/' />
+  </node>
+  <node id='-26602' visible='true' lat='-19.257534' lon='146.775461'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890113' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Halifax St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890113/gtfs/' />
+  </node>
+  <node id='-26601' visible='true' lat='-19.319941' lon='146.72660899999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890603' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sunland Plaza' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890603/gtfs/' />
+  </node>
+  <node id='-26600' visible='true' lat='-19.249163' lon='146.791204'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890038' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Evans St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890038/gtfs/' />
+  </node>
+  <node id='-26599' visible='true' lat='-19.367487' lon='146.731438'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890472' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverway / Allambie' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890472/gtfs/' />
+  </node>
+  <node id='-26598' visible='true' lat='-19.30878' lon='146.723427'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890397' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sandstone Dr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890397/gtfs/' />
+  </node>
+  <node id='-26597' visible='true' lat='-19.311228' lon='146.78388399999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890320' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Indigo Cr' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890320/gtfs/' />
+  </node>
+  <node id='-26596' visible='true' lat='-19.318278000000003' lon='146.709114'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890256' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kirwan (Golf Links Dr)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890256/gtfs/' />
+  </node>
+  <node id='-26595' visible='true' lat='-19.317753' lon='146.741499'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890173' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rivergreen Ct' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890173/gtfs/' />
+  </node>
+  <node id='-26594' visible='true' lat='-19.264294' lon='146.781618'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890134' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Douglas St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890134/gtfs/' />
+  </node>
+  <node id='-26593' visible='true' lat='-19.253939999999997' lon='146.788075'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890057' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='William St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890057/gtfs/' />
+  </node>
+  <node id='-26592' visible='true' lat='-19.29622' lon='146.770109'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890619' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Charlotte St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890619/gtfs/' />
+  </node>
+  <node id='-26591' visible='true' lat='-19.332127' lon='146.724701'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890458' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gouldian / Lorikeet' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890458/gtfs/' />
+  </node>
+  <node id='-26590' visible='true' lat='-19.316709' lon='146.79275'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890391' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville Grammar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890391/gtfs/' />
+  </node>
+  <node id='-26589' visible='true' lat='-19.268707' lon='146.806843'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890346' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Townsville Station' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890346/gtfs/' />
+  </node>
+  <node id='-26588' visible='true' lat='-19.288046999999995' lon='146.7755'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='890275' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pearson St' />
+    <tag k='public_transport' v='platform' />
+    <tag k='url' v='http://translink.com.au/stop/890275/gtfs/' />
+  </node>
+</osm>

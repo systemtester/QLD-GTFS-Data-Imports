@@ -1,0 +1,2880 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-7039' visible='true' lat='-16.879563' lon='145.716271'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750149' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Smithfield Rd C200' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7038' visible='true' lat='-16.905445999999998' lon='145.758758'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750140' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C216' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7037' visible='true' lat='-16.967521' lon='145.743649'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750419' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson Rd C286 (Coconut Village)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7036' visible='true' lat='-16.811144' lon='145.721039'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750062' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Varley St N34' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7035' visible='true' lat='-16.743589999999998' lon='145.668217'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750000' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cedar Rd (Palm Cove) - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7034' visible='true' lat='-16.797804000000003' lon='145.694451'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750351' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Manus St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7033' visible='true' lat='-17.085982999999995' lon='145.779293'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750312' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7032' visible='true' lat='-16.928796' lon='145.75869099999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750243' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C64' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7031' visible='true' lat='-16.907382' lon='145.733738'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750169' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7030' visible='true' lat='-16.916818' lon='145.76751199999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750134' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C5' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7029' visible='true' lat='-16.793547' lon='145.692765'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750024' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moresby St N218' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7028' visible='true' lat='-16.906869' lon='145.69303700000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750369' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7027' visible='true' lat='-17.020294000000003' lon='145.739212'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750298' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mill Rd S218' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7026' visible='true' lat='-16.944504000000002' lon='145.738968'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750237' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stockland Earlville' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7025' visible='true' lat='-16.959028' lon='145.728104'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750264' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toogood St C97' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7024' visible='true' lat='-16.914727' lon='145.748874'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750192' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C36' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7023' visible='true' lat='-16.903754000000003' lon='145.697851'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750080' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Michaelangelo Dr N238' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7022' visible='true' lat='-16.767375000000005' lon='145.677058'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750009' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Arlington Esplanade N5 (Clifton Beach)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7021' visible='true' lat='-17.003485' lon='145.720803'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750395' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dan Jones St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7020' visible='true' lat='-17.09878' lon='145.780389'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750319' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Griffin St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7019' visible='true' lat='-16.93138' lon='145.75787700000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750250' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd app Creedy St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7018' visible='true' lat='-16.927291' lon='145.74008'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750186' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raintrees Shopping Centre - C287' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7017' visible='true' lat='-16.908493' lon='145.761255'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750107' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C93' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7016' visible='true' lat='-16.762725' lon='145.669745'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750036' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Endeavour Road N207' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7015' visible='true' lat='-17.102053000000005' lon='145.776891'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750415' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverstone Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7014' visible='true' lat='-16.804963' lon='145.7018'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750347' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reed Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7013' visible='true' lat='-16.977844999999995' lon='145.739812'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750276' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Gardens Blvd S201' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7012' visible='true' lat='-16.914958' lon='145.749014'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750205' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C229' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7011' visible='true' lat='-16.880985' lon='145.715184'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750092' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freshwater State School - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7010' visible='true' lat='-16.922732999999997' lon='145.776419'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750125' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Transit Mall Zone E - C250' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7009' visible='true' lat='-16.808016' lon='145.721234'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750057' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Varley St N221' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7008' visible='true' lat='-16.996996' lon='145.739332'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750408' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nimroud Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7007' visible='true' lat='-16.959306' lon='145.746822'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750331' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bruce Hwy C59' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7006' visible='true' lat='-16.927422' lon='145.75576'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750230' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aumuller St C267' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7005' visible='true' lat='-16.901125' lon='145.74096'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750162' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edge Hill' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7004' visible='true' lat='-16.913433' lon='145.76967'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750114' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Base Hospital C11' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7003' visible='true' lat='-16.817513' lon='145.693047'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750043' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Captain Cook Hwy N25' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7002' visible='true' lat='-16.824547' lon='145.703782'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750432' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sunbus Depot' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7001' visible='true' lat='-16.764017000000003' lon='145.667882'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750005' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Elford Street - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-7000' visible='true' lat='-16.78891' lon='145.696057'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750356' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6999' visible='true' lat='-16.99707' lon='145.739414'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750293' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafalgar Rd S209' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6998' visible='true' lat='-16.931624' lon='145.759624'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750222' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aumuller St C269' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6997' visible='true' lat='-16.885783' lon='145.747623'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750148' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Palmerston St - Hail and Ride (Aeroglen)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6996' visible='true' lat='-16.907678' lon='145.760123'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750139' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C7' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6995' visible='true' lat='-16.851404' lon='145.736154'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750069' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Holloways Beach N38' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6994' visible='true' lat='-16.983209000000002' lon='145.746467'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750426' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Frangipanni St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6993' visible='true' lat='-16.797834' lon='145.694279'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750350' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Manus St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6992' visible='true' lat='-17.029114999999997' lon='145.74731300000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750311' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Farmer St S44' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6991' visible='true' lat='-16.931304' lon='145.75742599999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750242' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd f/side Creedy St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6990' visible='true' lat='-16.900692' lon='145.734601'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750176' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodward St C40' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6989' visible='true' lat='-16.916498' lon='145.768656'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750133' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Upward St C15' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6988' visible='true' lat='-16.795201' lon='145.687751'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750022' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Madang St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6987' visible='true' lat='-16.894962' lon='145.699424'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750368' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6986' visible='true' lat='-17.020884000000002' lon='145.744671'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750305' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cattle St S14' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6985' visible='true' lat='-16.943468' lon='145.735887'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750236' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Balaclava Rd C275' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6984' visible='true' lat='-16.963423' lon='145.730333'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750263' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fairview St C281 (Forno Park)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6983' visible='true' lat='-16.915615' lon='145.746079'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750191' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C35' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6982' visible='true' lat='-16.879812' lon='145.68995'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750079' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Western Art N60' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6981' visible='true' lat='-16.795858' lon='145.687685'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750016' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinity Beach Rd N220' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6980' visible='true' lat='-17.01005' lon='145.726368'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750394' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Templar Cr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6979' visible='true' lat='-17.101934' lon='145.776789'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750318' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverstone Rd S50' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6978' visible='true' lat='-16.957074' lon='145.73810000000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750257' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toogood Rd C54' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6977' visible='true' lat='-16.921479000000005' lon='145.740305'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750185' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pease St C29 (Cairns Villa &amp; Leisure Park)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6976' visible='true' lat='-16.9061' lon='145.759681'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750106' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C3' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6975' visible='true' lat='-16.771405' lon='145.674789'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750035' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clifton Beach N211' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6974' visible='true' lat='-16.905599' lon='145.735708'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750383' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Polentz St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6973' visible='true' lat='-16.815052' lon='145.693889'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750346' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cheviot St - Hail and Ride (Smithfield SHS)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6972' visible='true' lat='-16.971148000000003' lon='145.748611'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750275' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Skull Rd S1' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6971' visible='true' lat='-16.914093' lon='145.751566'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750204' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C228' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6970' visible='true' lat='-16.882136' lon='145.712328'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750091' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Smithfield Rd C46' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6969' visible='true' lat='-16.784438000000005' lon='145.689286'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750029' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Poolwood Rd N214' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6968' visible='true' lat='-16.812252000000004' lon='145.720728'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750056' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Yorkeys Knob N33' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6967' visible='true' lat='-17.007012' lon='145.73567199999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750407' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bicentennial Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6966' visible='true' lat='-16.96253' lon='145.746616'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750330' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Charlotte Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6965' visible='true' lat='-16.987559' lon='145.743123'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750269' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Progress Rd S4 (White Rock State School)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6964' visible='true' lat='-16.900545' lon='145.733988'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750161' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodward St C207' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6963' visible='true' lat='-16.913751' lon='145.769102'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750113' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Base Hospital C12' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6962' visible='true' lat='-16.815831' lon='145.693626'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750042' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Captain Cook Hwy N22' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6961' visible='true' lat='-16.971594' lon='145.751088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750431' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kambara St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6960' visible='true' lat='-16.824337' lon='145.686317'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750363' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lydia St app Dennison St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6959' visible='true' lat='-16.995256' lon='145.741797'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750292' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafalgar Rd S208' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6958' visible='true' lat='-16.933428999999997' lon='145.75356600000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750221' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='DFO Westcourt - C291' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6957' visible='true' lat='-16.903876' lon='145.751891'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750147' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Botanic Gardens (Greenslopes)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6956' visible='true' lat='-16.90341' lon='145.746296'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750146' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mayers St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6955' visible='true' lat='-16.846652' lon='145.73902'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750068' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oleander St N230' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6954' visible='true' lat='-16.98747' lon='145.74689900000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750425' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tiffany St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6953' visible='true' lat='-16.80198' lon='145.705275'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750349' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Debbie St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6952' visible='true' lat='-17.029620999999995' lon='145.74138799999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750310' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Farmer St S221' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6951' visible='true' lat='-16.928773' lon='145.75944100000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750249' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C260' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6950' visible='true' lat='-16.900906' lon='145.73717'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750175' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodward St C209' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6949' visible='true' lat='-16.915003999999996' lon='145.77054200000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750132' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Private Hospital - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6948' visible='true' lat='-16.793676' lon='145.690627'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750021' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinity Beach State School N15' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6947' visible='true' lat='-16.902575' lon='145.714434'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750375' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loridan Dr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6946' visible='true' lat='-17.020753' lon='145.744774'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750304' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cattle St S42' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6945' visible='true' lat='-16.936388' lon='145.734314'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750235' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grevillea St C90' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6944' visible='true' lat='-16.966694' lon='145.731838'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750262' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson Rd C284' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6943' visible='true' lat='-16.917496' lon='145.767148'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750198' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Upward St C243' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6942' visible='true' lat='-16.889192' lon='145.696284'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750086' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch Intake Rd N55' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6941' visible='true' lat='-16.794710000000002' lon='145.680737'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750015' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Arawa St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6940' visible='true' lat='-17.000294' lon='145.734482'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750392' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hardy Rd - Hail and Ride (Tom Murray Park)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6939' visible='true' lat='-17.012096' lon='145.73501299999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750325' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bicentennial Rd S8' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6938' visible='true' lat='-16.954229' lon='145.74283'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750256' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toogood Rd C277' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6937' visible='true' lat='-16.92039' lon='145.734164'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750184' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murray St C31' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6936' visible='true' lat='-16.903432999999996' lon='145.757823'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750105' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St - C2 (Tobruk Pool)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6935' visible='true' lat='-16.775086' lon='145.674967'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750034' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Evergreen St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6934' visible='true' lat='-16.907376' lon='145.73385000000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750382' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen St C218' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6933' visible='true' lat='-16.768916' lon='145.67532399999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750345' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clifton Rd  - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6932' visible='true' lat='-16.971620000000005' lon='145.750893'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750274' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kambara St S2' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6931' visible='true' lat='-16.937824' lon='145.730418'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750211' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lavender St C274' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6930' visible='true' lat='-16.875049' lon='145.736144'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750099' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stratford Pde N49' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6929' visible='true' lat='-16.795056' lon='145.68056900000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750028' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Arawa St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6928' visible='true' lat='-16.817913' lon='145.720095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750055' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Varley St N225' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6927' visible='true' lat='-17.012063' lon='145.735157'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750406' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Resolution Dr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6926' visible='true' lat='-16.746247999999998' lon='145.664794'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750337' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Warren St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6925' visible='true' lat='-16.967287' lon='145.74579400000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750268' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loretta Ave C286' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6924' visible='true' lat='-16.904361' lon='145.72867100000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750160' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McManus St C215' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6923' visible='true' lat='-16.916483' lon='145.768374'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750112' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Upward St - Hail and Ride Location (CSHS)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6922' visible='true' lat='-16.831011' lon='145.690245'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750049' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gavin St N28' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6921' visible='true' lat='-16.837157' lon='145.69498399999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750362' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mount Milman Dr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6920' visible='true' lat='-16.990369' lon='145.739621'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750291' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Barnard Dr S207' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6919' visible='true' lat='-16.925692' lon='145.754502'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750220' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aumuller St C258' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6918' visible='true' lat='-16.893099' lon='145.712987'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750154' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loridan Dr C49 (Brinsmead)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6917' visible='true' lat='-16.90308' lon='145.742756'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750145' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Greenslopes St C213' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6916' visible='true' lat='-16.843525' lon='145.739392'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750067' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oleander St N42' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6915' visible='true' lat='-16.987506999999997' lon='145.742876'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750424' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='White Rock State School - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6914' visible='true' lat='-16.80213' lon='145.705403'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750348' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Debbie St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6913' visible='true' lat='-17.006542999999997' lon='145.730169'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750285' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Robert Rd S46' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6912' visible='true' lat='-16.926856999999995' lon='145.762367'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750248' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C259' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6911' visible='true' lat='-16.901115' lon='145.73965599999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750174' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodward St C210' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6910' visible='true' lat='-16.921001' lon='145.776398'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750129' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abbott St C245' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6909' visible='true' lat='-16.810622' lon='145.723304'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750061' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wattle St N222' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6908' visible='true' lat='-16.893231' lon='145.71295300000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750374' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loridan Dr (Brinsmead) - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6907' visible='true' lat='-17.024052' lon='145.73961'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750303' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Peter Rd S220' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6906' visible='true' lat='-16.926687' lon='145.73066600000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750234' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McGregor St C68' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6905' visible='true' lat='-16.909353' lon='145.73314'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750168' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen / Redwood - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6904' visible='true' lat='-16.918294000000003' lon='145.763627'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750197' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martyn St C223' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6903' visible='true' lat='-16.895123' lon='145.699482'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750085' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6902' visible='true' lat='-16.788134' lon='145.684733'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750014' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Poolwood Rd N63' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6901' visible='true' lat='-17.026298' lon='145.727978'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750448' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edmonton (Wiseman / Natale) - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6900' visible='true' lat='-17.026512' lon='145.727961'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750401' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edmonton (Wiseman / Natale) - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6899' visible='true' lat='-17.018759000000003' lon='145.74274800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750324' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ravizza Dr S41 (Edmonton Centre)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6898' visible='true' lat='-16.942286' lon='145.73995600000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750255' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C266' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6897' visible='true' lat='-16.920282000000004' lon='145.734125'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750183' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murray St C32' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6896' visible='true' lat='-16.902097' lon='145.75703399999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750104' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C212' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6895' visible='true' lat='-16.805681' lon='145.690797'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750041' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Captain Cook Hwy N17' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6894' visible='true' lat='-16.909321' lon='145.733249'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750381' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen St C219' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6893' visible='true' lat='-16.767391' lon='145.67693699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750344' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Arlington Esp N209 (Clifton Beach)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6892' visible='true' lat='-17.012439' lon='145.720409'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750281' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Timberlea Dr S215' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6891' visible='true' lat='-16.94412' lon='145.734134'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750210' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Balaclava Rd C276' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6890' visible='true' lat='-16.875192' lon='145.733311'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750098' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kamerunga Rd N51' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6889' visible='true' lat='-16.790285' lon='145.69186399999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750027' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinity Beach Rd N14' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6888' visible='true' lat='-16.837267' lon='145.695219'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750054' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Milman Dr N67' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6887' visible='true' lat='-17.104039' lon='145.771977'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750414' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hooper Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6886' visible='true' lat='-16.865696' lon='145.69039500000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750336' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Western Art N59' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6885' visible='true' lat='-16.956623' lon='145.74721'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750267' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rigg St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6884' visible='true' lat='-16.908271' lon='145.72829000000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750159' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Park St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6883' visible='true' lat='-16.922745' lon='145.776271'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750123' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Transit Mall Zone C - C249' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6882' visible='true' lat='-16.824313' lon='145.68656'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750048' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lydia Street N65' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6881' visible='true' lat='-16.784664' lon='145.67874299999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750361' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gannet St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6880' visible='true' lat='-16.97769' lon='145.739815'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750290' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Gardens Blvd S48' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6879' visible='true' lat='-16.930142' lon='145.753048'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750229' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mann St C272' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6878' visible='true' lat='-16.88516' lon='145.705001'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750153' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ryan Weare Park - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6877' visible='true' lat='-16.899605' lon='145.748215'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750144' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Collins Ave C87 (Cairns Botanic Gardens)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6876' visible='true' lat='-16.954204' lon='145.742662'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750423' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toogood Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6875' visible='true' lat='-16.840112000000005' lon='145.739789'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750066' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oleander St N40' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6874' visible='true' lat='-16.757931' lon='145.663283'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750004' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Captain Cook Hwy N3 (Cairns Tropical Zoo)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6873' visible='true' lat='-16.791482000000002' lon='145.696406'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750355' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moresby St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6872' visible='true' lat='-17.009978' lon='145.726482'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750284' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Robert Rd S213' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6871' visible='true' lat='-16.925335' lon='145.764382'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750247' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd (Parramatta Pk State Sch) C85' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6870' visible='true' lat='-16.90122' lon='145.740978'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750173' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Edge Hill' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6869' visible='true' lat='-16.909892' lon='145.76171800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750138' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C223' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6868' visible='true' lat='-16.80833' lon='145.725808'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750060' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sims Esp N37' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6867' visible='true' lat='-16.875202' lon='145.73671600000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750373' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stratford Pde - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6866' visible='true' lat='-17.026656' lon='145.737175'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750302' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Graham St S11' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6865' visible='true' lat='-16.935199' lon='145.75367'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750241' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd (DFO Westcourt) C63' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6864' visible='true' lat='-16.910775' lon='145.733497'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750167' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen St - C71' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6863' visible='true' lat='-16.916117' lon='145.760982'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750196' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martyn St C19' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6862' visible='true' lat='-16.903614' lon='145.697483'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750084' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Michaelangelo Dr N237' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6861' visible='true' lat='-16.790759' lon='145.680668'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750013' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kewarra Beach (Cottesloe Dr) N8' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6860' visible='true' lat='-16.899491999999995' lon='145.748331'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750437' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Collins Ave C87 (Cairns Botanic Gardens)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6859' visible='true' lat='-16.889287000000003' lon='145.696394'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750367' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch Intake Road - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6858' visible='true' lat='-17.018338' lon='145.726872'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750399' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker Rd S55 (Sugarworld)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6857' visible='true' lat='-17.024222' lon='145.746534'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750323' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Barrier Reef Caravilla' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6856' visible='true' lat='-16.941176' lon='145.741609'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750254' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C264' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6855' visible='true' lat='-16.916436' lon='145.743598'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750190' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C230' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6854' visible='true' lat='-16.868417' lon='145.68603399999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750078' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lake Placid Rd N64' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6853' visible='true' lat='-16.743472000000004' lon='145.668525'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750040' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Palm Cove N1' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6852' visible='true' lat='-16.910712999999998' lon='145.73361699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750380' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brooks St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6851' visible='true' lat='-17.104062' lon='145.772091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750317' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dempsey St S25' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6850' visible='true' lat='-16.990313999999998' lon='145.739497'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750280' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Sheridan Plaza - S225' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6849' visible='true' lat='-16.94423' lon='145.739119'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750209' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stockland Earlville' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6848' visible='true' lat='-16.875679' lon='145.727909'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750096' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kamerunga Rd N235' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6847' visible='true' lat='-16.791364' lon='145.696252'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750026' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moresby St N216' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6846' visible='true' lat='-17.094778' lon='145.77122500000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750413' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fisher Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6845' visible='true' lat='-16.879502' lon='145.688676'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750335' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Western Art N58' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6844' visible='true' lat='-16.956323' lon='145.741034'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750266' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toogood Rd C278' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6843' visible='true' lat='-16.913452' lon='145.75350000000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750203' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C227 (Cemetery)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6842' visible='true' lat='-16.921532' lon='145.77720699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750120' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abbott St C246' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6841' visible='true' lat='-16.818650999999996' lon='145.687364'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750047' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='James Cook University - N242' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6840' visible='true' lat='-16.783111' lon='145.68266099999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750360' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Manly Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6839' visible='true' lat='-17.017852' lon='145.742476'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750297' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ravizza Dr S217 (Edmonton Centre)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6838' visible='true' lat='-16.931539' lon='145.759208'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750228' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aumuller St C268' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6837' visible='true' lat='-16.881502' lon='145.709588'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750152' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freshwater Railway Station - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6836' visible='true' lat='-16.900162' lon='145.755778'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750143' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mother of Good Counsel School - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6835' visible='true' lat='-16.83832' lon='145.692887'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750073' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Smithfield Shopping Centre - N229' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6834' visible='true' lat='-16.976585' lon='145.75054'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750430' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kambara / Sheehy - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6833' visible='true' lat='-16.748213' lon='145.66367499999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750003' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Veivers Road N203' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6832' visible='true' lat='-16.793175' lon='145.69513199999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750354' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Saidor Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6831' visible='true' lat='-17.003374' lon='145.720759'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750283' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Timberlea Dr S211' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6830' visible='true' lat='-16.92348' lon='145.771687'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750246' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Central Shopping Centre - C88' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6829' visible='true' lat='-16.912384' lon='145.72806000000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750182' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Whitfield State School C81' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6828' visible='true' lat='-16.911895' lon='145.763235'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750137' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C224' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6827' visible='true' lat='-16.80582' lon='145.724516'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750059' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sims Esp N36' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6826' visible='true' lat='-16.875528999999997' lon='145.73145099999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750372' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kamerunga Rd C294 (Stratford)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6825' visible='true' lat='-17.030503000000003' lon='145.740031'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750309' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Farmer St S40' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6824' visible='true' lat='-16.938529' lon='145.74493000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750240' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd (Balaclava State Sch) C62' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6823' visible='true' lat='-16.912972' lon='145.73485300000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750166' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jensen St C70' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6822' visible='true' lat='-16.91418' lon='145.757573'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750195' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martyn St C79' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6821' visible='true' lat='-16.904325' lon='145.695272'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750083' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Michaelangelo Dr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6820' visible='true' lat='-16.788957' lon='145.696237'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750020' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St N13' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6819' visible='true' lat='-16.868563' lon='145.68622299999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750366' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lake Placid Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6818' visible='true' lat='-17.018146' lon='145.72695200000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750398' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker Rd S54 (Sugarworld)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6817' visible='true' lat='-17.078483000000002' lon='145.775387'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750322' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bruce Hwy S51' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6816' visible='true' lat='-16.964079000000005' lon='145.739871'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750261' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Windarra St C282' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6815' visible='true' lat='-16.91776' lon='145.740979'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750189' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C232' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6814' visible='true' lat='-16.871212' lon='145.680874'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750077' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Impey St N233 (Lake Placid)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6813' visible='true' lat='-16.744495999999998' lon='145.671045'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750039' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Williams Esplanade N202' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6812' visible='true' lat='-16.935349' lon='145.729391'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750388' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Irene St (Mooroobool) - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6811' visible='true' lat='-17.094741' lon='145.771346'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750316' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fisher Rd S52' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6810' visible='true' lat='-16.985054999999996' lon='145.73856000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750279' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Gardens Blvd S205' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6809' visible='true' lat='-16.917727' lon='145.74136799999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750208' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pease St C33' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6808' visible='true' lat='-16.87645' lon='145.723444'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750095' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kamerunga Rd C52' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6807' visible='true' lat='-16.790739' lon='145.68091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750033' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kewarra Beach (Cottesloe Dr) - Terminus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6806' visible='true' lat='-17.087461' lon='145.76664300000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750412' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gordonvale (Pyramid Estate) - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6805' visible='true' lat='-16.913739' lon='145.720848'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750334' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Western Arterial C236' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6804' visible='true' lat='-16.976594' lon='145.750373'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750273' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kambara St S49' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6803' visible='true' lat='-16.913464000000005' lon='145.755794'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750202' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martyn St C226' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6802' visible='true' lat='-16.920438' lon='145.776275'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750119' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abbott St C244' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6801' visible='true' lat='-16.821132' lon='145.695185'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750046' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McGregor Road N24' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6800' visible='true' lat='-17.013944' lon='145.73929'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750405' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ravizza Dr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6799' visible='true' lat='-17.013817' lon='145.739242'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750296' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ravizza Dr S216' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6798' visible='true' lat='-16.934701' lon='145.761964'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750227' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aumuller St C271 (Portsmith)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6797' visible='true' lat='-16.882961999999996' lon='145.713073'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750151' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Smithfield Rd C202' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6796' visible='true' lat='-16.916229' lon='145.767664'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750111' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St - Hail and Ride Location (CSHS)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6795' visible='true' lat='-16.855196999999997' lon='145.742472'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750072' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Machans Beach Access Rd  - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6794' visible='true' lat='-16.976683' lon='145.746875'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750429' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheehy Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6793' visible='true' lat='-16.749258' lon='145.667893'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750002' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Talpa Close - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6792' visible='true' lat='-16.79368' lon='145.692773'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750353' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rabaul St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6791' visible='true' lat='-17.007705' lon='145.718473'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750282' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Timberlea Dr S45' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6790' visible='true' lat='-16.922658' lon='145.75597999999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750219' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Newton St C80 (TAFE)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6789' visible='true' lat='-16.908227' lon='145.728424'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750181' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McManus St C220' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6788' visible='true' lat='-16.913363' lon='145.764399'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750136' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C6' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6787' visible='true' lat='-16.805561' lon='145.721531'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750058' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Varley St N35' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6786' visible='true' lat='-16.912855' lon='145.734922'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750379' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oregon St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6785' visible='true' lat='-17.023956' lon='145.734652'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750308' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Graham St S10 (John Walker Park)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6784' visible='true' lat='-16.939698' lon='145.743118'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750239' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C61' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6783' visible='true' lat='-16.905985' lon='145.74117'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750163' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Richardson St C217' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6782' visible='true' lat='-16.881324' lon='145.711091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750090' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lavis Rd C51' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6781' visible='true' lat='-16.78759' lon='145.696733'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750019' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinity Beach Rd N215' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6780' visible='true' lat='-16.865755' lon='145.690553'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750365' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Illawarra St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6779' visible='true' lat='-17.012516999999995' lon='145.720491'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750397' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6778' visible='true' lat='-16.999712' lon='145.73936100000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750329' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Idalia Rd S37' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6777' visible='true' lat='-16.967782' lon='145.74370599999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750260' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson Rd C285 (Coconut Village)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6776' visible='true' lat='-16.921295' lon='145.740086'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750188' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Villa &amp; Leisure Park - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6775' visible='true' lat='-16.852754' lon='145.695663'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750076' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Caravonica State School - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6774' visible='true' lat='-16.758142' lon='145.662903'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750038' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Tropical Zoo' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6773' visible='true' lat='-16.904126' lon='145.75186599999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750386' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Greenslopes St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6772' visible='true' lat='-17.09754' lon='145.781693'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750315' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverstone Rd S24' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6771' visible='true' lat='-16.983291' lon='145.736928'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750278' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bambusa Tce - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6770' visible='true' lat='-16.930673' lon='145.737959'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750215' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Swallow St C95' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6769' visible='true' lat='-16.900102' lon='145.75612'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750103' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C204 (Mother of Good Counsel)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6768' visible='true' lat='-16.784740000000003' lon='145.67887799999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750032' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gannet St N9' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6767' visible='true' lat='-16.961972' lon='145.747124'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750410' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Charlotte Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6766' visible='true' lat='-16.764381' lon='145.67534399999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750343' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Arlington Esp - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6765' visible='true' lat='-16.976584' lon='145.7469'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750272' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheehy Rd S200' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6764' visible='true' lat='-16.916277' lon='145.760761'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750201' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martyn St C20' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6763' visible='true' lat='-16.918222' lon='145.774371'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750118' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abbott St C17' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6762' visible='true' lat='-16.835082' lon='145.692535'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750053' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Smithfield Shopping Centre- N228' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6761' visible='true' lat='-17.02462' lon='145.746757'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750404' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Service Rd f/side Bruce Hwy' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6760' visible='true' lat='-17.00413' lon='145.738071'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750295' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Robert Rd S6 (Fretwell Park)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6759' visible='true' lat='-16.924857999999997' lon='145.775689'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750226' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Spence St N' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6758' visible='true' lat='-16.910983' lon='145.72804799999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750158' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Whitfield State School C221' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6757' visible='true' lat='-16.913776' lon='145.76544000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750110' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C4' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6756' visible='true' lat='-16.852642' lon='145.745694'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750071' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Machans Beach State School N43' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6755' visible='true' lat='-16.979288999999998' lon='145.744074'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750428' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Progress Rd (Trinity Anglican Sch) - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6754' visible='true' lat='-16.744015' lon='145.67110999999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750001' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Williams Esplanade N201' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6753' visible='true' lat='-16.793579' lon='145.690572'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750352' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinity Beach State School - Hail and Ride' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6752' visible='true' lat='-16.979924999999998' lon='145.737398'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750289' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Gardens Blvd S202' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6751' visible='true' lat='-16.923883' lon='145.752556'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750218' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hoare St C225 (Trinity Bay SHS)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6750' visible='true' lat='-16.903688999999996' lon='145.72885'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750180' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McManus St C84' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6749' visible='true' lat='-16.915065' lon='145.76599999999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750135' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C239' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6748' visible='true' lat='-16.839956' lon='145.739715'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750065' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bamboo St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6747' visible='true' lat='-16.959148' lon='145.727973'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750422' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Panorama St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6746' visible='true' lat='-16.913794' lon='145.740285'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750378' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piccones Shopping Village C232' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6745' visible='true' lat='-17.026729' lon='145.737624'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750307' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Peter Rd S12' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6744' visible='true' lat='-16.942199' lon='145.73934499999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750238' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C265' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6743' visible='true' lat='-16.901298' lon='145.74185999999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750172' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodward St C39' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6742' visible='true' lat='-16.881811' lon='145.70866099999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750089' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kamerunga Rd C203' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6741' visible='true' lat='-16.785488' lon='145.698902'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750018' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinity Beach N12' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6740' visible='true' lat='-16.852573' lon='145.695487'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750364' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kamerunga Rd N232 (Caravonica State School)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6739' visible='true' lat='-17.023494' lon='145.734356'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750301' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Graham St S219 (John Walker Park)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6738' visible='true' lat='-17.004180999999996' lon='145.739527'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750328' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Robert Rd S212' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6737' visible='true' lat='-16.966335' lon='145.73031'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750259' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson Rd C283' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6736' visible='true' lat='-16.925887' lon='145.741355'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750187' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raintrees Shopping Centre (Alfred St) C76' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6735' visible='true' lat='-16.848146' lon='145.695286'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750075' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Skyrail Base Station / Tjapukai - N240/N241' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6734' visible='true' lat='-16.775574' lon='145.675251'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750012' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Captain Cook Hwy N7' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6733' visible='true' lat='-16.903562' lon='145.746372'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750385' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mayers St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6732' visible='true' lat='-17.091743' lon='145.78647000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750314' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Norman St S23 (Gordonvale)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6731' visible='true' lat='-16.938903' lon='145.745107'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750253' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd (Balaclava State Sch) C263' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6730' visible='true' lat='-16.927391000000004' lon='145.734708'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750214' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Swallow St C67' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6729' visible='true' lat='-16.885651' lon='145.747646'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750102' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aeroglen Dr N46 (Aeroglen)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6728' visible='true' lat='-16.783175' lon='145.682854'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750031' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Manly Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6727' visible='true' lat='-17.07847' lon='145.775486'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750418' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Castlereagh St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6726' visible='true' lat='-16.761615' lon='145.672824'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750342' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Endeavour Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6725' visible='true' lat='-16.979336' lon='145.743956'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750271' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Progress Rd S3 (Trinity Anglican School)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6724' visible='true' lat='-16.919261' lon='145.764173'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750199' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martyn St C235' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6723' visible='true' lat='-16.922427' lon='145.777614'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750128' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abbott St C247' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6722' visible='true' lat='-16.825894' lon='145.69242'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750052' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Captain Cook Hwy N227' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6721' visible='true' lat='-17.034194' lon='145.74052'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750403' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Farmer St (Edmonton) - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6720' visible='true' lat='-16.999537' lon='145.739387'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750294' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Idalia Rd S210' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6719' visible='true' lat='-16.93116' lon='145.744212'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750233' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lennon St C273' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6718' visible='true' lat='-16.913262' lon='145.72240199999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750157' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Western Arterial C89' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6717' visible='true' lat='-16.91247' lon='145.764233'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750109' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C225' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6716' visible='true' lat='-16.983039' lon='145.746567'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750427' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Frangipanni St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6715' visible='true' lat='-16.850758' lon='145.74697800000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750070' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Machans Beach (Prior St) N231' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6714' visible='true' lat='-16.764349' lon='145.675419'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750008' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Arlington Esplanade - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6713' visible='true' lat='-16.779088' lon='145.683072'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750359' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Albatross St N10' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6712' visible='true' lat='-16.983341999999997' lon='145.736829'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750288' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Gardens Blvd S39' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6711' visible='true' lat='-16.923373' lon='145.74774699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750217' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hoare St C77' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6710' visible='true' lat='-16.900601' lon='145.73347399999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750177' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woodward St C208' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6709' visible='true' lat='-16.90212' lon='145.756668'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750142' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St Cairns Nth - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6708' visible='true' lat='-16.816519' lon='145.720424'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750064' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Varley St N224' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6707' visible='true' lat='-16.963404' lon='145.730442'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750421' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forno Park - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6706' visible='true' lat='-16.913931' lon='145.740285'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750377' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piccones Shopping Village' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6705' visible='true' lat='-17.024085000000003' lon='145.739712'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750306' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mt Peter Rd S13' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6704' visible='true' lat='-16.922989' lon='145.771593'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750245' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Central Shopping Centre C253' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6703' visible='true' lat='-16.905867' lon='145.741115'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750171' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Richardson St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6702' visible='true' lat='-16.885024' lon='145.704859'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750088' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ryan Weare Park - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6701' visible='true' lat='-16.790495' lon='145.690999'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750017' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinity Beach Rd N11' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6700' visible='true' lat='-16.876622' lon='145.723502'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750371' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Primo St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6699' visible='true' lat='-17.022078' lon='145.724917'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750300' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hambledon Dr S43 (Sugarworld Gardens)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6698' visible='true' lat='-17.003865' lon='145.736406'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750327' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Robert Rd S7' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6697' visible='true' lat='-16.957786999999996' lon='145.73447199999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750258' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toogood Rd C279' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6696' visible='true' lat='-16.913349999999998' lon='145.755883'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750194' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martyn St app Thomas St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6695' visible='true' lat='-16.906791' lon='145.692915'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750082' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch N66' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6694' visible='true' lat='-16.771844' lon='145.67469'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750011' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clifton Beach N210' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6693' visible='true' lat='-16.903321' lon='145.742733'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750384' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Crathern Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6692' visible='true' lat='-17.086211' lon='145.779372'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750321' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Rd S222 (Pyramid Retirement Ctr)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6691' visible='true' lat='-16.937873' lon='145.74807099999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750252' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dalton St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6690' visible='true' lat='-16.926667' lon='145.731824'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750213' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McGregor St C69' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6689' visible='true' lat='-16.882844' lon='145.745708'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750101' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aeroglen Dr N47' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6688' visible='true' lat='-16.779072' lon='145.683388'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750030' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wagtail Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6687' visible='true' lat='-17.087625' lon='145.783666'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750417' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Rd S21' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6686' visible='true' lat='-16.749146' lon='145.667916'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750339' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Veivers Rd N204' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6685' visible='true' lat='-16.987489' lon='145.746779'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750270' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tiffany St S206' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6684' visible='true' lat='-16.916745' lon='145.743747'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750207' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C231' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6683' visible='true' lat='-16.877332000000003' lon='145.716876'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750094' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kamerunga Rd C47' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6682' visible='true' lat='-16.922969' lon='145.77660999999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750127' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Transit Mall Zone G - C251' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6681' visible='true' lat='-16.82102' lon='145.695377'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750051' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McGregor Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6680' visible='true' lat='-17.034301' lon='145.740329'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750402' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Farmer St (Edmonton) - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6679' visible='true' lat='-16.916833000000004' lon='145.733836'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750333' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reservoir Rd C241' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6678' visible='true' lat='-16.925192' lon='145.746225'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750232' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='English St C256' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6677' visible='true' lat='-16.904468' lon='145.710137'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750156' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loridan Dr C50' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6676' visible='true' lat='-16.91024' lon='145.76256599999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750108' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C222' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6675' visible='true' lat='-16.81515' lon='145.693955'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750045' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cheviot St N26 (Smithfield State High Sch)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6674' visible='true' lat='-17.017215' lon='145.72416000000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750436' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker Rd S227 (Isabella State School)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6673' visible='true' lat='-16.761411' lon='145.672815'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750007' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Endeavour Rd N208' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6672' visible='true' lat='-16.787942' lon='145.684621'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750358' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cabarita St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6671' visible='true' lat='-16.984874' lon='145.738478'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750287' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Gardens Blvd S204' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6670' visible='true' lat='-16.925651' lon='145.74604800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750216' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='English St C257' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6669' visible='true' lat='-16.880927999999997' lon='145.715312'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750150' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freshwater State School C201' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6668' visible='true' lat='-16.904047' lon='145.757806'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750141' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sheridan St C8 (Tobruk Pool)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6667' visible='true' lat='-16.813959' lon='145.72069'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750063' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Varley St N223' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6666' visible='true' lat='-16.964064999999998' lon='145.740012'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750420' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tracey Cl - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6665' visible='true' lat='-16.904359000000003' lon='145.71005'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750376' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loridan Dr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6664' visible='true' lat='-17.087534' lon='145.78371299999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750313' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Rd S22' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6663' visible='true' lat='-16.925239' lon='145.763878'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750244' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd (Parramatta Pk State Sch) C94' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6662' visible='true' lat='-16.905411' lon='145.73568399999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750170' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Richardson St C41' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6661' visible='true' lat='-16.887208' lon='145.696504'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750087' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch Railway Station N53' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6660' visible='true' lat='-16.793107000000003' lon='145.695059'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750025' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moresby St N217' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6659' visible='true' lat='-16.887297' lon='145.696581'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750370' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Redlynch Railway Station - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6658' visible='true' lat='-17.020209' lon='145.739153'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750299' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mill Rd S9' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6657' visible='true' lat='-17.00703' lon='145.735557'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750326' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bicentennial Rd S214' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6656' visible='true' lat='-16.957904' lon='145.733465'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750265' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toogood Rd C53' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6655' visible='true' lat='-16.9136' lon='145.752195'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750193' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C37 (Cemetery)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6654' visible='true' lat='-16.904309' lon='145.695401'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750081' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Michaelangelo Dr N239' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6653' visible='true' lat='-16.769005' lon='145.67547899999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750010' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Clifton Road N6' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6652' visible='true' lat='-17.007735000000004' lon='145.718576'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750396' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Timberlea Dr - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6651' visible='true' lat='-17.097594' lon='145.781399'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750320' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riverstone Rd S224' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6650' visible='true' lat='-16.936568' lon='145.751365'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750251' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C263' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6649' visible='true' lat='-16.935382999999998' lon='145.729225'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750212' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Irene St (Mooroobool) C91' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6648' visible='true' lat='-16.876231' lon='145.741408'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750100' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aeroglen Dr N48' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6647' visible='true' lat='-16.764159' lon='145.668'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750037' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Endeavour Rd N4' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6646' visible='true' lat='-17.098791' lon='145.780559'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750416' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Griffin St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6645' visible='true' lat='-16.746357' lon='145.664877'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750338' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Warren St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6644' visible='true' lat='-16.979944' lon='145.73755'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750277' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forest Gardens Blvd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6643' visible='true' lat='-16.915966' lon='145.746186'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750206' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Anderson St C28' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6642' visible='true' lat='-16.878988' lon='145.716576'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750093' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Smithfield Rd C44' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6641' visible='true' lat='-16.922896' lon='145.776559'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750126' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Transit Mall Zone F - C24' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6640' visible='true' lat='-16.83153' lon='145.69133699999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750050' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stanton Rd N27' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6639' visible='true' lat='-16.995261' lon='145.74171'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750409' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafalgar Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6638' visible='true' lat='-16.950311' lon='145.742447'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750332' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulgrave Rd C60' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6637' visible='true' lat='-16.923659000000004' lon='145.748043'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750231' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hoare St C254' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6636' visible='true' lat='-16.902643' lon='145.714697'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750155' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loridan Dr C48' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6635' visible='true' lat='-16.914899' lon='145.770447'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750115' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cairns Private Hospital C13' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6634' visible='true' lat='-16.804876' lon='145.701651'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750044' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reed Rd - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6633' visible='true' lat='-17.017275' lon='145.724606'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750435' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walker Rd S226 (Isabella State School)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6632' visible='true' lat='-16.762801999999997' lon='145.669406'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750006' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Endeavour Road N206' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6631' visible='true' lat='-16.787267' lon='145.69676600000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750357' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Keem St - Hail and Ride Location' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6630' visible='true' lat='-17.000315' lon='145.73439599999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750286' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hardy Rd S47 (Tom Murray Park)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-6629' visible='true' lat='-16.933761' lon='145.761438'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='750223' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aumuller St C270 (Portsmith)' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>

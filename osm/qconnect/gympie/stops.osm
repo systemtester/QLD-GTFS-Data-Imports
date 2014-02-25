@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-8648' visible='true' lat='-26.198347' lon='152.639053'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770066' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bushland Drive' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8647' visible='true' lat='-26.198638999999993' lon='152.639633'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770033' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oxford Place Retierment Villag' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8646' visible='true' lat='-26.177355' lon='152.658127'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770063' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Myall Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8645' visible='true' lat='-26.200704999999996' lon='152.64892600000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770093' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ramsay Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8644' visible='true' lat='-26.202690000000004' lon='152.670593'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770022' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mark Lane' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8643' visible='true' lat='-26.188921' lon='152.679947'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770018' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cootharba Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8642' visible='true' lat='-26.070894' lon='152.78211999999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770090' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goomboorian Store' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8641' visible='true' lat='-26.191706000000003' lon='152.670654'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770047' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Railway Track' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8640' visible='true' lat='-26.181799' lon='152.663055'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770086' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Louisa Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8639' visible='true' lat='-26.181569999999997' lon='152.677872'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770015' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rifle Range Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8638' visible='true' lat='-26.179828999999998' lon='152.671753'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770044' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Carrington Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8637' visible='true' lat='-25.982432999999997' lon='152.988251'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770083' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Canberra Avenue' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8636' visible='true' lat='-26.190088000000003' lon='152.660614'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770012' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Billys Resturant' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8635' visible='true' lat='-26.175325' lon='152.68675199999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770040' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grandis Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8634' visible='true' lat='-26.202465000000004' lon='152.672256'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770072' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hughes Terrace  app Kidgell St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8633' visible='true' lat='-25.916618' lon='153.002365'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770003' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dolphin Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8632' visible='true' lat='-26.178995' lon='152.653198'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770009' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Duke Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8631' visible='true' lat='-26.202263' lon='152.675674'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770071' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Graham Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8630' visible='true' lat='-25.902359000000004' lon='153.091827'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770000' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Information Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8629' visible='true' lat='-26.20137' lon='152.65014600000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770030' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Andrea Avenue' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8628' visible='true' lat='-26.179604000000005' lon='152.655807'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770060' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pine Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8627' visible='true' lat='-26.199188000000003' lon='152.672684'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770027' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hinton Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8626' visible='true' lat='-26.217402' lon='152.687042'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770057' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Langton Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8625' visible='true' lat='-26.223357999999998' lon='152.691956'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770024' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Twin Lakes Caravan Park' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8624' visible='true' lat='-26.191738000000004' lon='152.670502'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770052' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Appllonian Vale' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8623' visible='true' lat='-26.192995' lon='152.66671799999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770020' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St Patricks Terrace' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8622' visible='true' lat='-26.194185' lon='152.68335'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770049' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Derrilin Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8621' visible='true' lat='-25.970907' lon='152.985535'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770080' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nautilus Drive  f/side Santa Maria Ct' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8620' visible='true' lat='-26.187609' lon='152.682053'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770017' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cootharba Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8619' visible='true' lat='-26.184864' lon='152.664001'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770046' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Channon St app Louisa Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8618' visible='true' lat='-26.188316' lon='152.66983'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770077' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lady Mary Terrace' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8617' visible='true' lat='-26.18491' lon='152.65936300000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770006' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gympie Base Hospital' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8616' visible='true' lat='-26.187861999999996' lon='152.673691'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770074' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Columbia Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8615' visible='true' lat='-26.197708' lon='152.647827'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770068' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Eugene Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8614' visible='true' lat='-26.184645' lon='152.659088'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770005' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gympie Base Hospital' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8613' visible='true' lat='-26.196146' lon='152.646606'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770035' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Valentine Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8612' visible='true' lat='-26.18211' lon='152.656372'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770065' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Iron Street / King Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8611' visible='true' lat='-26.201026999999993' lon='152.639786'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770032' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lilly Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8610' visible='true' lat='-26.176706000000003' lon='152.66243'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770062' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cartwright Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8609' visible='true' lat='-26.197918' lon='152.649628'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770092' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Exhibition Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8608' visible='true' lat='-26.199914999999997' lon='152.651779'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770029' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Woolgar Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8607' visible='true' lat='-26.207145999999998' lon='152.686295'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770059' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Noosa Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8606' visible='true' lat='-26.185999' lon='152.672546'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770089' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tozer Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8605' visible='true' lat='-26.209238' lon='152.676529'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770055' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Inglewood Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8604' visible='true' lat='-25.979212' lon='152.98494'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770085' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marco Polo Drive' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8603' visible='true' lat='-26.188709' lon='152.666794'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770014' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gympie Civic Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8602' visible='true' lat='-26.175145999999998' lon='152.67983999999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770043' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bath Terrace' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8601' visible='true' lat='-25.979762999999995' lon='152.982559'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770082' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Golden Hind Drive' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8600' visible='true' lat='-26.172642000000003' lon='152.667938'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770011' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Glasgow Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8599' visible='true' lat='-26.172122999999996' lon='152.684204'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770039' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Wolvi road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8598' visible='true' lat='-25.901182' lon='153.09118700000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770079' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kirchener Avenue' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8597' visible='true' lat='-25.905716000000005' lon='153.09033200000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770002' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rainbow Beach Community Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8596' visible='true' lat='-26.179153000000003' lon='152.65136700000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770008' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oak Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8595' visible='true' lat='-26.212513000000005' lon='152.68965100000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770070' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McVey Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8594' visible='true' lat='-26.176817' lon='152.671295'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770037' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Somerset Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8593' visible='true' lat='-26.200054' lon='152.643799'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770067' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Glastonbury Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8592' visible='true' lat='-26.21092' lon='152.688004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770026' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='McVey Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8591' visible='true' lat='-26.211377999999996' lon='152.67926'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770056' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roma Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8590' visible='true' lat='-26.199903' lon='152.643799'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770094' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Glastonbury Rd  app Exhibition Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8589' visible='true' lat='-26.217009' lon='152.68475300000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770023' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Information Booth' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8588' visible='true' lat='-26.195457' lon='152.674164'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770051' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Red Hill Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8587' visible='true' lat='-26.190695000000005' lon='152.669098'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770019' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lady Mary Terrace' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8586' visible='true' lat='-26.070925' lon='152.782516'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770091' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goomboorian Store' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8585' visible='true' lat='-26.192137' lon='152.680862'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770048' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ashford Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8584' visible='true' lat='-26.174972999999998' lon='152.679703'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770087' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bath Terrace' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8583' visible='true' lat='-26.184426999999996' lon='152.681641'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770016' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rifle Range Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8582' visible='true' lat='-26.182068000000005' lon='152.67067'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770045' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Horsehoe Bend Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8581' visible='true' lat='-26.18731500000001' lon='152.669128'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770076' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mellor Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8580' visible='true' lat='-26.190045999999995' lon='152.66337600000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770013' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='The Brown Jug Cafe' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8579' visible='true' lat='-26.175617' lon='152.685013'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770041' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Barton Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8578' visible='true' lat='-26.186028' lon='152.672791'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770073' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tozer Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8577' visible='true' lat='-26.188143' lon='152.66081199999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770004' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sovereign Cinema' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8576' visible='true' lat='-26.19820199999999' lon='152.649109'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770034' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Exhibition Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8575' visible='true' lat='-26.17848' lon='152.654358'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770064' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oak Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8574' visible='true' lat='-25.901608' lon='153.09184300000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770001' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lawrie Hanson Park' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8573' visible='true' lat='-26.200032999999994' lon='152.645645'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770031' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Adrian McClintock Park' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8572' visible='true' lat='-26.175612999999995' lon='152.66821300000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770061' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Parsons Rd  app Tucker St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8571' visible='true' lat='-26.188845000000004' lon='152.659225'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770028' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Returned Services League' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8570' visible='true' lat='-26.209551000000005' lon='152.682556'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770058' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tin Can Bay Rd  app Smith St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8569' visible='true' lat='-26.187197' lon='152.66897599999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770088' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mellor Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8568' visible='true' lat='-26.213823000000005' lon='152.685608'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770025' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lion Recreational Park' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8567' visible='true' lat='-26.192934' lon='152.666611'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770054' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schumann lane' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8566' visible='true' lat='-25.985353' lon='152.990845'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770084' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Investigator Drive' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8565' visible='true' lat='-26.198494000000004' lon='152.66650399999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770021' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Centro Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8564' visible='true' lat='-26.196258999999998' lon='152.68046599999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770050' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ten Pin Bowing Club' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8563' visible='true' lat='-25.976028' lon='152.979782'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770081' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vanguard Court' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8562' visible='true' lat='-26.172171000000002' lon='152.66423'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770010' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cooinda Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8561' visible='true' lat='-26.175378999999996' lon='152.672897'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770038' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Old Maryborough Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8560' visible='true' lat='-26.180162' lon='152.675095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770078' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pacey Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8559' visible='true' lat='-26.184946000000004' lon='152.653244'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770007' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Violet St f/side Jane Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8558' visible='true' lat='-26.195939999999997' lon='152.649078'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770069' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neil Street' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8557' visible='true' lat='-26.189936' lon='152.674896'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770075' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Station Road' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-8556' visible='true' lat='-26.178865' lon='152.666534'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='770036' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mulchay Terrace' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-16453' visible='true' lat='-19.159134' lon='146.855347'>
+    <tag k='amenity' v='ferry_terminal' />
+    <tag k='gtfs_id' v='820029' />
+    <tag k='name' v='Magnetic Island' />
+  </node>
+  <node id='-16452' visible='true' lat='-19.255195999999998' lon='146.826281'>
+    <tag k='amenity' v='ferry_terminal' />
+    <tag k='gtfs_id' v='890680' />
+    <tag k='name' v='Breakwater' />
+  </node>
+</osm>
