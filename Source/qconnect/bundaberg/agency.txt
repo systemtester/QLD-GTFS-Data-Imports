@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+Duffys,"QConnect-Duffys",http://www.duffysbuses.com.au/,Australia/Brisbane,en,0741514226
+Stewarts,"QConnect-Stewarts",http://www.tmr.qld.gov.au/~/media/b22b67af-c457-4986-b4bf-b8c481d40850/pdf_bundaberg_stewarts_timetable.pdf,Australia/Brisbane,en,0741532646

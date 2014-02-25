@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+TransLink SEQ,http://translink.com.au,Australia/Brisbane,en,13 12 30,http://translink.com.au/tickets-and-fares/fares/current-fares
