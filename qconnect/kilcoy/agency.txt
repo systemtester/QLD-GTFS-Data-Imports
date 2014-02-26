@@ -1,2 +1,0 @@
-agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-"qconnect-kilcoy",http://www.tmr.qld.gov.au/Travel-and-transport/Qconnect/Urban-bus-services.aspx#kilcoy_caboolture,Australia/Brisbane,en,0754971478

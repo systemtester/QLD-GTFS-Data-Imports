@@ -1,2 +1,0 @@
-agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-"QConnect-Gympie",http://www.tmr.qld.gov.au/Travel-and-transport/Qconnect/Urban-bus-services.aspx#gympie,Australia/Brisbane,en,0754804500
