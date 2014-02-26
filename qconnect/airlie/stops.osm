@@ -1,539 +1,472 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-613' visible='true' lat='-20.301569' lon='148.668137'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710000' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Orchid Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-612' visible='true' lat='-20.273895' lon='148.703308'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710013' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour / St Martins' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-611' visible='true' lat='-20.382423' lon='148.610016'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710073' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Braemar Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-610' visible='true' lat='-20.277147' lon='148.69487'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710050' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Pandanus Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-609' visible='true' lat='-20.283621' lon='148.741898'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710040' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Mandalay Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-608' visible='true' lat='-20.276979000000004' lon='148.694275'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710007' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Pandanus Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-607' visible='true' lat='-20.400497' lon='148.581589'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710070' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Waite St' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-606' visible='true' lat='-20.269785' lon='148.72083999999998'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710046' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Coconut Gr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-605' visible='true' lat='-20.277662' lon='148.72673'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710021' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Plantation Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-604' visible='true' lat='-20.285839' lon='148.68189999999998'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710004' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='William Murray Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-603' visible='true' lat='-20.323242' lon='148.653091'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710058' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Robinson Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-602' visible='true' lat='-20.333975' lon='148.648636'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710075' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brandy Creek Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-601' visible='true' lat='-20.281132' lon='148.730484'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710043' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Loop Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-600' visible='true' lat='-20.267796' lon='148.71650700000004'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710018' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Waterson Way' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-599' visible='true' lat='-20.299438' lon='148.6698'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710054' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710054' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-598' visible='true' lat='-20.299129' lon='148.669876'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710001' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710001' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-597' visible='true' lat='-20.27323' lon='148.70437600000002'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710014' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Altmann Av' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-596' visible='true' lat='-20.343719' lon='148.632584'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710074' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710074' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-595' visible='true' lat='-20.281221' lon='148.690338'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710051' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Manooka Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-594' visible='true' lat='-20.292986' lon='148.785675'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710033' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-593' visible='true' lat='-20.278101' lon='148.699753'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710008' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Whitsunday Shopping Centre' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-592' visible='true' lat='-20.374563' lon='148.62127699999996'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710063' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Camm Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-591' visible='true' lat='-20.267956' lon='148.716446'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710047' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Waterson Way' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-590' visible='true' lat='-20.281052000000003' lon='148.730972'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710022' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Loop Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-589' visible='true' lat='-20.344870000000004' lon='148.640869'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710080' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Rifle Range Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-588' visible='true' lat='-20.284504' lon='148.685303'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710005' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Macarthur Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-587' visible='true' lat='-20.333841000000003' lon='148.649109'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710059' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brandy Creek Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-586' visible='true' lat='-20.277885' lon='148.726746'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710044' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Plantation Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-585' visible='true' lat='-20.269440000000003' lon='148.720322'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710019' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Airlie Esp' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-584' visible='true' lat='-20.322556' lon='148.65304599999996'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710076' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Gregory Cannon Valley Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-583' visible='true' lat='-20.301409' lon='148.668411'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710055' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Orchid Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-582' visible='true' lat='-20.279074' lon='148.754517'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710037' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710037' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-581' visible='true' lat='-20.264996999999997' lon='148.713379'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710015' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Ocean View Av' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-580' visible='true' lat='-20.405974999999998' lon='148.582062'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710067' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Ruge St' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-579' visible='true' lat='-20.284868000000003' lon='148.684982'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710052' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Wills Ct' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-578' visible='true' lat='-20.291153' lon='148.782684'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710034' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Motel' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-577' visible='true' lat='-20.278677' lon='148.700378'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710009' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Island Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-576' visible='true' lat='-20.382586000000003' lon='148.610336'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710064' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Braemar Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-575' visible='true' lat='-20.27388' lon='148.703568'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710048' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour / St Martins' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-574' visible='true' lat='-20.283308' lon='148.73875400000003'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710024' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Ferntree Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-573' visible='true' lat='-20.345156' lon='148.641098'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710060' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Rifle Range Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-572' visible='true' lat='-20.39942' lon='148.585083'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710071' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Taylor St' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-571' visible='true' lat='-20.274693' lon='148.724396'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710020' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Hermitage Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-570' visible='true' lat='-20.308216' lon='148.65998800000003'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710077' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Riordanvale Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-569' visible='true' lat='-20.304117' lon='148.665146'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710056' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Stanley Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-568' visible='true' lat='-20.276076999999997' lon='148.752396'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710038' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710038' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-567' visible='true' lat='-20.266995999999995' lon='148.711563'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710016' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Able Point Marina' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-566' visible='true' lat='-20.403431' lon='148.572739'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710068' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dodd St' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-565' visible='true' lat='-20.286058' lon='148.681686'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710053' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='William Murray Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-564' visible='true' lat='-20.286287' lon='148.770889'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710035' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710035' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-563' visible='true' lat='-20.289202' lon='148.67486599999998'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710002' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Cannonvale Shopping Centre' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-562' visible='true' lat='-20.379684' lon='148.597046'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710065' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tyree Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-561' visible='true' lat='-20.283442' lon='148.738129'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710041' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Ferntree Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-560' visible='true' lat='-20.276617' lon='148.752884'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710027' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710027' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-559' visible='true' lat='-20.344667' lon='148.630295'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710062' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Jansen Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-558' visible='true' lat='-20.379461' lon='148.597'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710072' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tyree Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-557' visible='true' lat='-20.374436999999997' lon='148.621384'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710079' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Camm Rd' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-556' visible='true' lat='-20.308262' lon='148.660141'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710057' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kookaburra Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-555' visible='true' lat='-20.271456' lon='148.749161'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710039' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Jasinique Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-554' visible='true' lat='-20.280864999999995' lon='148.690262'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710006' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Manooka Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-553' visible='true' lat='-20.403513000000004' lon='148.572784'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710069' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dodd St' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-552' visible='true' lat='-20.275251000000004' lon='148.724518'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710045' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Hermitage Dr' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-551' visible='true' lat='-20.284119' lon='148.762924'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710036' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710036' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-550' visible='true' lat='-20.28721' lon='148.67887899999997'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710003' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Shute Harbour Rd - 710003' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-549' visible='true' lat='-20.401636' lon='148.586807'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710066' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Blair St' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-548' visible='true' lat='-20.281967' lon='148.735474'>
-    <tag k='bus' v='yes' />
-    <tag k='gtfs_id' v='710042' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Cedar Ct' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
-    <tag k='public_transport' v='platform' />
-  </node>
-  <node id='-547' visible='true' lat='-20.264156' lon='148.716095'>
+  <node id='-378' action='modify' visible='true' lat='-20.264156' lon='148.716095'>
     <tag k='bus' v='yes' />
     <tag k='gtfs_id' v='710017' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Broadwater Av' />
-    <tag k='operator' v='QConnect-Whitsunday Transit' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-376' action='modify' visible='true' lat='-20.281967' lon='148.735474'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710042' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cedar Ct' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-374' action='modify' visible='true' lat='-20.401636' lon='148.586807'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710066' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Blair St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-372' action='modify' visible='true' lat='-20.28721' lon='148.67887899999997'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710003' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710003' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-370' action='modify' visible='true' lat='-20.284119' lon='148.762924'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710036' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710036' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-368' action='modify' visible='true' lat='-20.275251000000004' lon='148.724518'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710045' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hermitage Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-366' action='modify' visible='true' lat='-20.403513000000004' lon='148.572784'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710069' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dodd St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-364' action='modify' visible='true' lat='-20.280864999999995' lon='148.690262'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710006' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Manooka Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-362' action='modify' visible='true' lat='-20.271456' lon='148.749161'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710039' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jasinique Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-360' action='modify' visible='true' lat='-20.308262' lon='148.660141'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710057' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kookaburra Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-358' action='modify' visible='true' lat='-20.374436999999997' lon='148.621384'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710079' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Camm Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-356' action='modify' visible='true' lat='-20.379461' lon='148.597'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710072' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tyree Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-354' action='modify' visible='true' lat='-20.344667' lon='148.630295'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710062' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jansen Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-352' action='modify' visible='true' lat='-20.276617' lon='148.752884'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710027' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710027' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-350' action='modify' visible='true' lat='-20.283442' lon='148.738129'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710041' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ferntree Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-348' action='modify' visible='true' lat='-20.379684' lon='148.597046'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710065' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tyree Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-346' action='modify' visible='true' lat='-20.289202' lon='148.67486599999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710002' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cannonvale Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-344' action='modify' visible='true' lat='-20.286287' lon='148.770889'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710035' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710035' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-342' action='modify' visible='true' lat='-20.286058' lon='148.681686'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710053' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='William Murray Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-340' action='modify' visible='true' lat='-20.403431' lon='148.572739'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710068' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dodd St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-338' action='modify' visible='true' lat='-20.266995999999995' lon='148.711563'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710016' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Able Point Marina' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-336' action='modify' visible='true' lat='-20.276076999999997' lon='148.752396'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710038' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710038' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-334' action='modify' visible='true' lat='-20.304117' lon='148.665146'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710056' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stanley Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-332' action='modify' visible='true' lat='-20.308216' lon='148.65998800000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710077' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Riordanvale Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-330' action='modify' visible='true' lat='-20.274693' lon='148.724396'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710020' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hermitage Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-328' action='modify' visible='true' lat='-20.39942' lon='148.585083'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710071' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Taylor St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-326' action='modify' visible='true' lat='-20.345156' lon='148.641098'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710060' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rifle Range Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-324' action='modify' visible='true' lat='-20.283308' lon='148.73875400000003'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710024' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ferntree Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-322' action='modify' visible='true' lat='-20.27388' lon='148.703568'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710048' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour / St Martins' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-320' action='modify' visible='true' lat='-20.382586000000003' lon='148.610336'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710064' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Braemar Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-318' action='modify' visible='true' lat='-20.278677' lon='148.700378'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710009' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Island Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-316' action='modify' visible='true' lat='-20.291153' lon='148.782684'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710034' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Motel' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-314' action='modify' visible='true' lat='-20.284868000000003' lon='148.684982'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710052' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wills Ct' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-312' action='modify' visible='true' lat='-20.405974999999998' lon='148.582062'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710067' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ruge St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-310' action='modify' visible='true' lat='-20.264996999999997' lon='148.713379'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710015' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ocean View Av' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-308' action='modify' visible='true' lat='-20.279074' lon='148.754517'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710037' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710037' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-306' action='modify' visible='true' lat='-20.301409' lon='148.668411'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710055' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Orchid Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-304' action='modify' visible='true' lat='-20.322556' lon='148.65304599999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710076' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gregory Cannon Valley Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-302' action='modify' visible='true' lat='-20.269440000000003' lon='148.720322'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710019' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Airlie Esp' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-300' action='modify' visible='true' lat='-20.277885' lon='148.726746'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710044' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Plantation Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-298' action='modify' visible='true' lat='-20.333841000000003' lon='148.649109'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710059' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brandy Creek Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-296' action='modify' visible='true' lat='-20.284504' lon='148.685303'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710005' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Macarthur Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-294' action='modify' visible='true' lat='-20.344870000000004' lon='148.640869'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710080' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rifle Range Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-292' action='modify' visible='true' lat='-20.281052000000003' lon='148.730972'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710022' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loop Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-290' action='modify' visible='true' lat='-20.267956' lon='148.716446'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710047' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Waterson Way' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-288' action='modify' visible='true' lat='-20.374563' lon='148.62127699999996'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710063' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Camm Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-286' action='modify' visible='true' lat='-20.278101' lon='148.699753'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710008' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Whitsunday Shopping Centre' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-284' action='modify' visible='true' lat='-20.292986' lon='148.785675'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710033' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-282' action='modify' visible='true' lat='-20.281221' lon='148.690338'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710051' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Manooka Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-280' action='modify' visible='true' lat='-20.343719' lon='148.632584'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710074' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710074' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-278' action='modify' visible='true' lat='-20.27323' lon='148.70437600000002'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710014' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Altmann Av' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-276' action='modify' visible='true' lat='-20.299129' lon='148.669876'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710001' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710001' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-274' action='modify' visible='true' lat='-20.299438' lon='148.6698'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710054' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour Rd - 710054' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-272' action='modify' visible='true' lat='-20.267796' lon='148.71650700000004'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710018' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Waterson Way' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-270' action='modify' visible='true' lat='-20.281132' lon='148.730484'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710043' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Loop Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-268' action='modify' visible='true' lat='-20.333975' lon='148.648636'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710075' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brandy Creek Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-266' action='modify' visible='true' lat='-20.323242' lon='148.653091'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710058' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Robinson Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-264' action='modify' visible='true' lat='-20.285839' lon='148.68189999999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710004' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='William Murray Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-262' action='modify' visible='true' lat='-20.277662' lon='148.72673'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710021' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Plantation Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-260' action='modify' visible='true' lat='-20.269785' lon='148.72083999999998'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710046' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Coconut Gr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-258' action='modify' visible='true' lat='-20.400497' lon='148.581589'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710070' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Waite St' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-256' action='modify' visible='true' lat='-20.276979000000004' lon='148.694275'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710007' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pandanus Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-254' action='modify' visible='true' lat='-20.283621' lon='148.741898'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710040' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mandalay Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-252' action='modify' visible='true' lat='-20.277147' lon='148.69487'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710050' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pandanus Dr' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-250' action='modify' visible='true' lat='-20.382423' lon='148.610016'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710073' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Braemar Rd' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-248' action='modify' visible='true' lat='-20.273895' lon='148.703308'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710013' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Shute Harbour / St Martins' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='-246' action='modify' visible='true' lat='-20.301569' lon='148.668137'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='710000' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Orchid Rd' />
     <tag k='public_transport' v='platform' />
   </node>
 </osm>
