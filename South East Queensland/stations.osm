@@ -1,0 +1,1073 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-14885' visible='true' lat='-27.237980000000007' lon='153.017475'>
+    <tag k='gtfs_id' v='place_NLKSTA' />
+    <tag k='name' v='North Lakes' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14884' visible='true' lat='-27.456086999999997' lon='153.033669'>
+    <tag k='gtfs_id' v='place_forsta' />
+    <tag k='name' v='Fortitude Valley' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14883' visible='true' lat='-27.382135000000005' lon='153.06249'>
+    <tag k='gtfs_id' v='place_virsta' />
+    <tag k='name' v='Virginia' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14882' visible='true' lat='-27.449823' lon='153.025114'>
+    <tag k='gtfs_id' v='plcae_RCHbw' />
+    <tag k='name' v='RCH Herston' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14881' visible='true' lat='-27.451973999999993' lon='153.0182'>
+    <tag k='gtfs_id' v='place_qukgbs' />
+    <tag k='name' v='QUT Kelvin Grove' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14880' visible='true' lat='-27.852836' lon='153.317621'>
+    <tag k='gtfs_id' v='place_cmrsta' />
+    <tag k='name' v='Coomera' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14879' visible='true' lat='-27.596179' lon='152.946862'>
+    <tag k='gtfs_id' v='place_ricsta' />
+    <tag k='name' v='Richlands' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14878' visible='true' lat='-27.475978' lon='153.022298'>
+    <tag k='gtfs_id' v='place_stbfer' />
+    <tag k='name' v='South Bank citycat' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14877' visible='true' lat='-27.470798999999996' lon='153.096602'>
+    <tag k='gtfs_id' v='place_INTCAN' />
+    <tag k='name' v='Cannon Hill Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14876' visible='true' lat='-27.609435000000005' lon='152.78978600000002'>
+    <tag k='gtfs_id' v='place_bvlsta' />
+    <tag k='name' v='Booval' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14875' visible='true' lat='-27.674276' lon='152.902834'>
+    <tag k='gtfs_id' v='place_spcsta' />
+    <tag k='name' v='Springfield Central' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14874' visible='true' lat='-27.498568' lon='153.049474'>
+    <tag k='gtfs_id' v='place_langbw' />
+    <tag k='name' v='Langlands Park busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14873' visible='true' lat='-27.468238999999997' lon='153.023736'>
+    <tag k='gtfs_id' v='place_kgbs' />
+    <tag k='name' v='King George Square' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14872' visible='true' lat='-27.4314' lon='153.074694'>
+    <tag k='gtfs_id' v='place_dbnsta' />
+    <tag k='name' v='Doomben' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14871' visible='true' lat='-27.481854999999996' lon='153.02296800000002'>
+    <tag k='gtfs_id' v='place_sbasta' />
+    <tag k='name' v='South Bank' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14870' visible='true' lat='-27.565849999999998' lon='152.952516'>
+    <tag k='gtfs_id' v='place_darsta' />
+    <tag k='name' v='Darra' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14869' visible='true' lat='-27.408217000000004' lon='153.060078'>
+    <tag k='gtfs_id' v='place_INTTBL' />
+    <tag k='name' v='Toombul' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14868' visible='true' lat='-27.393164000000002' lon='153.06936699999997'>
+    <tag k='gtfs_id' v='place_norsta' />
+    <tag k='name' v='Northgate' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14867' visible='true' lat='-27.493987999999998' lon='153.030399'>
+    <tag k='gtfs_id' v='place_boggo' />
+    <tag k='name' v='Boggo Road busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14866' visible='true' lat='-27.661613999999997' lon='153.042038'>
+    <tag k='gtfs_id' v='place_broplp' />
+    <tag k='name' v='Browns Plains Plaza' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14865' visible='true' lat='-27.320967' lon='153.011308'>
+    <tag k='gtfs_id' v='place_balsta' />
+    <tag k='name' v='Bald Hills' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14864' visible='true' lat='-26.625392999999995' lon='152.958052'>
+    <tag k='gtfs_id' v='place_namsta' />
+    <tag k='name' v='Nambour' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14863' visible='true' lat='-27.486045000000004' lon='153.03486299999997'>
+    <tag k='gtfs_id' v='place_WGbw' />
+    <tag k='name' v='Woolloongabba' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14862' visible='true' lat='-27.582684' lon='153.063576'>
+    <tag k='gtfs_id' v='place_altsta' />
+    <tag k='name' v='Altandi' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14861' visible='true' lat='-27.514571' lon='153.255774'>
+    <tag k='gtfs_id' v='place_ormsta' />
+    <tag k='name' v='Ormiston' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14860' visible='true' lat='-27.564136' lon='153.081529'>
+    <tag k='gtfs_id' v='place_UMG' />
+    <tag k='name' v='Upper Mount Gravatt' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14859' visible='true' lat='-27.493862' lon='153.21852200000004'>
+    <tag k='gtfs_id' v='place_birsta' />
+    <tag k='name' v='Birkdale' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14858' visible='true' lat='-27.366076999999997' lon='153.083408'>
+    <tag k='gtfs_id' v='place_nudsta' />
+    <tag k='name' v='Nudgee' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14857' visible='true' lat='-27.525278' lon='153.01395300000001'>
+    <tag k='gtfs_id' v='place_yeesta' />
+    <tag k='name' v='Yeerongpilly' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14856' visible='true' lat='-27.688033' lon='153.158206'>
+    <tag k='gtfs_id' v='place_betsta' />
+    <tag k='name' v='Bethania' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14855' visible='true' lat='-27.447382000000008' lon='153.127376'>
+    <tag k='gtfs_id' v='place_hemsta' />
+    <tag k='name' v='Hemmant' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14854' visible='true' lat='-27.437192999999997' lon='153.158604'>
+    <tag k='gtfs_id' v='place_wyhsta' />
+    <tag k='name' v='Wynnum North' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14853' visible='true' lat='-27.268344999999993' lon='152.981793'>
+    <tag k='gtfs_id' v='place_petsta' />
+    <tag k='name' v='Petrie' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14852' visible='true' lat='-27.468876' lon='153.005225'>
+    <tag k='gtfs_id' v='place_milsta' />
+    <tag k='name' v='Milton' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14851' visible='true' lat='-28.134318000000004' lon='153.469217'>
+    <tag k='gtfs_id' v='place_pinctr' />
+    <tag k='name' v='The Pines Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14850' visible='true' lat='-27.638116000000004' lon='153.104168'>
+    <tag k='gtfs_id' v='place_wdrsta' />
+    <tag k='name' v='Woodridge' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14849' visible='true' lat='-27.604327' lon='152.709042'>
+    <tag k='gtfs_id' v='place_karsta' />
+    <tag k='name' v='Karrabin' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14848' visible='true' lat='-27.420396000000004' lon='152.992429'>
+    <tag k='gtfs_id' v='place_enosta' />
+    <tag k='name' v='Enoggera' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14847' visible='true' lat='-27.626854' lon='152.629893'>
+    <tag k='gtfs_id' v='place_thasta' />
+    <tag k='name' v='Thagoona' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14846' visible='true' lat='-27.432901' lon='153.01062800000003'>
+    <tag k='gtfs_id' v='place_newsta' />
+    <tag k='name' v='Newmarket' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14845' visible='true' lat='-27.385034' lon='153.118608'>
+    <tag k='gtfs_id' v='place_domsta' />
+    <tag k='name' v='Domestic Airport' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14844' visible='true' lat='-27.419639999999998' lon='153.04358'>
+    <tag k='gtfs_id' v='place_wolsta' />
+    <tag k='name' v='Wooloowin' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14843' visible='true' lat='-27.435290000000002' lon='153.028986'>
+    <tag k='gtfs_id' v='place_winsta' />
+    <tag k='name' v='Windsor Rail' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14842' visible='true' lat='-27.608516000000005' lon='152.901368'>
+    <tag k='gtfs_id' v='place_goosta' />
+    <tag k='name' v='Goodna' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14841' visible='true' lat='-28.097158' lon='153.399386'>
+    <tag k='gtfs_id' v='place_varsta' />
+    <tag k='name' v='Varsity Lakes' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14840' visible='true' lat='-27.465895000000007' lon='153.01876300000004'>
+    <tag k='gtfs_id' v='place_RStbw' />
+    <tag k='name' v='Roma Street busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14839' visible='true' lat='-27.311302' lon='152.989788'>
+    <tag k='gtfs_id' v='place_strsta' />
+    <tag k='name' v='Strathpine' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14838' visible='true' lat='-27.524373' lon='153.26579199999998'>
+    <tag k='gtfs_id' v='place_clesta' />
+    <tag k='name' v='Cleveland' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14837' visible='true' lat='-27.465496' lon='153.01964000000004'>
+    <tag k='gtfs_id' v='place_romsta' />
+    <tag k='name' v='Roma Street' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14836' visible='true' lat='-27.1032' lon='152.948949'>
+    <tag k='gtfs_id' v='place_mfield' />
+    <tag k='name' v='Morayfield Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14835' visible='true' lat='-27.599071' lon='152.974883'>
+    <tag k='gtfs_id' v='place_inapla' />
+    <tag k='name' v='Inala Plaza' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14834' visible='true' lat='-27.465716000000004' lon='153.025903'>
+    <tag k='gtfs_id' v='place_censta' />
+    <tag k='name' v='Central' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14833' visible='true' lat='-27.4751' lon='153.018441'>
+    <tag k='gtfs_id' v='place_sousta' />
+    <tag k='name' v='South Brisbane' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14832' visible='true' lat='-27.598377' lon='153.080075'>
+    <tag k='gtfs_id' v='place_frusta' />
+    <tag k='name' v='Fruitgrove' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14831' visible='true' lat='-27.230413000000002' lon='152.975731'>
+    <tag k='gtfs_id' v='place_daksta' />
+    <tag k='name' v='Dakabin' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14830' visible='true' lat='-27.327334000000008' lon='153.08113800000004'>
+    <tag k='gtfs_id' v='place_shnsta' />
+    <tag k='name' v='Shorncliffe' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14829' visible='true' lat='-27.501124' lon='152.971777'>
+    <tag k='gtfs_id' v='place_INTIND' />
+    <tag k='name' v='Indooroopilly' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14828' visible='true' lat='-27.567209000000005' lon='153.035713'>
+    <tag k='gtfs_id' v='place_cppsta' />
+    <tag k='name' v='Coopers Plains' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14827' visible='true' lat='-27.613531000000002' lon='152.760156'>
+    <tag k='gtfs_id' v='place_IPSINT' />
+    <tag k='name' v='Ipswich, Bell Street' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14826' visible='true' lat='-27.409476000000005' lon='152.978197'>
+    <tag k='gtfs_id' v='place_brooks' />
+    <tag k='name' v='Brookside' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14825' visible='true' lat='-27.346371999999995' lon='153.067644'>
+    <tag k='gtfs_id' v='place_bdlsta' />
+    <tag k='name' v='Boondall' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14824' visible='true' lat='-27.110226' lon='152.95261'>
+    <tag k='gtfs_id' v='place_myesta' />
+    <tag k='name' v='Morayfield' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14823' visible='true' lat='-26.718618000000006' lon='153.061896'>
+    <tag k='gtfs_id' v='place_scuniv' />
+    <tag k='name' v='USC' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14822' visible='true' lat='-27.423251999999998' lon='153.000832'>
+    <tag k='gtfs_id' v='place_aldsta' />
+    <tag k='name' v='Alderley' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14821' visible='true' lat='-26.366151' lon='152.856699'>
+    <tag k='gtfs_id' v='place_pomsta' />
+    <tag k='name' v='Pomona' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14820' visible='true' lat='-27.546644' lon='153.064468'>
+    <tag k='gtfs_id' v='place_GUbw' />
+    <tag k='name' v='Griffith University busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14819' visible='true' lat='-27.496551999999998' lon='153.040522'>
+    <tag k='gtfs_id' v='place_brdsta' />
+    <tag k='name' v='Buranda' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14818' visible='true' lat='-27.994324999999996' lon='153.350144'>
+    <tag k='gtfs_id' v='place_nrgsta' />
+    <tag k='name' v='Nerang' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14817' visible='true' lat='-27.925396000000006' lon='153.338727'>
+    <tag k='gtfs_id' v='place_helrst' />
+    <tag k='name' v='Helensvale' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14816' visible='true' lat='-26.660626000000004' lon='152.96291'>
+    <tag k='gtfs_id' v='place_wbysta' />
+    <tag k='name' v='Woombye' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14815' visible='true' lat='-27.503039000000005' lon='152.9758'>
+    <tag k='gtfs_id' v='place_indsta' />
+    <tag k='name' v='Indooroopilly' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14814' visible='true' lat='-27.613569' lon='152.732798'>
+    <tag k='gtfs_id' v='place_wulsta' />
+    <tag k='name' v='Wulkuraka' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14813' visible='true' lat='-26.725726000000005' lon='152.956928'>
+    <tag k='gtfs_id' v='place_eudsta' />
+    <tag k='name' v='Eudlo' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14812' visible='true' lat='-27.469959999999997' lon='153.188508'>
+    <tag k='gtfs_id' v='place_lotsta' />
+    <tag k='name' v='Lota' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14811' visible='true' lat='-27.994943999999997' lon='153.35043000000002'>
+    <tag k='gtfs_id' v='place_staner' />
+    <tag k='name' v='Nerang' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14810' visible='true' lat='-27.63172099999999' lon='153.09785199999996'>
+    <tag k='gtfs_id' v='place_trista' />
+    <tag k='name' v='Trinder Park' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14809' visible='true' lat='-26.808059' lon='152.96638'>
+    <tag k='gtfs_id' v='place_lansta' />
+    <tag k='name' v='Landsborough' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14808' visible='true' lat='-27.011295999999998' lon='152.945577'>
+    <tag k='gtfs_id' v='place_elmsta' />
+    <tag k='name' v='Elimbah' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14807' visible='true' lat='-27.407783999999996' lon='153.05900300000002'>
+    <tag k='gtfs_id' v='place_tomsta' />
+    <tag k='name' v='Toombul' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14806' visible='true' lat='-27.660641999999996' lon='153.173647'>
+    <tag k='gtfs_id' v='place_loghyp' />
+    <tag k='name' v='Loganholme' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14805' visible='true' lat='-27.53581' lon='153.013959'>
+    <tag k='gtfs_id' v='place_moosta' />
+    <tag k='name' v='Moorooka' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14804' visible='true' lat='-27.603420999999997' lon='152.822028'>
+    <tag k='gtfs_id' v='place_ebbsta' />
+    <tag k='name' v='Ebbw Vale' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14803' visible='true' lat='-27.439714' lon='153.16612799999996'>
+    <tag k='gtfs_id' v='place_wnmsta' />
+    <tag k='name' v='Wynnum' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14802' visible='true' lat='-27.484458999999994' lon='153.02830199999997'>
+    <tag k='gtfs_id' v='place_MATER' />
+    <tag k='name' v='Mater Hill' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14801' visible='true' lat='-27.419052' lon='152.984811'>
+    <tag k='gtfs_id' v='place_gaysta' />
+    <tag k='name' v='Gaythorne' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14800' visible='true' lat='-27.607324000000006' lon='152.667838'>
+    <tag k='gtfs_id' v='place_walsta' />
+    <tag k='name' v='Walloon' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14799' visible='true' lat='-27.446927000000002' lon='153.029209'>
+    <tag k='gtfs_id' v='place_RBWH' />
+    <tag k='name' v='RBW Hospital' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14798' visible='true' lat='-27.321934999999996' lon='153.068764'>
+    <tag k='gtfs_id' v='place_SANSTA' />
+    <tag k='name' v='Sandgate' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14797' visible='true' lat='-27.509497' lon='153.028058'>
+    <tag k='gtfs_id' v='place_faista' />
+    <tag k='name' v='Fairfield' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14796' visible='true' lat='-27.544538999999997' lon='153.013998'>
+    <tag k='gtfs_id' v='place_rocsta' />
+    <tag k='name' v='Rocklea' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14795' visible='true' lat='-27.525194' lon='153.195644'>
+    <tag k='gtfs_id' v='place_cappnr' />
+    <tag k='name' v='Capalaba Park n Ride' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14794' visible='true' lat='-27.3857' lon='153.031499'>
+    <tag k='gtfs_id' v='place_INTCHE' />
+    <tag k='name' v='Chermside' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14793' visible='true' lat='-27.347339999999996' lon='153.02890599999998'>
+    <tag k='gtfs_id' v='place_cassta' />
+    <tag k='name' v='Carseldine' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14792' visible='true' lat='-28.072017999999996' lon='153.37807699999996'>
+    <tag k='gtfs_id' v='place_rbnsta' />
+    <tag k='name' v='Robina' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14791' visible='true' lat='-27.082790000000003' lon='152.953552'>
+    <tag k='gtfs_id' v='place_cabsta' />
+    <tag k='name' v='Caboolture' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14790' visible='true' lat='-27.49804' lon='153.02463100000003'>
+    <tag k='gtfs_id' v='place_dtppbw' />
+    <tag k='name' v='Dutton Park Place' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14789' visible='true' lat='-27.401614' lon='152.93577700000003'>
+    <tag k='gtfs_id' v='place_FERSTN' />
+    <tag k='name' v='Ferny Grove' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14788' visible='true' lat='-27.596328' lon='152.83356099999997'>
+    <tag k='gtfs_id' v='place_dinsta' />
+    <tag k='name' v='Dinmore' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14787' visible='true' lat='-27.531235000000002' lon='152.979503'>
+    <tag k='gtfs_id' v='place_shesta' />
+    <tag k='name' v='Sherwood' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14786' visible='true' lat='-27.441172' lon='153.031192'>
+    <tag k='gtfs_id' v='place_fdstbw' />
+    <tag k='name' v='Federation Street busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14785' visible='true' lat='-27.409234' lon='152.956844'>
+    <tag k='gtfs_id' v='place_kepsta' />
+    <tag k='name' v='Keperra' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14784' visible='true' lat='-27.489583999999997' lon='153.055212'>
+    <tag k='gtfs_id' v='place_coosta' />
+    <tag k='name' v='Coorparoo' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14783' visible='true' lat='-27.497149' lon='153.039383'>
+    <tag k='gtfs_id' v='place_burand' />
+    <tag k='name' v='Buranda busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14782' visible='true' lat='-27.539146999999996' lon='152.980003'>
+    <tag k='gtfs_id' v='place_CORIND' />
+    <tag k='name' v='Corinda' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14781' visible='true' lat='-27.374465' lon='153.07746'>
+    <tag k='gtfs_id' v='place_baysta' />
+    <tag k='name' v='Banyo' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14780' visible='true' lat='-27.338598000000005' lon='153.06064200000003'>
+    <tag k='gtfs_id' v='place_nobsta' />
+    <tag k='name' v='North Boondall' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14779' visible='true' lat='-26.398941000000004' lon='153.092698'>
+    <tag k='gtfs_id' v='place_NSJNC' />
+    <tag k='name' v='Noosa Junction' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14778' visible='true' lat='-27.476095999999995' lon='152.996979'>
+    <tag k='gtfs_id' v='place_aucsta' />
+    <tag k='name' v='Auchenflower' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14777' visible='true' lat='-27.49378' lon='153.03079'>
+    <tag k='gtfs_id' v='place_parsta' />
+    <tag k='name' v='Park Road' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14776' visible='true' lat='-27.419887000000003' lon='153.034342'>
+    <tag k='gtfs_id' v='place_LWbw' />
+    <tag k='name' v='Lutwyche' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14775' visible='true' lat='-27.299737000000004' lon='152.986199'>
+    <tag k='gtfs_id' v='place_brasta' />
+    <tag k='name' v='Bray Park' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14774' visible='true' lat='-27.799179999999996' lon='153.28243799999998'>
+    <tag k='gtfs_id' v='place_omesta' />
+    <tag k='name' v='Ormeau' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14773' visible='true' lat='-27.358815999999994' lon='153.03685199999998'>
+    <tag k='gtfs_id' v='place_zllsta' />
+    <tag k='name' v='Zillmere' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14772' visible='true' lat='-27.382908' lon='153.072606'>
+    <tag k='gtfs_id' v='place_binsta' />
+    <tag k='name' v='Bindha' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14771' visible='true' lat='-27.709622000000003' lon='153.187528'>
+    <tag k='gtfs_id' v='place_holsta' />
+    <tag k='name' v='Holmview' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14770' visible='true' lat='-26.560672' lon='152.958104'>
+    <tag k='gtfs_id' v='place_yansta' />
+    <tag k='name' v='Yandina' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14769' visible='true' lat='-26.857056999999994' lon='152.958432'>
+    <tag k='gtfs_id' v='place_bwrsta' />
+    <tag k='name' v='Beerwah' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14768' visible='true' lat='-27.925539' lon='153.339342'>
+    <tag k='gtfs_id' v='place_helsta' />
+    <tag k='name' v='Helensvale' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14767' visible='true' lat='-27.966971' lon='153.41391'>
+    <tag k='gtfs_id' v='place_SOUTHP' />
+    <tag k='name' v='Southport' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14766' visible='true' lat='-27.429279000000005' lon='153.040364'>
+    <tag k='gtfs_id' v='place_albsta' />
+    <tag k='name' v='Albion' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14765' visible='true' lat='-27.605028000000004' lon='153.09155999999996'>
+    <tag k='gtfs_id' v='place_kursta' />
+    <tag k='name' v='Kuraby' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14764' visible='true' lat='-28.035645' lon='153.42626099999998'>
+    <tag k='gtfs_id' v='place_pacfai' />
+    <tag k='name' v='Pacific Fair Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14763' visible='true' lat='-27.486159' lon='153.192607'>
+    <tag k='gtfs_id' v='place_thosta' />
+    <tag k='name' v='Thorneside' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14762' visible='true' lat='-27.641959000000003' lon='153.114629'>
+    <tag k='gtfs_id' v='place_LOGCEN' />
+    <tag k='name' v='Logan Central Plaza' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14761' visible='true' lat='-27.470384' lon='153.024733'>
+    <tag k='gtfs_id' v='place_QSBS' />
+    <tag k='name' v='Queen Street' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14760' visible='true' lat='-27.609968000000002' lon='152.774856'>
+    <tag k='gtfs_id' v='place_eassta' />
+    <tag k='name' v='East Ipswich' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14759' visible='true' lat='-27.493166999999996' lon='152.981418'>
+    <tag k='gtfs_id' v='place_tarsta' />
+    <tag k='name' v='Taringa' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14758' visible='true' lat='-27.45738' lon='153.18043'>
+    <tag k='gtfs_id' v='place_mansta' />
+    <tag k='name' v='Manly' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14757' visible='true' lat='-27.404576999999996' lon='152.962542'>
+    <tag k='gtfs_id' v='place_grosta' />
+    <tag k='name' v='Grovely' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14756' visible='true' lat='-27.589259000000002' lon='152.92428'>
+    <tag k='gtfs_id' v='place_wacsta' />
+    <tag k='name' v='Wacol' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14755' visible='true' lat='-27.307767' lon='152.99332499999997'>
+    <tag k='gtfs_id' v='place_wesstr' />
+    <tag k='name' v='Strathpine Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14754' visible='true' lat='-26.48136' lon='152.954983'>
+    <tag k='gtfs_id' v='place_eumsta' />
+    <tag k='name' v='Eumundi' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14753' visible='true' lat='-27.592445' lon='153.068583'>
+    <tag k='gtfs_id' v='place_runsta' />
+    <tag k='name' v='Runcorn' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14752' visible='true' lat='-27.472777' lon='153.022567'>
+    <tag k='gtfs_id' v='place_ntqfer' />
+    <tag k='name' v='North Quay' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14751' visible='true' lat='-27.503396000000002' lon='153.102846'>
+    <tag k='gtfs_id' v='place_INTCAR' />
+    <tag k='name' v='Carindale Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14750' visible='true' lat='-27.418081' lon='153.05755000000002'>
+    <tag k='gtfs_id' v='place_clasta' />
+    <tag k='name' v='Clayfield' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14749' visible='true' lat='-27.599623999999995' lon='152.872158'>
+    <tag k='gtfs_id' v='place_rbksta' />
+    <tag k='name' v='Redbank' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14748' visible='true' lat='-27.668920999999997' lon='153.031233'>
+    <tag k='gtfs_id' v='place_grersl' />
+    <tag k='name' v='Greenbank RSL' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14747' visible='true' lat='-27.327857999999996' lon='153.063182'>
+    <tag k='gtfs_id' v='place_deasta' />
+    <tag k='name' v='Deagon' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14746' visible='true' lat='-27.375754' lon='153.05622'>
+    <tag k='gtfs_id' v='place_snssta' />
+    <tag k='name' v='Sunshine' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14745' visible='true' lat='-27.426815' lon='153.03292200000004'>
+    <tag k='gtfs_id' v='place_truobw' />
+    <tag k='name' v='Truro Street busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14744' visible='true' lat='-27.498132000000002' lon='153.011103'>
+    <tag k='gtfs_id' v='place_INTUQ' />
+    <tag k='name' v='UQ Chancellors&apos;s Place' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14743' visible='true' lat='-26.418122' lon='152.911224'>
+    <tag k='gtfs_id' v='place_crysta' />
+    <tag k='name' v='Cooroy' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14742' visible='true' lat='-27.496804000000004' lon='153.034021'>
+    <tag k='gtfs_id' v='place_PAH' />
+    <tag k='name' v='PA Hospital busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14741' visible='true' lat='-27.473437' lon='153.01916499999996'>
+    <tag k='gtfs_id' v='place_ccbs' />
+    <tag k='name' v='Cultural Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14740' visible='true' lat='-27.563542' lon='153.080714'>
+    <tag k='gtfs_id' v='place_INTGCY' />
+    <tag k='name' v='Garden City' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14739' visible='true' lat='-27.202453999999996' lon='152.960201'>
+    <tag k='gtfs_id' v='place_narsta' />
+    <tag k='name' v='Narangba' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14738' visible='true' lat='-27.607206' lon='152.758838'>
+    <tag k='gtfs_id' v='place_intrlk' />
+    <tag k='name' v='Riverlink Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14737' visible='true' lat='-27.363133' lon='153.012791'>
+    <tag k='gtfs_id' v='place_asphyp' />
+    <tag k='name' v='Aspley Hypermarket' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14736' visible='true' lat='-27.429431' lon='153.063375'>
+    <tag k='gtfs_id' v='place_ascsta' />
+    <tag k='name' v='Ascot' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14735' visible='true' lat='-27.464646000000002' lon='153.105593'>
+    <tag k='gtfs_id' v='place_mursta' />
+    <tag k='name' v='Murarrie' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14734' visible='true' lat='-27.415214000000002' lon='153.035521'>
+    <tag k='gtfs_id' v='place_KBbw' />
+    <tag k='name' v='Kedron Brook' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14733' visible='true' lat='-27.162037999999995' lon='152.95724'>
+    <tag k='gtfs_id' v='place_bursta' />
+    <tag k='name' v='Burpengary' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14732' visible='true' lat='-27.400871000000002' lon='153.062047'>
+    <tag k='gtfs_id' v='place_nunsta' />
+    <tag k='name' v='Nundah' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14731' visible='true' lat='-27.528541' lon='153.057393'>
+    <tag k='gtfs_id' v='place_HPW' />
+    <tag k='name' v='Holland Park West' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14730' visible='true' lat='-27.717485999999997' lon='153.20450600000004'>
+    <tag k='gtfs_id' v='place_beesta' />
+    <tag k='name' v='Beenleigh' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14729' visible='true' lat='-27.613036999999995' lon='152.760783'>
+    <tag k='gtfs_id' v='place_ipssta' />
+    <tag k='name' v='Ipswich' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14728' visible='true' lat='-27.445252' lon='153.17015800000001'>
+    <tag k='gtfs_id' v='place_wynsta' />
+    <tag k='name' v='Wynnum Central' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14727' visible='true' lat='-26.68867' lon='152.96074799999997'>
+    <tag k='gtfs_id' v='place_palsta' />
+    <tag k='name' v='Palmwoods' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14726' visible='true' lat='-26.159423999999998' lon='152.68281400000004'>
+    <tag k='gtfs_id' v='place_gymsta' />
+    <tag k='name' v='Gympie North' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14725' visible='true' lat='-26.388183' lon='153.091026'>
+    <tag k='gtfs_id' v='place_nsahds' />
+    <tag k='name' v='Noosa Heads' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14724' visible='true' lat='-27.523605000000003' lon='153.192088'>
+    <tag k='gtfs_id' v='place_capbus' />
+    <tag k='name' v='Capalaba' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14723' visible='true' lat='-27.67082' lon='153.13814199999996'>
+    <tag k='gtfs_id' v='place_logsta' />
+    <tag k='name' v='Loganlea' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14722' visible='true' lat='-27.933732' lon='153.388032'>
+    <tag k='gtfs_id' v='place_htnshp' />
+    <tag k='name' v='Harbour Town Shopping Centre' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14721' visible='true' lat='-27.485299000000005' lon='152.993074'>
+    <tag k='gtfs_id' v='place_twgsta' />
+    <tag k='name' v='Toowong' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14720' visible='true' lat='-27.71769' lon='153.204416'>
+    <tag k='gtfs_id' v='place_stabee' />
+    <tag k='name' v='Beenleigh' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14719' visible='true' lat='-27.552345999999996' lon='152.973748'>
+    <tag k='gtfs_id' v='place_oxlsta' />
+    <tag k='name' v='Oxley' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14718' visible='true' lat='-27.415492999999998' lon='153.04966'>
+    <tag k='gtfs_id' v='place_egjsta' />
+    <tag k='name' v='Eagle Junction' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14717' visible='true' lat='-27.58085' lon='153.053873'>
+    <tag k='gtfs_id' v='place_sunsta' />
+    <tag k='name' v='Sunnybank' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14716' visible='true' lat='-27.41162' lon='152.97607'>
+    <tag k='gtfs_id' v='place_mitsta' />
+    <tag k='name' v='Mitchelton' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14715' visible='true' lat='-27.520756' lon='152.975952'>
+    <tag k='gtfs_id' v='place_grasta' />
+    <tag k='name' v='Graceville' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14714' visible='true' lat='-27.43621' lon='153.019199'>
+    <tag k='gtfs_id' v='place_wilsta' />
+    <tag k='name' v='Wilston' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14713' visible='true' lat='-27.49793100000001' lon='153.017927'>
+    <tag k='gtfs_id' v='place_UQLAKE' />
+    <tag k='name' v='UQ Lakes' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14712' visible='true' lat='-27.602300000000003' lon='152.91919'>
+    <tag k='gtfs_id' v='place_gaista' />
+    <tag k='name' v='Gailes' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14711' visible='true' lat='-27.643213999999997' lon='152.592575'>
+    <tag k='gtfs_id' v='place_rossta' />
+    <tag k='name' v='Rosewood' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14710' visible='true' lat='-27.458994' lon='153.015089'>
+    <tag k='gtfs_id' v='place_NBYbw' />
+    <tag k='name' v='Normanby busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14709' visible='true' lat='-27.595629000000002' lon='152.947533'>
+    <tag k='gtfs_id' v='place_RCHSTN' />
+    <tag k='name' v='Richlands' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14708' visible='true' lat='-27.512193' lon='152.972759'>
+    <tag k='gtfs_id' v='place_chesta' />
+    <tag k='name' v='Chelmer' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14707' visible='true' lat='-27.594970999999997' lon='152.850522'>
+    <tag k='gtfs_id' v='place_rivsta' />
+    <tag k='name' v='Riverview' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14706' visible='true' lat='-27.368705000000002' lon='153.047353'>
+    <tag k='gtfs_id' v='place_geesta' />
+    <tag k='name' v='Geebung' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14705' visible='true' lat='-27.465377' lon='153.08826'>
+    <tag k='gtfs_id' v='place_cansta' />
+    <tag k='name' v='Cannon Hill' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14704' visible='true' lat='-27.553911999999997' lon='153.022602'>
+    <tag k='gtfs_id' v='place_slysta' />
+    <tag k='name' v='Salisbury' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14703' visible='true' lat='-27.497813999999995' lon='153.04426800000002'>
+    <tag k='gtfs_id' v='place_stonbw' />
+    <tag k='name' v='Stones Corner busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14702' visible='true' lat='-27.441916' lon='153.144908'>
+    <tag k='gtfs_id' v='place_linsta' />
+    <tag k='name' v='Lindum' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14701' visible='true' lat='-26.334134000000006' lon='152.822847'>
+    <tag k='gtfs_id' v='place_crnsta' />
+    <tag k='name' v='Cooran' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14700' visible='true' lat='-27.322218000000003' lon='153.069125'>
+    <tag k='gtfs_id' v='place_sgtsta' />
+    <tag k='name' v='Sandgate' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14699' visible='true' lat='-27.578592000000004' lon='153.101894'>
+    <tag k='gtfs_id' v='place_empbs' />
+    <tag k='name' v='Eight Mile Plains' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14698' visible='true' lat='-27.420437000000003' lon='152.99214900000004'>
+    <tag k='gtfs_id' v='place_INTENO' />
+    <tag k='name' v='Enoggera' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14697' visible='true' lat='-27.481668000000003' lon='153.062294'>
+    <tag k='gtfs_id' v='place_npksta' />
+    <tag k='name' v='Norman Park' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14696' visible='true' lat='-27.586540000000003' lon='153.279835'>
+    <tag k='gtfs_id' v='place_vicptb' />
+    <tag k='name' v='Victoria Point' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14695' visible='true' lat='-27.400983999999998' lon='152.935339'>
+    <tag k='gtfs_id' v='place_ferint' />
+    <tag k='name' v='Ferny Grove' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14694' visible='true' lat='-27.576575000000002' lon='153.046546'>
+    <tag k='gtfs_id' v='place_bansta' />
+    <tag k='name' v='Banoon' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14693' visible='true' lat='-26.765969999999996' lon='152.963267'>
+    <tag k='gtfs_id' v='place_molsta' />
+    <tag k='name' v='Mooloolah' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14692' visible='true' lat='-27.480866999999996' lon='153.02201899999997'>
+    <tag k='gtfs_id' v='place_SBbw' />
+    <tag k='name' v='South Bank busway' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14691' visible='true' lat='-27.607469000000002' lon='152.804699'>
+    <tag k='gtfs_id' v='place_bunsta' />
+    <tag k='name' v='Bundamba' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14690' visible='true' lat='-27.404433' lon='152.96898199999998'>
+    <tag k='gtfs_id' v='place_oxfsta' />
+    <tag k='name' v='Oxford Park' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14689' visible='true' lat='-27.510935999999997' lon='153.040234'>
+    <tag k='gtfs_id' v='place_greens' />
+    <tag k='name' v='Greenslopes' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14688' visible='true' lat='-27.445432' lon='153.037634'>
+    <tag k='gtfs_id' v='place_bowsta' />
+    <tag k='name' v='Bowen Hills' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14687' visible='true' lat='-27.402852000000003' lon='153.108638'>
+    <tag k='gtfs_id' v='place_intsta' />
+    <tag k='name' v='International Airport' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14686' visible='true' lat='-27.517764999999994' lon='153.01695'>
+    <tag k='gtfs_id' v='place_yersta' />
+    <tag k='name' v='Yeronga' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14685' visible='true' lat='-26.899363' lon='152.956306'>
+    <tag k='gtfs_id' v='place_gmtsta' />
+    <tag k='name' v='Glasshouse Mountains' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14684' visible='true' lat='-27.421941' lon='153.062465'>
+    <tag k='gtfs_id' v='place_hensta' />
+    <tag k='name' v='Hendra' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14683' visible='true' lat='-26.654609' lon='153.090985'>
+    <tag k='gtfs_id' v='place_MARSTA' />
+    <tag k='name' v='Maroochydore' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14682' visible='true' lat='-26.959891999999996' lon='152.958917'>
+    <tag k='gtfs_id' v='place_bbrsta' />
+    <tag k='name' v='Beerburrum' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14681' visible='true' lat='-27.28172' lon='152.980945'>
+    <tag k='gtfs_id' v='place_lawsta' />
+    <tag k='name' v='Lawnton' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14680' visible='true' lat='-28.070961' lon='153.37823'>
+    <tag k='gtfs_id' v='place_robrst' />
+    <tag k='name' v='Robina' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14679' visible='true' lat='-26.320905000000003' lon='152.783816'>
+    <tag k='gtfs_id' v='place_trvsta' />
+    <tag k='name' v='Traveston' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14678' visible='true' lat='-27.614900000000002' lon='153.124956'>
+    <tag k='gtfs_id' v='place_sprbst' />
+    <tag k='name' v='Springwood' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14677' visible='true' lat='-27.657333000000005' lon='153.11801799999998'>
+    <tag k='gtfs_id' v='place_kgtsta' />
+    <tag k='name' v='Kingston' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14676' visible='true' lat='-27.698207' lon='153.17044399999997'>
+    <tag k='gtfs_id' v='place_edesta' />
+    <tag k='name' v='Edens Landing' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14675' visible='true' lat='-27.614837999999995' lon='152.74542099999996'>
+    <tag k='gtfs_id' v='place_thmsta' />
+    <tag k='name' v='Thomas Street' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14674' visible='true' lat='-27.470832' lon='153.069605'>
+    <tag k='gtfs_id' v='place_mgssta' />
+    <tag k='name' v='Morningside' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14673' visible='true' lat='-27.499751999999997' lon='153.029092'>
+    <tag k='gtfs_id' v='place_dupsta' />
+    <tag k='name' v='Dutton Park' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='-14672' visible='true' lat='-27.494454000000005' lon='153.24194800000004'>
+    <tag k='gtfs_id' v='place_welsta' />
+    <tag k='name' v='Wellington Point' />
+    <tag k='public_transport' v='station' />
+  </node>
+</osm>
