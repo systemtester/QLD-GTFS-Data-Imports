@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2014-03-17T12:09:01Z"/>
+<meta osm_base="2014-03-22T12:32:02Z"/>
 
   <node id="21475889" lat="-27.5994377" lon="152.8726039" version="11" timestamp="2012-06-08T01:06:28Z" changeset="11831195" uid="320632" user="Zulu99">
     <tag k="name" v="Redbank"/>
@@ -425,6 +425,10 @@
     <tag k="railway" v="station"/>
     <tag k="source" v="http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data"/>
   </node>
+  <node id="80824535" lat="-27.4661577" lon="153.0186990" version="5" timestamp="2010-02-14T17:00:39Z" changeset="3875836" uid="74617" user="JohnSmith">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Brisbane Transit Centre"/>
+  </node>
   <node id="80845684" lat="-27.5145252" lon="153.2558270" version="5" timestamp="2012-07-20T04:20:32Z" changeset="12360306" uid="722137" user="OSMF Redaction Account">
     <tag k="name" v="Ormiston"/>
     <tag k="operator" v="QueenslandRail - City network"/>
@@ -783,6 +787,10 @@
     <tag k="qroti:stop_num" v="0"/>
     <tag k="qroti:url" v="http://qroti.com/cgi/placeinfo.pl?ID=1158"/>
   </node>
+  <node id="175268419" lat="-27.5466019" lon="153.0644357" version="3" timestamp="2013-08-25T12:03:07Z" changeset="17498061" uid="1287308" user="Martini097">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Griffith University"/>
+  </node>
   <node id="178044289" lat="-27.4501692" lon="153.0064441" version="4" timestamp="2009-03-10T21:56:17Z" changeset="777834" uid="16385" user="morb_au">
     <tag k="highway" v="bus_stop"/>
     <tag k="name" v="Windsor/Jones"/>
@@ -941,6 +949,10 @@
   <node id="254359863" lat="-27.4488943" lon="152.9957280" version="3" timestamp="2010-02-14T16:59:01Z" changeset="3875836" uid="74617" user="JohnSmith">
     <tag k="highway" v="bus_stop"/>
   </node>
+  <node id="256002251" lat="-27.4660536" lon="153.0194332" version="4" timestamp="2010-06-13T12:25:49Z" changeset="4978099" uid="114230" user="danerikk">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Roma Street"/>
+  </node>
   <node id="262256150" lat="-27.5118796" lon="152.9950610" version="3" timestamp="2009-03-05T12:26:43Z" changeset="738258" uid="16385" user="morb_au">
     <tag k="highway" v="bus_stop"/>
     <tag k="note" v="Bus terminus"/>
@@ -951,6 +963,10 @@
     <tag k="qroti:stop_num" v="(44)"/>
     <tag k="qroti:surveyed" v="2000-06-13"/>
     <tag k="qroti:url" v="http://qroti.com/cgi/placeinfo.pl?ID=815"/>
+  </node>
+  <node id="262334903" lat="-27.4983304" lon="153.0111196" version="5" timestamp="2008-09-14T15:38:32Z" changeset="640534" uid="6975" user="ulfl">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="University of Queensland"/>
   </node>
   <node id="262470376" lat="-27.5011243" lon="152.9717773" version="5" timestamp="2013-12-02T12:57:03Z" changeset="19232785" uid="1793374" user="reubot">
     <tag k="amenity" v="bus_station"/>
@@ -1178,6 +1194,32 @@
     <tag k="qroti:url" v="http://qroti.com/cgi/placeinfo.pl?ID=2291"/>
     <tag k="ref" v="15a"/>
   </node>
+  <node id="281871919" lat="-27.4978576" lon="153.0179182" version="5" timestamp="2013-11-15T10:09:27Z" changeset="18911193" uid="1793374" user="reubot">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="gtfs_id" v="place_UQLAKE"/>
+    <tag k="name" v="University of Queensland Lakes"/>
+  </node>
+  <node id="281872792" lat="-27.4520958" lon="153.0182074" version="4" timestamp="2009-11-21T16:02:40Z" changeset="3177231" uid="16385" user="morb_au">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="QUT Kelvin Grove"/>
+    <tag k="qroti:major_location" v="QUT Kelvin Grove"/>
+    <tag k="qroti:mode" v="51"/>
+    <tag k="qroti:mode_name" v="Cityxpress Stop"/>
+    <tag k="qroti:name" v="QUT Kelvin Grove"/>
+    <tag k="qroti:name_onsite" v="QUT Kelvin Grove"/>
+    <tag k="qroti:part" v="2"/>
+    <tag k="qroti:place_id" v="8426"/>
+    <tag k="qroti:surveyed" v="2004-02-18"/>
+    <tag k="qroti:url" v="http://qroti.com/cgi/placeinfo.pl?ID=8426"/>
+  </node>
+  <node id="281873426" lat="-27.4860417" lon="153.0348581" version="5" timestamp="2013-08-25T05:45:33Z" changeset="17493351" uid="1287308" user="Martini097">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Woolloongabba"/>
+  </node>
+  <node id="281873554" lat="-27.5109882" lon="153.0402481" version="3" timestamp="2013-08-25T12:03:07Z" changeset="17498061" uid="1287308" user="Martini097">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Greenslopes"/>
+  </node>
   <node id="281874956" lat="-27.5785920" lon="153.1018945" version="4" timestamp="2013-11-29T07:25:22Z" changeset="19172998" uid="1793374" user="reubot">
     <tag k="amenity" v="bus_station"/>
     <tag k="gtfs_id" v="place_empbs"/>
@@ -1186,6 +1228,15 @@
     <tag k="public_transport" v="station"/>
     <tag k="source" v="http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data"/>
   </node>
+  <node id="281875914" lat="-27.6150544" lon="153.1249070" version="2" timestamp="2010-02-15T06:51:47Z" changeset="3880463" uid="74617" user="JohnSmith">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Springwood"/>
+  </node>
+  <node id="281878655" lat="-27.6606310" lon="153.1736502" version="1" timestamp="2008-07-29T08:06:32Z" changeset="622248" uid="16385" user="morb_au">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="created_by" v="Potlatch 0.10"/>
+    <tag k="name" v="Loganholme"/>
+  </node>
   <node id="281878991" lat="-27.5990712" lon="152.9748830" version="3" timestamp="2013-12-02T08:22:34Z" changeset="19228992" uid="1793374" user="reubot">
     <tag k="amenity" v="bus_station"/>
     <tag k="bus" v="yes"/>
@@ -1193,6 +1244,11 @@
     <tag k="name" v="Inala Plaza"/>
     <tag k="public_transport" v="station"/>
     <tag k="source" v="http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data"/>
+  </node>
+  <node id="281879526" lat="-27.5487697" lon="152.9380719" version="2" timestamp="2008-11-12T01:59:01Z" changeset="739144" uid="16385" user="morb_au">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Mount Ommaney"/>
   </node>
   <node id="282237097" lat="-27.4917363" lon="152.9808089" version="4" timestamp="2009-03-06T15:02:00Z" changeset="745031" uid="16385" user="morb_au">
     <tag k="highway" v="bus_stop"/>
@@ -3257,6 +3313,10 @@
     <tag k="qroti:place_id" v="7603"/>
     <tag k="qroti:surveyed" v="2001-08-01"/>
     <tag k="qroti:url" v="http://qroti.com/cgi/placeinfo.pl?ID=7603"/>
+  </node>
+  <node id="342919631" lat="-27.6757446" lon="152.9027970" version="2" timestamp="2010-02-15T05:55:58Z" changeset="3880328" uid="74617" user="JohnSmith">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Springfield"/>
   </node>
   <node id="342993413" lat="-27.3565160" lon="152.9971871" version="6" timestamp="2009-02-07T13:51:45Z" changeset="241541" uid="21920" user="marki">
     <tag k="highway" v="bus_stop"/>
@@ -64955,6 +65015,11 @@
     <tag k="highway" v="bus_stop"/>
     <tag k="name" v="Noosa Convention Centre"/>
   </node>
+  <node id="588450627" lat="-28.0968949" lon="153.3998589" version="1" timestamp="2009-12-13T12:35:20Z" changeset="3362393" uid="16385" user="morb_au">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Varsity Lakes"/>
+    <tag k="source" v="nearmap; field-survey"/>
+  </node>
   <node id="588450629" lat="-28.0968647" lon="153.3998340" version="2" timestamp="2013-11-24T15:19:19Z" changeset="19092518" uid="1793374" user="reubot">
     <tag k="gtfs_id" v="300051"/>
     <tag k="highway" v="bus_stop"/>
@@ -65335,8 +65400,15 @@
     <tag k="highway" v="bus_stop"/>
     <tag k="name" v="Jacana Avenue"/>
   </node>
+  <node id="821493979" lat="-27.0715677" lon="153.1989788" version="1" timestamp="2010-07-17T07:38:26Z" changeset="5240074" uid="142485" user="Calrion">
+    <tag k="amenity" v="bus_station"/>
+  </node>
   <node id="821494004" lat="-27.0835856" lon="153.1637745" version="3" timestamp="2010-10-29T16:07:15Z" changeset="6219899" uid="78656" user="Walter Schlögl">
     <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="821494030" lat="-27.0871872" lon="153.1535898" version="1" timestamp="2010-07-17T07:38:32Z" changeset="5240074" uid="142485" user="Calrion">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="shelter" v="yes"/>
   </node>
   <node id="821544995" lat="-27.0735076" lon="153.1633638" version="1" timestamp="2010-07-17T08:28:04Z" changeset="5240194" uid="298970" user="davidhortonbne">
     <tag k="highway" v="bus_stop"/>
@@ -65575,6 +65647,9 @@
   <node id="1081477842" lat="-27.6533426" lon="152.8681924" version="1" timestamp="2011-01-04T02:59:48Z" changeset="6857114" uid="390739" user="bbyrd">
     <tag k="highway" v="bus_stop"/>
   </node>
+  <node id="1081482898" lat="-27.6228021" lon="152.7791244" version="1" timestamp="2011-01-04T03:28:18Z" changeset="6857114" uid="390739" user="bbyrd">
+    <tag k="amenity" v="bus_station"/>
+  </node>
   <node id="1112920911" lat="-27.9216489" lon="153.3381638" version="1" timestamp="2011-01-21T11:45:53Z" changeset="7039483" uid="349913" user="Peter W34">
     <tag k="highway" v="bus_stop"/>
   </node>
@@ -65599,6 +65674,10 @@
     <tag k="gtfs_id" v="317585"/>
     <tag k="name" v="Norman Park"/>
     <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1228883803" lat="-27.4476011" lon="153.0291072" version="2" timestamp="2013-02-13T07:22:24Z" changeset="15014718" uid="1122112" user="B22789">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Royal Brisbane and Women's Hospital"/>
   </node>
   <node id="1228883804" lat="-27.4474036" lon="153.0292225" version="1" timestamp="2011-04-02T06:42:06Z" changeset="7741308" uid="16385" user="morb_au">
     <tag k="highway" v="bus_stop"/>
@@ -65728,6 +65807,9 @@
   </node>
   <node id="1464773945" lat="-27.5382083" lon="153.2663876" version="1" timestamp="2011-10-13T05:08:13Z" changeset="9544250" uid="22094" user="nearmop">
     <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="1488327643" lat="-28.1449341" lon="153.3339849" version="1" timestamp="2011-11-01T09:38:40Z" changeset="9710835" uid="547225" user="mattsname">
+    <tag k="amenity" v="bus_station"/>
   </node>
   <node id="1504576448" lat="-27.5057068" lon="153.0253726" version="1" timestamp="2011-11-16T00:04:37Z" changeset="9840342" uid="103574" user="Unusual User Name">
     <tag k="highway" v="bus_stop"/>
@@ -66422,6 +66504,12 @@
     <tag k="highway" v="bus_stop"/>
     <tag k="source" v="http://translink.com.au/resources/about-translink/reporting-and-publications/open-data/gtfs/seq.zip"/>
   </node>
+  <node id="1586521123" lat="-26.3990984" lon="153.0928998" version="2" timestamp="2012-01-12T04:26:25Z" changeset="10366466" uid="7523" user="inas">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Noosa Junction"/>
+    <tag k="note" v="two platform bus station.  buses both ways stop on the southern side of david low way"/>
+    <tag k="source" v="survey"/>
+  </node>
   <node id="1587899289" lat="-27.4972183" lon="153.0395801" version="2" timestamp="2013-11-09T12:31:25Z" changeset="18798169" uid="1785366" user="Jward101">
     <tag k="bus" v="yes"/>
     <tag k="highway" v="bus_stop"/>
@@ -66951,6 +67039,12 @@
   <node id="1634705437" lat="-27.4927546" lon="153.0412054" version="1" timestamp="2012-02-16T00:06:09Z" changeset="10697755" uid="103574" user="Unusual User Name">
     <tag k="highway" v="bus_stop"/>
   </node>
+  <node id="1651132628" lat="-27.4971621" lon="153.0394003" version="3" timestamp="2013-11-02T15:12:40Z" changeset="18676518" uid="1785366" user="Jward101">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Buranda"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
   <node id="1658420061" lat="-27.4004632" lon="153.0313592" version="1" timestamp="2012-03-04T01:07:26Z" changeset="10863732" uid="71283" user="James Livingston">
     <tag k="highway" v="bus_stop"/>
     <tag k="name" v="Kedron North"/>
@@ -67045,6 +67139,33 @@
     <tag k="platforms" v="2"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
+  </node>
+  <node id="1742212060" lat="-27.6199128" lon="152.7771802" version="1" timestamp="2012-05-06T01:31:29Z" changeset="11513819" uid="673461" user="svict4">
+    <tag k="amenity" v="bus_station"/>
+  </node>
+  <node id="1742212063" lat="-27.6272431" lon="152.7620360" version="1" timestamp="2012-05-06T01:31:29Z" changeset="11513819" uid="673461" user="svict4">
+    <tag k="amenity" v="bus_station"/>
+  </node>
+  <node id="1742212064" lat="-27.6275894" lon="152.7622872" version="1" timestamp="2012-05-06T01:31:29Z" changeset="11513819" uid="673461" user="svict4">
+    <tag k="amenity" v="bus_station"/>
+  </node>
+  <node id="1742212065" lat="-27.6281954" lon="152.7652117" version="1" timestamp="2012-05-06T01:31:29Z" changeset="11513819" uid="673461" user="svict4">
+    <tag k="amenity" v="bus_station"/>
+  </node>
+  <node id="1742212074" lat="-27.6330424" lon="152.7562554" version="1" timestamp="2012-05-06T01:31:29Z" changeset="11513819" uid="673461" user="svict4">
+    <tag k="amenity" v="bus_station"/>
+  </node>
+  <node id="1750634837" lat="-27.4986464" lon="153.0502768" version="1" timestamp="2012-05-13T06:16:54Z" changeset="11582682" uid="679958" user="computerduck">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Langlands Park"/>
+  </node>
+  <node id="1750634838" lat="-27.4967954" lon="153.0340601" version="1" timestamp="2012-05-13T06:16:54Z" changeset="11582682" uid="679958" user="computerduck">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="PA Hospital"/>
+  </node>
+  <node id="1750634839" lat="-27.4978532" lon="153.0443005" version="3" timestamp="2013-11-29T14:07:50Z" changeset="19178806" uid="531354" user="chtfn">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Stones Corner"/>
   </node>
   <node id="1750905696" lat="-26.4061486" lon="153.0835579" version="1" timestamp="2012-05-13T10:55:39Z" changeset="11584642" uid="143129" user="petersfreeman">
     <tag k="bench" v="yes"/>
@@ -67638,6 +67759,30 @@
     <tag k="highway" v="bus_stop"/>
     <tag k="source" v="survey"/>
   </node>
+  <node id="2152876409" lat="-27.5640647" lon="153.0814631" version="2" timestamp="2013-08-25T12:03:07Z" changeset="17498061" uid="1287308" user="Martini097">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Upper Mount Gravatt"/>
+  </node>
+  <node id="2152876989" lat="-27.5285567" lon="153.0573962" version="2" timestamp="2013-08-25T12:03:07Z" changeset="17498061" uid="1287308" user="Martini097">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Holland Park"/>
+  </node>
+  <node id="2152882617" lat="-27.4979966" lon="153.0249279" version="1" timestamp="2013-02-13T07:11:44Z" changeset="15014632" uid="1122112" user="B22789">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Dutton Park"/>
+  </node>
+  <node id="2152882618" lat="-27.4940090" lon="153.0304371" version="1" timestamp="2013-02-13T07:11:44Z" changeset="15014632" uid="1122112" user="B22789">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Park Road"/>
+  </node>
+  <node id="2152884711" lat="-27.4844101" lon="153.0281943" version="1" timestamp="2013-02-13T07:16:18Z" changeset="15014671" uid="1122112" user="B22789">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Mater Hill"/>
+  </node>
+  <node id="2152885957" lat="-27.4809072" lon="153.0220249" version="1" timestamp="2013-02-13T07:16:59Z" changeset="15014671" uid="1122112" user="B22789">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="South Bank"/>
+  </node>
   <node id="2152886534" lat="-27.4734203" lon="153.0191321" version="3" timestamp="2013-11-28T12:50:56Z" changeset="19159636" uid="1793374" user="reubot">
     <tag k="amenity" v="bus_station"/>
     <tag k="area" v="yes"/>
@@ -67692,6 +67837,10 @@
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="source" v="http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data"/>
+  </node>
+  <node id="2297721394" lat="-27.9709198" lon="153.3767196" version="1" timestamp="2013-05-10T01:31:02Z" changeset="16057539" uid="461130" user="Gunner41">
+    <tag k="amenity" v="bus_station"/>
+    <tag k="name" v="Crestwood Plaza"/>
   </node>
   <node id="2315606703" lat="-27.1966493" lon="152.9922510" version="1" timestamp="2013-05-22T08:23:23Z" changeset="16234549" uid="1293194" user="nevw">
     <tag k="highway" v="bus_stop"/>
