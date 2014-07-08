@@ -1,310 +1,311 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<osm version="0.6" generator="osmconvert 0.7T">
-	<node id="1583468246" lat="-27.4751" lon="153.018441" version="3">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_sousta"/>
-		<tag k="name" v="South Brisbane"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="21477658" lat="-27.476096" lon="152.996979" version="10">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_aucsta"/>
-		<tag k="name" v="Auchenflower"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1727256242" lat="-27.595629" lon="152.947533" version="4">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_RCHSTN"/>
-		<tag k="name" v="Richlands"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-		<tag k="platforms" v="2"/>
-	</node>
-	<node id="1228883803" lat="-27.446927" lon="153.029209" version="3">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_RBWH"/>
-		<tag k="name" v="RBW Hospital"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="761956852" lat="-27.2990956" lon="152.9859624" version="4">
-		<tag k="gtfs_id" v="place_brasta"/>
-		<tag k="name" v="Bray Park"/>
-		<tag k="source" v="http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data"/>
-		<tag k="railway" v="station"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="72627546" lat="-27.311302" lon="152.989788" version="16">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_strsta"/>
-		<tag k="name" v="Strathpine"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1378705701" lat="-27.631721" lon="153.097852" version="4">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_trista"/>
-		<tag k="name" v="Trinder Park"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1764783031" lat="-27.609435" lon="152.789786" version="3">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_bvlsta"/>
-		<tag k="name" v="Booval"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="281878655" lat="-27.660642" lon="153.173647" version="2">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_loghyp"/>
-		<tag k="name" v="Loganholme"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="created_by" v="Potlatch 0.10"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="2446894007" lat="-27.23798" lon="153.017475" version="2">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="gtfs_id" v="place_NLKSTA"/>
-		<tag k="name" v="North Lakes"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="26337486" lat="-27.429279" lon="153.040364" version="9">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_albsta"/>
-		<tag k="name" v="Albion"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1651132628" lat="-27.497149" lon="153.039383" version="4">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="bus" v="yes"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_burand"/>
-		<tag k="name" v="Buranda busway"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="281875914" lat="-27.6149" lon="153.124956" version="3">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_sprbst"/>
-		<tag k="name" v="Springwood"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="2152885957" lat="-27.480867" lon="153.022019" version="2">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_SBbw"/>
-		<tag k="name" v="South Bank busway"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="262334903" lat="-27.498132" lon="153.011103" version="6">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_INTUQ"/>
-		<tag k="name" v="UQ Chancellors&#39;s Place"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1875325767" lat="-26.959892" lon="152.958917" version="2">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_bbrsta"/>
-		<tag k="name" v="Beerburrum"/>
-		<tag k="source" v="bing"/>
-		<tag k="railway" v="station"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1875506687" lat="-27.321935" lon="153.068764" version="2">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_SANSTA"/>
-		<tag k="name" v="Sandgate"/>
-		<tag k="source" v="bing"/>
-		<tag k="railway" v="station"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1875325765" lat="-27.582684" lon="153.063576" version="2">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_altsta"/>
-		<tag k="name" v="Altandi"/>
-		<tag k="source" v="bing"/>
-		<tag k="railway" v="station"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1750634838" lat="-27.496804" lon="153.034021" version="2">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_PAH"/>
-		<tag k="name" v="PA Hospital busway"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="1586521123" lat="-26.398941" lon="153.092698" version="3">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="two platform bus station.  buses both ways stop on the southern side of david low way"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_NSJNC"/>
-		<tag k="name" v="Noosa Junction"/>
-		<tag k="source" v="survey"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="60410704" lat="-27.423252" lon="153.000832" version="10">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_aldsta"/>
-		<tag k="name" v="Alderley"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="2152882618" lat="-27.493988" lon="153.030399" version="2">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_boggo"/>
-		<tag k="name" v="Boggo Road busway"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="26343508" lat="-27.429431" lon="153.063375" version="6">
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="gtfs_id" v="place_ascsta"/>
-		<tag k="name" v="Ascot"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="railway" v="station"/>
-		<tag k="operator" v="QueenslandRail - City network"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="175268419" lat="-27.546644" lon="153.064468" version="4">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_GUbw"/>
-		<tag k="name" v="Griffith University busway"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="256002251" lat="-27.465895" lon="153.018763" version="5">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_RStbw"/>
-		<tag k="name" v="Roma Street busway"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="2152884711" lat="-27.484459" lon="153.028302" version="2">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_MATER"/>
-		<tag k="name" v="Mater Hill"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="281873426" lat="-27.486045" lon="153.034863" version="6">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_WGbw"/>
-		<tag k="name" v="Woolloongabba"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="2152876409" lat="-27.564136" lon="153.081529" version="3">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_UMG"/>
-		<tag k="name" v="Upper Mount Gravatt"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
-	<node id="2152876989" lat="-27.528541" lon="153.057393" version="3">
-		<tag k="note" v="Please add gtfs_id and operator after removing FIXME"/>
-		<tag k="FIXME" v="This bus stop could be redundant"/>
-		<tag k="amenity" v="bus_station"/>
-		<tag k="gtfs_id" v="place_HPW"/>
-		<tag k="name" v="Holland Park West"/>
-		<tag k="public_transport" v="station"/>
-		<tag k="gtfs_location_type" v="1"/>
-		<tag k="network" v="Translink SEQ"/>
-	</node>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='21477658' visible='true' version='10' lat='-27.476096' lon='152.996979'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_aucsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Auchenflower' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='26337486' visible='true' version='9' lat='-27.429279' lon='153.040364'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_albsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Albion' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='26343508' visible='true' version='6' lat='-27.429431' lon='153.063375'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_ascsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Ascot' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='60410704' visible='true' version='10' lat='-27.423252' lon='153.000832'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_aldsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Alderley' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='72627546' visible='true' version='16' lat='-27.311302' lon='152.989788'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_strsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Strathpine' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='175268419' visible='true' version='4' lat='-27.546644' lon='153.064468'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_GUbw' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Griffith University busway' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='256002251' visible='true' version='5' lat='-27.465895' lon='153.018763'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_RStbw' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Roma Street busway' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='262334903' visible='true' version='6' lat='-27.498132' lon='153.011103'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_INTUQ' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='UQ Chancellors&apos;s Place' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='281873426' visible='true' version='6' lat='-27.486045' lon='153.034863'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_WGbw' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Woolloongabba' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='281875914' visible='true' version='3' lat='-27.6149' lon='153.124956'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_sprbst' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Springwood' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='281878655' visible='true' version='2' lat='-27.660642' lon='153.173647'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='created_by' v='Potlatch 0.10' />
+    <tag k='gtfs_id' v='place_loghyp' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Loganholme' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='761956852' visible='true' version='4' lat='-27.2990956' lon='152.9859624'>
+    <tag k='gtfs_id' v='place_brasta' />
+    <tag k='name' v='Bray Park' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='source' v='http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data' />
+  </node>
+  <node id='1228883803' visible='true' version='3' lat='-27.446927' lon='153.029209'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_RBWH' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='RBW Hospital' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='1378705701' visible='true' version='4' lat='-27.631721' lon='153.097852'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_trista' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Trinder Park' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='1583468246' visible='true' version='3' lat='-27.4751' lon='153.018441'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_sousta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='South Brisbane' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='1586521123' visible='true' version='3' lat='-26.398941' lon='153.092698'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_NSJNC' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Noosa Junction' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='two platform bus station.  buses both ways stop on the southern side of david low way' />
+    <tag k='public_transport' v='station' />
+    <tag k='source' v='survey' />
+  </node>
+  <node id='1651132628' visible='true' version='4' lat='-27.497149' lon='153.039383'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='bus' v='yes' />
+    <tag k='gtfs_id' v='place_burand' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Buranda busway' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='1727256242' visible='true' version='4' lat='-27.595629' lon='152.947533'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_RCHSTN' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Richlands' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='platforms' v='2' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='1750634838' visible='true' version='2' lat='-27.496804' lon='153.034021'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_PAH' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='PA Hospital busway' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='1764783031' visible='true' version='3' lat='-27.609435' lon='152.789786'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_bvlsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Booval' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+  </node>
+  <node id='1875325765' visible='true' version='2' lat='-27.582684' lon='153.063576'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_altsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Altandi' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='source' v='bing' />
+  </node>
+  <node id='1875325767' visible='true' version='2' lat='-26.959892' lon='152.958917'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_bbrsta' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Beerburrum' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='source' v='bing' />
+  </node>
+  <node id='1875506687' visible='true' version='2' lat='-27.321935' lon='153.068764'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='gtfs_id' v='place_SANSTA' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Sandgate' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='operator' v='QueenslandRail - City network' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='source' v='bing' />
+  </node>
+  <node id='2152876409' visible='true' version='3' lat='-27.564136' lon='153.081529'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_UMG' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Upper Mount Gravatt' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='2152876989' visible='true' version='3' lat='-27.528541' lon='153.057393'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_HPW' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Holland Park West' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='2152882618' visible='true' version='2' lat='-27.493988' lon='153.030399'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_boggo' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Boggo Road busway' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='2152884711' visible='true' version='2' lat='-27.484459' lon='153.028302'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_MATER' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='Mater Hill' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='2152885957' visible='true' version='2' lat='-27.480867' lon='153.022019'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_SBbw' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='South Bank busway' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
+  <node id='2446894007' action='modify' visible='true' version='2' lat='-27.23798' lon='153.017475'>
+    <tag k='FIXME' v='This bus stop could be redundant' />
+    <tag k='amenity' v='bus_station' />
+    <tag k='gtfs_id' v='place_NLKSTA' />
+    <tag k='gtfs_location_type' v='1' />
+    <tag k='name' v='North Lakes' />
+    <tag k='network' v='Translink SEQ' />
+    <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
+    <tag k='public_transport' v='station' />
+  </node>
 </osm>

@@ -2,7 +2,7 @@
 <create>
 </create>
 <modify>
-<node changeset='DUMMY' id='1583468246' lat='-27.4751' lon='153.018441' version='3'>
+<node id='1583468246' lat='-27.4751' lon='153.018441' version='3'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_sousta' />
@@ -13,7 +13,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='21477658' lat='-27.476096' lon='152.996979' version='10'>
+<node id='21477658' lat='-27.476096' lon='152.996979' version='10'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_aucsta' />
@@ -24,7 +24,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1727256242' lat='-27.595629' lon='152.947533' version='4'>
+<node id='1727256242' lat='-27.595629' lon='152.947533' version='4'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_RCHSTN' />
@@ -36,7 +36,7 @@
 <tag k='network' v='Translink SEQ' />
 <tag k='platforms' v='2' />
 </node>
-<node changeset='DUMMY' id='1228883803' lat='-27.446927' lon='153.029209' version='3'>
+<node id='1228883803' lat='-27.446927' lon='153.029209' version='3'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -46,7 +46,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='761956852' lat='-27.2990956' lon='152.9859624' version='4'>
+<node id='761956852' lat='-27.2990956' lon='152.9859624' version='4'>
 <tag k='gtfs_id' v='place_brasta' />
 <tag k='name' v='Bray Park' />
 <tag k='source' v='http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data' />
@@ -55,7 +55,7 @@
 <tag k='operator' v='QueenslandRail - City network' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='72627546' lat='-27.311302' lon='152.989788' version='16'>
+<node id='72627546' lat='-27.311302' lon='152.989788' version='16'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_strsta' />
@@ -66,7 +66,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1378705701' lat='-27.631721' lon='153.097852' version='4'>
+<node id='1378705701' lat='-27.631721' lon='153.097852' version='4'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_trista' />
@@ -77,7 +77,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1764783031' lat='-27.609435' lon='152.789786' version='3'>
+<node id='1764783031' lat='-27.609435' lon='152.789786' version='3'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_bvlsta' />
@@ -88,7 +88,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='281878655' lat='-27.660642' lon='153.173647' version='2'>
+<node id='281878655' lat='-27.660642' lon='153.173647' version='2'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='amenity' v='bus_station' />
@@ -99,7 +99,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='2446894007' lat='-27.23798' lon='153.017475' version='2'>
+<node id='2446894007' lat='-27.23798' lon='153.017475' version='2'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='gtfs_id' v='place_NLKSTA' />
@@ -108,7 +108,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='26337486' lat='-27.429279' lon='153.040364' version='9'>
+<node id='26337486' lat='-27.429279' lon='153.040364' version='9'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_albsta' />
@@ -119,7 +119,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1651132628' lat='-27.497149' lon='153.039383' version='4'>
+<node id='1651132628' lat='-27.497149' lon='153.039383' version='4'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='bus' v='yes' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
@@ -130,7 +130,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='281875914' lat='-27.6149' lon='153.124956' version='3'>
+<node id='281875914' lat='-27.6149' lon='153.124956' version='3'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -141,7 +141,7 @@
 <tag k='network' v='Translink SEQ' />
 </node>
 
-<node changeset='DUMMY' id='2152885957' lat='-27.480867' lon='153.022019' version='2'>
+<node id='2152885957' lat='-27.480867' lon='153.022019' version='2'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -152,7 +152,7 @@
 <tag k='network' v='Translink SEQ' />
 </node>
 
-<node changeset='DUMMY' id='262334903' lat='-27.498132' lon='153.011103' version='6'>
+<node id='262334903' lat='-27.498132' lon='153.011103' version='6'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -162,7 +162,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1875325767' lat='-26.959892' lon='152.958917' version='2'>
+<node id='1875325767' lat='-26.959892' lon='152.958917' version='2'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_bbrsta' />
@@ -174,7 +174,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1875506687' lat='-27.321935' lon='153.068764' version='2'>
+<node id='1875506687' lat='-27.321935' lon='153.068764' version='2'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_SANSTA' />
@@ -186,7 +186,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1875325765' lat='-27.582684' lon='153.063576' version='2'>
+<node id='1875325765' lat='-27.582684' lon='153.063576' version='2'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_altsta' />
@@ -198,7 +198,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1750634838' lat='-27.496804' lon='153.034021' version='2'>
+<node id='1750634838' lat='-27.496804' lon='153.034021' version='2'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -208,7 +208,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='1586521123' lat='-26.398941' lon='153.092698' version='3'>
+<node id='1586521123' lat='-26.398941' lon='153.092698' version='3'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='two platform bus station.  buses both ways stop on the southern side of david low way' />
 <tag k='amenity' v='bus_station' />
@@ -219,7 +219,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='60410704' lat='-27.423252' lon='153.000832' version='10'>
+<node id='60410704' lat='-27.423252' lon='153.000832' version='10'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_aldsta' />
@@ -230,7 +230,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='2152882618' lat='-27.493988' lon='153.030399' version='2'>
+<node id='2152882618' lat='-27.493988' lon='153.030399' version='2'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -240,7 +240,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='26343508' lat='-27.429431' lon='153.063375' version='6'>
+<node id='26343508' lat='-27.429431' lon='153.063375' version='6'>
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='gtfs_id' v='place_ascsta' />
@@ -251,7 +251,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='175268419' lat='-27.546644' lon='153.064468' version='4'>
+<node id='175268419' lat='-27.546644' lon='153.064468' version='4'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -261,7 +261,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='256002251' lat='-27.465895' lon='153.018763' version='5'>
+<node id='256002251' lat='-27.465895' lon='153.018763' version='5'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -271,7 +271,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='2152884711' lat='-27.484459' lon='153.028302' version='2'>
+<node id='2152884711' lat='-27.484459' lon='153.028302' version='2'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -281,7 +281,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='281873426' lat='-27.486045' lon='153.034863' version='6'>
+<node id='281873426' lat='-27.486045' lon='153.034863' version='6'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -291,7 +291,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='2152876409' lat='-27.564136' lon='153.081529' version='3'>
+<node id='2152876409' lat='-27.564136' lon='153.081529' version='3'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
@@ -301,7 +301,7 @@
 <tag k='gtfs_location_type' v='1' />
 <tag k='network' v='Translink SEQ' />
 </node>
-<node changeset='DUMMY' id='2152876989' lat='-27.528541' lon='153.057393' version='3'>
+<node id='2152876989' lat='-27.528541' lon='153.057393' version='3'>
 <tag k='note' v='Please add gtfs_id and operator after removing FIXME' />
 <tag k='FIXME' v='This bus stop could be redundant' />
 <tag k='amenity' v='bus_station' />
