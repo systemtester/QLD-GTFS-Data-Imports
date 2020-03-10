@@ -1,0 +1,1050 @@
+<osmChange version='0.6' generator=''>
+<create>
+<node   id='-1' lat=' -20.284208' lon=' 148.763940'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710029' />
+<tag k='gtfs_id' v='710029' />
+<tag k='name' v='Shute Harbour Rd at Conway Picnic' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710029/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-2' lat=' -20.278977' lon=' 148.754561'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710028' />
+<tag k='gtfs_id' v='710028' />
+<tag k='name' v='Shute Harbour Rd at Air Whitsunday Road' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710028/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-3' lat=' -20.286031' lon=' 148.771122'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710030' />
+<tag k='gtfs_id' v='710030' />
+<tag k='name' v='Shute Harbour Rd at Conway NP' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710030/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-4' lat=' -20.281451' lon=' 148.734638'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710023' />
+<tag k='gtfs_id' v='710023' />
+<tag k='name' v='Shute Harbour Rd at Island Rd Island Traders' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710023/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-5' lat=' -20.290373' lon=' 148.784164'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710032' />
+<tag k='gtfs_id' v='710032' />
+<tag k='name' v='Shute Harbour Dr near Whitsunday Dr (Hail n Ride)' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710032/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-6' lat=' -20.333816' lon=' 148.648977'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710075' />
+<tag k='gtfs_id' v='710075' />
+<tag k='name' v='Shute Harbour Rd at Brandy Creek Road' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='4' />
+<tag k='url' v='http://translink.com.au/stop/710075/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-7' lat=' -20.289901' lon=' 148.781082'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710031' />
+<tag k='gtfs_id' v='710031' />
+<tag k='name' v='Shute Harbour Rd (Hail n Ride)' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710031/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-8' lat=' -20.271605' lon=' 148.749750'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710026' />
+<tag k='gtfs_id' v='710026' />
+<tag k='name' v='Shute Harbour Rd near Jasinique Dr' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710026/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-9' lat=' -20.283479' lon=' 148.741917'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710025' />
+<tag k='gtfs_id' v='710025' />
+<tag k='name' v='Shute Harbour Rd at Mandalay Road' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710025/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='-10' lat=' -20.374329' lon=' 148.621317'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710079' />
+<tag k='gtfs_id' v='710079' />
+<tag k='name' v='Camm Rd near Shute Harbour Rd (Hail n Ride)' />
+<tag k='public_transport' v='platform' />
+<tag k='transport:zone' v='5' />
+<tag k='url' v='http://translink.com.au/stop/710079/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+</create>
+<modify>
+<node   id='2593772728' lat='-20.4004970' lon='148.5815890' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710070' />
+<tag k='gtfs_id' v='710070' />
+<tag k='name' v='Mill St at Proserpine' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='6' />
+<tag k='url' v='http://translink.com.au/stop/710070/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772677' lat='-20.3438188' lon='148.6324619' version='5'>
+<tag k='bus' v='yes' />
+<tag k='fixme' v='This is gtfs sourced but does not match the GPS trace data in this area. Please resurvey.' />
+<tag k='gtfs_stop_code' v='710074' />
+<tag k='gtfs_id' v='710074' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='url' v='http://translink.com.au/stop/710074/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='network' v='Whitsunday Transit' />
+<tag k='name' v='Shute Harbour Rd at Plemenuk Road' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='4' />
+<tag k='route_ref' v='1' />
+</node>
+<node   id='2593772365' lat='-20.3824230' lon='148.6100160' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710073' />
+<tag k='gtfs_id' v='710073' />
+<tag k='name' v='Shute Harbour Rd at Braemar Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='5' />
+<tag k='url' v='http://translink.com.au/stop/710073/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772710' lat='-20.3794610' lon='148.5970000' version='4'>
+<tag k='bus' v='yes' />
+<tag k='fixme' v='This is gtfs sourced but does not match the GPS trace data in this area. Please resurvey.' />
+<tag k='gtfs_stop_code' v='710072' />
+<tag k='gtfs_id' v='710072' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='url' v='http://translink.com.au/stop/710072/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='network' v='Whitsunday Transit' />
+<tag k='name' v='Shute Harbour Rd at Tyree Road' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='6' />
+<tag k='route_ref' v='1' />
+</node>
+<node   id='2435173614' lat='-20.3994200' lon='148.5850830' version='4'>
+<tag k='bus' v='yes' />
+<tag k='shop' v='supermarket' />
+<tag k='gtfs_stop_code' v='710071' />
+<tag k='gtfs_id' v='710071' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='url' v='http://translink.com.au/stop/710071/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='network' v='Whitsunday Transit' />
+<tag k='name' v='Taylor St near Herbert St (Hail n Ride)' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='6' />
+<tag k='route_ref' v='1' />
+</node>
+<node   id='2593772627' lat='-20.2911530' lon='148.7826840' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710034' />
+<tag k='gtfs_id' v='710034' />
+<tag k='name' v='Shute Harbour Rd near Whitsunday Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710034/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772596' lat='-20.3082160' lon='148.6599880' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710077' />
+<tag k='gtfs_id' v='710077' />
+<tag k='name' v='Shute Harbour Rd near Riordanvale Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710077/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772686' lat='-20.2929860' lon='148.7856750' version='3'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710033' />
+<tag k='gtfs_id' v='710033' />
+<tag k='name' v='Shute Harbour' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710033/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772430' lat='-20.3225560' lon='148.6530460' version='4'>
+<tag k='bus' v='yes' />
+<tag k='fixme' v='This is gtfs sourced but does not match the GPS trace data in this area. Please resurvey.' />
+<tag k='gtfs_stop_code' v='710076' />
+<tag k='gtfs_id' v='710076' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='url' v='http://translink.com.au/stop/710076/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='network' v='Whitsunday Transit' />
+<tag k='name' v='Shute Harbour Rd near Greg Cannon Valley Rd (HnR)' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='4' />
+<tag k='route_ref' v='1' />
+</node>
+<node   id='2593772661' lat='-20.2760770' lon='148.7523960' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710038' />
+<tag k='gtfs_id' v='710038' />
+<tag k='name' v='Shute Harbour Rd at Flametree' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710038/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772653' lat='-20.2790740' lon='148.7545170' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710037' />
+<tag k='gtfs_id' v='710037' />
+<tag k='name' v='Shute Harbour Rd at Air Whitsunday Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710037/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772646' lat='-20.2841190' lon='148.7629240' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710036' />
+<tag k='gtfs_id' v='710036' />
+<tag k='name' v='Shute Harbour Rd at Conway Picnic' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710036/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772640' lat='-20.2862870' lon='148.7708890' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710035' />
+<tag k='gtfs_id' v='710035' />
+<tag k='name' v='Shute Harbour Rd at Conway NP' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710035/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772736' lat='-20.2677960' lon='148.7165070' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710018' />
+<tag k='gtfs_id' v='710018' />
+<tag k='name' v='Shute Harbour Rd at Airlie Beach Central' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710018/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772399' lat='-20.2641560' lon='148.7160950' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710017' />
+<tag k='gtfs_id' v='710017' />
+<tag k='name' v='Broadwater Ave near Hill Crest Ave (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710017/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772409' lat='-20.3745630' lon='148.6212770' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710063' />
+<tag k='gtfs_id' v='710063' />
+<tag k='name' v='Camm Rd near Usher Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='5' />
+<tag k='url' v='http://translink.com.au/stop/710063/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772448' lat='-20.3447263' lon='148.6302641' version='5'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710062' />
+<tag k='gtfs_id' v='710062' />
+<tag k='name' v='Jansen Rd near Jansen Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='4' />
+<tag k='url' v='http://translink.com.au/stop/710062/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772590' lat='-20.3451560' lon='148.6410980' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710060' />
+<tag k='gtfs_id' v='710060' />
+<tag k='name' v='Shute Harbour Rd at Rifle Range Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='4' />
+<tag k='url' v='http://translink.com.au/stop/710060/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772473' lat='-20.2810520' lon='148.7309720' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710022' />
+<tag k='gtfs_id' v='710022' />
+<tag k='name' v='Shute Harbour Rd at Loop Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710022/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772354' lat='-20.4016360' lon='148.5868070' version='5'>
+<tag k='bus' v='yes' />
+<tag k='shelter' v='yes' />
+<tag k='gtfs_stop_code' v='710066' />
+<tag k='gtfs_id' v='710066' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='url' v='http://translink.com.au/stop/710066/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='network' v='Whitsunday Transit' />
+<tag k='name' v='Blair Street at Main St' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='6' />
+<tag k='route_ref' v='1' />
+<tag k='departures_board' v='no' />
+</node>
+<node   id='2593772572' lat='-20.2776620' lon='148.7267300' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710021' />
+<tag k='gtfs_id' v='710021' />
+<tag k='name' v='Shute Harbour Rd at Plantation Drive' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710021/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772721' lat='-20.3796840' lon='148.5970460' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710065' />
+<tag k='gtfs_id' v='710065' />
+<tag k='name' v='Shute Harbour Rd near Tyree Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='6' />
+<tag k='url' v='http://translink.com.au/stop/710065/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772433' lat='-20.2744264' lon='148.7243461' version='4'>
+<tag k='bus' v='yes' />
+<tag k='fixme' v='This is gtfs sourced but does not match the GPS trace data in this area. Please resurvey (Moved from gtfs position using Bing imagery)' />
+<tag k='gtfs_stop_code' v='710020' />
+<tag k='gtfs_id' v='710020' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='url' v='http://translink.com.au/stop/710020/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='network' v='Whitsunday Transit' />
+<tag k='name' v='Shute Harbour Rd near Port Dr (Hail n Ride)' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='route_ref' v='1' />
+</node>
+<node   id='2593772374' lat='-20.3825860' lon='148.6103360' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710064' />
+<tag k='gtfs_id' v='710064' />
+<tag k='name' v='Shute Harbour Rd near Braemar Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='5' />
+<tag k='url' v='http://translink.com.au/stop/710064/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772634' lat='-20.2766170' lon='148.7528840' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710027' />
+<tag k='gtfs_id' v='710027' />
+<tag k='name' v='Shute Harbour Rd at Flametree' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710027/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772424' lat='-20.2833080' lon='148.7387540' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710024' />
+<tag k='gtfs_id' v='710024' />
+<tag k='name' v='Shute Harbour Rd at Ferntree Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710024/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772440' lat='-20.2786770' lon='148.7003780' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710009' />
+<tag k='gtfs_id' v='710009' />
+<tag k='name' v='Eshelby Dr near Eshelby Dr (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710009/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772744' lat='-20.2781010' lon='148.6997530' version='3'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710008' />
+<tag k='gtfs_id' v='710008' />
+<tag k='name' v='Whitsunday Shopping Centre' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710008/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772558' lat='-20.2769790' lon='148.6942750' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710007' />
+<tag k='gtfs_id' v='710007' />
+<tag k='name' v='Shute Harbour Rd at Pandanus Drive' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710007/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772500' lat='-20.2808650' lon='148.6902620' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710006' />
+<tag k='gtfs_id' v='710006' />
+<tag k='name' v='Shute Harbour Rd at Manooka Drive' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710006/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772750' lat='-20.2849070' lon='148.6849522' version='5'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710052' />
+<tag k='gtfs_id' v='710052' />
+<tag k='name' v='Shute Harbour Rd at Willis Court' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710052/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772534' lat='-20.2812210' lon='148.6903380' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710051' />
+<tag k='gtfs_id' v='710051' />
+<tag k='name' v='Shute Harbour Rd at Manooka Drive' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710051/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772565' lat='-20.2771470' lon='148.6948700' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710050' />
+<tag k='gtfs_id' v='710050' />
+<tag k='name' v='Shute Harbour Rd at Stewart Drive' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710050/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772338' lat='-20.2698660' lon='148.7212970' version='3'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710094' />
+<tag k='gtfs_id' v='710094' />
+<tag k='name' v='Coconut Grove at Airlie Esplanade' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710094/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772415' lat='-20.2699530' lon='148.7213940' version='2'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710093' />
+<tag k='gtfs_id' v='710093' />
+<tag k='name' v='Coconut Grove at Airlie Esplanade' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710093/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772694' lat='-20.3041170' lon='148.6651460' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710056' />
+<tag k='gtfs_id' v='710056' />
+<tag k='name' v='Shute Harbour Rd near Stanley Dr (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710056/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772551' lat='-20.3014090' lon='148.6684110' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710055' />
+<tag k='gtfs_id' v='710055' />
+<tag k='name' v='Shute Harbour Rd near Orchid Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710055/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772669' lat='-20.2994380' lon='148.6698000' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710054' />
+<tag k='gtfs_id' v='710054' />
+<tag k='name' v='Shute Harbour Rd near Orchid Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710054/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772747' lat='-20.2860580' lon='148.6816860' version='5'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710053' />
+<tag k='gtfs_id' v='710053' />
+<tag k='name' v='Shute Harbor Rd nr William Murray Dr (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710053/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772328' lat='-20.2669960' lon='148.7115630' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710016' />
+<tag k='gtfs_id' v='710016' />
+<tag k='name' v='Shingley Dr near Shute Harbour Rd' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710016/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772382' lat='-20.3338410' lon='148.6491090' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710059' />
+<tag k='gtfs_id' v='710059' />
+<tag k='name' v='Shute Harbour Rd at Brandy Creek Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='4' />
+<tag k='url' v='http://translink.com.au/stop/710059/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772602' lat='-20.3232420' lon='148.6530910' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710058' />
+<tag k='gtfs_id' v='710058' />
+<tag k='name' v='Shute Harbour Rd near Greg Cannon Valley Rd (HnR)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='4' />
+<tag k='url' v='http://translink.com.au/stop/710058/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772346' lat='-20.2732300' lon='148.7043760' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710014' />
+<tag k='gtfs_id' v='710014' />
+<tag k='name' v='Shute Harbour Rd at Altmann Avenue' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710014/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772465' lat='-20.3082620' lon='148.6601410' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710057' />
+<tag k='gtfs_id' v='710057' />
+<tag k='name' v='Shute Harbour Rd near Kookaburra Dr (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710057/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772621' lat='-20.2738950' lon='148.7033080' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710013' />
+<tag k='gtfs_id' v='710013' />
+<tag k='name' v='Shute Harbour Rd near Altmann Ave (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710013/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772456' lat='-20.2714560' lon='148.7491610' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710039' />
+<tag k='gtfs_id' v='710039' />
+<tag k='name' v='Shute Harbour Rd near Jasinique Dr (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710039/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772584' lat='-20.3448700' lon='148.6408690' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710080' />
+<tag k='gtfs_id' v='710080' />
+<tag k='name' v='Shute Harbour Rd near Rifle Range Rd (Hail n Ride)' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='4' />
+<tag k='url' v='http://translink.com.au/stop/710080/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772427' lat='-20.2834420' lon='148.7381290' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710041' />
+<tag k='gtfs_id' v='710041' />
+<tag k='name' v='Shute Harbour Rd at Ferntree Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710041/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772491' lat='-20.2836210' lon='148.7418980' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710040' />
+<tag k='gtfs_id' v='710040' />
+<tag k='name' v='Shute Harbour Rd at Mandalay Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710040/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772436' lat='-20.2752510' lon='148.7245180' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710045' />
+<tag k='gtfs_id' v='710045' />
+<tag k='name' v='Shute Harbour Rd at Hermitage Dr' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710045/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='4756198050' lat='-20.2991240' lon='148.6698630' version='1'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710001' />
+<tag k='gtfs_id' v='710001' />
+<tag k='name' v='Shute Harbour Rd near Orchid Rd (Hail n Ride)' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710001/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772578' lat='-20.2778850' lon='148.7267460' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710044' />
+<tag k='gtfs_id' v='710044' />
+<tag k='name' v='Shute Harbour Rd at Plantation Drive' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710044/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2533114004' lat='-20.3015690' lon='148.6681370' version='5'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710000' />
+<tag k='gtfs_id' v='710000' />
+<tag k='name' v='Shute Harbour Rd at Orchid Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710000/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772483' lat='-20.2811320' lon='148.7304840' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710043' />
+<tag k='gtfs_id' v='710043' />
+<tag k='name' v='Shute Harbour Rd at Loop Road' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710043/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772412' lat='-20.2819670' lon='148.7354740' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710042' />
+<tag k='gtfs_id' v='710042' />
+<tag k='name' v='Shute Harbour Rd at Cedar Crescent' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='2' />
+<tag k='url' v='http://translink.com.au/stop/710042/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2536347880' lat='-20.2845040' lon='148.6853030' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710005' />
+<tag k='gtfs_id' v='710005' />
+<tag k='name' v='Shute Harbour Rd at Macarthur Dr' />
+<tag k='source' v='http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710005/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772615' lat='-20.2738800' lon='148.7035680' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710048' />
+<tag k='gtfs_id' v='710048' />
+<tag k='name' v='Shute Harbour Rd at Saint Martins Lane' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710048/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2536347883' lat='-20.2858390' lon='148.6819000' version='5'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710004' />
+<tag k='gtfs_id' v='710004' />
+<tag k='name' v='Shute Harbour Rd at William Murray Drive' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710004/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2593772740' lat='-20.2679560' lon='148.7164460' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710047' />
+<tag k='gtfs_id' v='710047' />
+<tag k='name' v='Shute Harbour Rd near Broadwater Avenue' />
+<tag k='source' v='http://data.qld.gov.au' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='1' />
+<tag k='url' v='http://translink.com.au/stop/710047/gtfs/' />
+<tag k='operator' v='Whitsunday Transit' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2536347882' lat='-20.2872100' lon='148.6788790' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710003' />
+<tag k='gtfs_id' v='710003' />
+<tag k='name' v='Shute Harbour Rd at Adv Whitsunday' />
+<tag k='source' v='http://translink.com.au/about-translink/reporting-and-publications/public-transport-performance-data' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710003/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<node   id='2536347878' lat='-20.2892020' lon='148.6748660' version='4'>
+<tag k='bus' v='yes' />
+<tag k='gtfs_stop_code' v='710002' />
+<tag k='gtfs_id' v='710002' />
+<tag k='name' v='Paluma Rd at Whitsunday Plaza' />
+<tag k='public_transport' v='platform' />
+<tag k='highway' v='bus_stop' />
+<tag k='transport:zone' v='3' />
+<tag k='url' v='http://translink.com.au/stop/710002/gtfs/' />
+<tag k='route_ref' v='1' />
+<tag k='network' v='Whitsunday Transit' />
+</node>
+<relation   id='4676366' version='6'>
+<member type='node' ref='2593772409' role='stop' />
+<member type='node' ref='2593772736' role='stop' />
+<member type='node' ref='2077328575' role='stop' />
+<member type='node' ref='2593772346' role='stop' />
+<member type='node' ref='2593772744' role='stop' />
+<member type='node' ref='2593772558' role='stop' />
+<member type='node' ref='2593772621' role='stop' />
+<member type='node' ref='2536347883' role='stop' />
+<member type='node' ref='2593772427' role='stop' />
+<member type='node' ref='2593772590' role='stop' />
+<member type='node' ref='2593772710' role='stop' />
+<member type='node' ref='2593772338' role='stop' />
+<member type='node' ref='4756198050' role='stop' />
+<member type='node' ref='2593772436' role='stop' />
+<member type='node' ref='2435173614' role='stop' />
+<member type='node' ref='2593772750' role='stop' />
+<member type='node' ref='2593772728' role='stop' />
+<member type='node' ref='2593772399' role='stop' />
+<member type='node' ref='2593772661' role='stop' />
+<member type='node' ref='2593772440' role='stop' />
+<member type='node' ref='2593772415' role='stop' />
+<member type='node' ref='2536347880' role='stop' />
+<member type='node' ref='2593772483' role='stop' />
+<member type='node' ref='2593772653' role='stop' />
+<member type='node' ref='2533114004' role='stop' />
+<member type='node' ref='2593772500' role='stop' />
+<member type='node' ref='2593772433' role='stop' />
+<member type='node' ref='2593772747' role='stop' />
+<member type='node' ref='2536347878' role='stop' />
+<member type='node' ref='2593772721' role='stop' />
+<member type='node' ref='2536347882' role='stop' />
+<member type='node' ref='2593772354' role='stop' />
+<member type='node' ref='2593772456' role='stop' />
+<member type='node' ref='2593772448' role='stop' />
+<member type='node' ref='2593772634' role='stop' />
+<member type='node' ref='2593772677' role='stop' />
+<member type='node' ref='2593772608' role='stop' />
+<member type='node' ref='2593772465' role='stop' />
+<member type='node' ref='3401108833' role='stop' />
+<member type='node' ref='2593772740' role='stop' />
+<member type='node' ref='2593772374' role='stop' />
+<member type='node' ref='2593772686' role='stop' />
+<member type='node' ref='2593772669' role='stop' />
+<member type='node' ref='2593772640' role='stop' />
+<member type='node' ref='2593772551' role='stop' />
+<member type='node' ref='2593772365' role='stop' />
+<member type='node' ref='2593772382' role='stop' />
+<member type='node' ref='3401108834' role='stop' />
+<member type='node' ref='2593772572' role='stop' />
+<member type='node' ref='2593772534' role='stop' />
+<member type='node' ref='2593772424' role='stop' />
+<member type='node' ref='2593772491' role='stop' />
+<member type='node' ref='2593772627' role='stop' />
+<member type='node' ref='2593772578' role='stop' />
+<member type='node' ref='2593772584' role='stop' />
+<member type='node' ref='2593772565' role='stop' />
+<member type='node' ref='2593772694' role='stop' />
+<member type='node' ref='2593772615' role='stop' />
+<member type='node' ref='2593772430' role='stop' />
+<member type='node' ref='2593772602' role='stop' />
+<member type='node' ref='2593772412' role='stop' />
+<member type='node' ref='2593772328' role='stop' />
+<member type='node' ref='2593772646' role='stop' />
+<member type='node' ref='2593772473' role='stop' />
+<member type='node' ref='3401108832' role='stop' />
+<member type='node' ref='2593772596' role='stop' />
+<tag k='source' v='GO_Sync' />
+<tag k='type' v='route' />
+<tag k='network' v='Whitsunday Transit' />
+<tag k='colour' v='#71BF5B' />
+<tag k='ref' v='1' />
+<tag k='route' v='bus' />
+<tag k='public_transport:version' v='2' />
+<tag k='name' v='Proserpine - Canonvale - Airle Beach - Shute Harb' />
+<tag k='gtfs_route_id' v='1-1137' />
+</relation>
+</modify>
+<delete>
+</delete>
+</osmChange>
